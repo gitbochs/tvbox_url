@@ -1,0 +1,13 @@
+{
+"站名": "达达龟搜索",
+"作者": "tengxin",
+"分类url": "http://www.dadagui.me/vodtype/{area}/by/{by}/id/{cateId}/lang/{lang}/page/{catePg}.html[http://www.dadagui.me//vodtype/{cateId}.html]",
+
+
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4",
+
+
+"简介":"特别提醒:请勿相信影片中的广告，以免上当受骗！+</span>&&</span>",
+"排序": "时间$time#人气$hits#评分$score",
+"主页url": "http://www.dadagui.me/"
+}

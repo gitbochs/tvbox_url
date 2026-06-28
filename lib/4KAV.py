@@ -69,7 +69,7 @@ class Spider(Spider):
             'vod_year': v('#MainContent_videodetail.videodetail a').text(),
             'vod_remarks': v('#MainContent_titleh12 h2').text(),
             'vod_content': v('p.cnline').text(),
-            'vod_play_from': '4KAV',
+            'vod_play_from': '4KHDR',
             'vod_play_url': ''
         }
         vlist = data('#rtlist li')

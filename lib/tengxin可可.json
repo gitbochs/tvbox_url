@@ -1,0 +1,18 @@
+ {
+ "站名": "可可影视",
+        "请求头": "User-Agent$MOBILE_UA",
+        "简介": "class=\"detail-desc\">&&</p>",
+        "导演": "导演:&&",
+        "演员": "演员:</div>&&</div>[替换:/>>空#更新>>更新]",
+        "分类url": "https://www.keke2.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html",
+        "分类": "电影$1#连续剧$2#动漫$3#综艺纪录$4#短剧$6",
+        "主页url": "https://www.keke2.app",
+        "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
+        "剧情": "[替换:伦理>>NETFLIX]",
+  "线路数组": "source-item\">&&</a>[排序:蓝光>超清]",
+        "线路标题": "+>&&</i>",
+  
+        "图片": "data-original=\"&&\"[替换:/vod1>>https://vres.miximixi.me/vod1]",
+        "搜索url": "https://www.keke2.app/search?k={wd}"
+      }
+   
