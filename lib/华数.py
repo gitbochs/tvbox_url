@@ -113,9 +113,7 @@ class Spider(Spider):
                                       {"key": "年代",
                                       "name": "年代",
                                       "value": [{"n": "全部", "v": ""},
-                                      
-     {"n": "2026", "v": "2026"},                                            
-     {"n": "2025", "v": "2025"},
+                                                {"n": "2025", "v": "2025"},
                                                 {"n": "2024", "v": "2024"},
                                                 {"n": "2023", "v": "2023"},
                                                 {"n": "2022", "v": "2022"},
@@ -145,11 +143,12 @@ class Spider(Spider):
                                       "value": [{"n": "全部", "v": ""},
                                                 {"n": "都市", "v": "都市"},
                                                 {"n": "爱情", "v": "爱情"},
-                            
-    {"n": "短剧", "v": "短剧"},                                                               {"n": "战争", "v": "战争"},
+                                                {"n": "战争", "v": "战争"},
                                                 {"n": "家庭", "v": "家庭"},
                                                 {"n": "悬疑", "v": "悬疑"},
-                                                {"n": "古装", "v": "古装"},                                                                 {"n": "谍战", "v": "谍战"},
+                                                {"n": "古装", "v": "古装"},
+                                                {"n": "短剧", "v": "短剧"},
+                                                {"n": "谍战", "v": "谍战"},
                                                 {"n": "喜剧", "v": "喜剧"},
                                                 {"n": "农村", "v": "农村"},
                                                 {"n": "刑侦", "v": "刑侦"},
@@ -158,9 +157,7 @@ class Spider(Spider):
                                       {"key": "年代",
                                       "name": "年代",
                                       "value": [{"n": "全部", "v": ""},
-                                      
-      {"n": "2026", "v": "2026"},      
-                                                                                         {"n": "2025", "v": "2025"},
+                                                {"n": "2025", "v": "2025"},
                                                 {"n": "2024", "v": "2024"},
                                                 {"n": "2023", "v": "2023"},
                                                 {"n": "2022", "v": "2022"},
@@ -210,9 +207,7 @@ class Spider(Spider):
                                       {"key": "年代",
                                       "name": "年代",
                                       "value": [{"n": "全部", "v": ""},
-                                      
-      {"n": "2026", "v": "2026"},                                                  
-      {"n": "2025", "v": "2025"},
+                                                {"n": "2025", "v": "2025"},
                                                 {"n": "2024", "v": "2024"},
                                                 {"n": "2023", "v": "2023"},
                                                 {"n": "2022", "v": "2022"},
@@ -249,8 +244,7 @@ class Spider(Spider):
                                       {"key": "年代",
                                       "name": "年代",
                                       "value": [{"n": "全部", "v": ""},
-      {"n": "2026", "v": "2026"},                                                  
-      {"n": "2025", "v": "2025"},
+                                                {"n": "2025", "v": "2025"},
                                                 {"n": "2024", "v": "2024"},
                                                 {"n": "2023", "v": "2023"},
                                                 {"n": "2022", "v": "2022"},
@@ -416,7 +410,7 @@ class Spider(Spider):
         return detail.json()
 
     def build_content(self, data):
-        return '介绍剧情👉' + data.get('data', {}).get('newsAbstract', '')
+        return '介绍剧情📢' + data.get('data', {}).get('newsAbstract', '')
 
     def extract_detail_field(self, data, field_name):
         return data.get('data', {}).get(field_name, '')
@@ -433,7 +427,7 @@ class Spider(Spider):
         return bofang[:-1]
 
     def build_video_data(self, did, director, actor, remarks, year, area, content, bofang):
-        return {"vod_id": did, "vod_director": director, "vod_actor": actor, "vod_remarks": remarks, "vod_year": year, "vod_area": area, "vod_content": content, "vod_play_from": "华数", "vod_play_url": bofang}
+        return {"vod_id": did, "vod_director": director, "vod_actor": actor, "vod_remarks": remarks, "vod_year": year, "vod_area": area, "vod_content": content, "vod_play_from": "华数专线", "vod_play_url": bofang}
 
     def build_result(self, videos):
         result = {}

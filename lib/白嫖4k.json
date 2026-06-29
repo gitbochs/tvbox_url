@@ -1,0 +1,19 @@
+{
+    "请求头": "User-Agent$Mozilla/5.0 (Linux; Android 13; M2102J2SC Build/TKQ1.221114.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/148.0.7778.28 Mobile Safari/537.36#referer$https://zzoc.cc",
+    "图片代理": "1",
+    "编码": "UTF-8",
+    "数组": "p:.myui-vodbox-content",
+    "标题": "alt=\"&&\"",
+    "副标题": "score\">&&<",
+    "链接": "p:a->href",
+    "线路数组": "p:.nav-btn a",
+    "线路标题": "p:a->text[含序号:2]",
+    "播放数组": "p:.tab-content",
+    "播放列表": "p:a",
+    "播放标题": "p:a->text",
+    "播放链接": "p:a->href",
+    "分类url": "https://zzoc.cc/vodshow/{cateId}--------{catePg}---.html",
+    "分类id": "https://zzoc.cc/vodtype/&&.html",
+    "搜索模式": "1",
+    "搜索url": "https://zzoc.cc/vodsearch/{wd}----------{pg}---.html"
+}

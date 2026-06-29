@@ -83,13 +83,13 @@ let guid = info[0].replaceAll('https://api.cntv.cn/lanmu/', '');
             type_name: info[2],
             vod_year: info[2],
             vod_area: info[1],
-            vod_remarks: 'ƪ(˘⌣˘)ʃ天微',
-            vod_director: 'ƪ(˘⌣˘)ʃ天微',
-            vod_actor: 'ƪ(˘⌣˘)ʃ天微',
+            vod_remarks: 'ƪ(˘⌣˘)ʃ优雅',
+            vod_director: 'ƪ(˘⌣˘)ʃ优雅',
+            vod_actor: 'ƪ(˘⌣˘)ʃ优雅',
             vod_content: info[7],
         vod_play_from: '央视频',
         //https://hls.cntv.myalicdn.com//asp/hls/2000/0303000a/3/default/https://api.cntv.cn/lanmu/1a01871d6d5f4d4bbe82b9c62650f100/2000.m3u8
-        vod_play_url: '立即播放$https://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/' + guid + '/850.m3u8'
+        vod_play_url: '立即播放$https://cntv.playdreamer.cn/proxy/asp/hls/2000/0303000a/3/default/' + guid + '/2000.m3u8'
     };
 
 }),

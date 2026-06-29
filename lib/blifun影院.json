@@ -9,7 +9,7 @@
     "主页url": "http://bilfun.cc",
     "首页": "120",
     "起始页": "1",
-    "分类url": "http://bilfun.cc/bilfunshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;mrcd",
+    "分类url": "http://bilfun.cc/bilfunshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;mrc",
     "分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$22",
     "二次截取": "",
     "数组": "<a&&</div></div></a>",
