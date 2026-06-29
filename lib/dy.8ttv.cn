@@ -1,0 +1,2045 @@
+<!DOCTYPE html>
+		<html lang="zh-CN">
+		<head>
+		    <meta charset="UTF-8">
+<meta name="renderer" content="webkit">
+<meta name="force-rendering" content="webkit">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!-- // pwa -->
+<link rel="manifest" href="/mxtheme/pwa/manifest.json">
+<script>var maccms={"path":"","mid":"","url":"dy.8ttv.cn","wapurl":"dy.8ttv.cn","mob_status":"0"};</script>
+<link rel="shortcut icon" href="https://img.alicdn.com/imgextra/i1/2726769932/O1CN01A1HKRN2NEuVquuaM9_!!2726769932.png">
+<link rel="stylesheet" href="/mxtheme/css/style.css" type="text/css">
+<link id="cssFile" rel="stylesheet" href="/mxtheme/css/white.css" type="text/css">
+
+ <script>
+    function getCookieItem(name){
+        var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+        if(arr != null){ return decodeURIComponent(arr[2]); return null; }
+    }
+    let cookieItem = getCookieItem('mx_style')
+    if(cookieItem && cookieItem !=='white') {
+        document.querySelector('#cssFile').href = '/mxtheme/css/'+getCookieItem('mx_style')+'.css'
+    }
+</script>
+<!-- // pwa -->
+<script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/mxtheme/pwa/service-worker.js')
+          .then(registration => {
+            console.log('Service Worker registered:', registration);
+          })
+          .catch(error => {
+            console.log('Service Worker registration failed:', error);
+          });
+      });
+    }
+</script>
+<link rel="stylesheet" href="/mxtheme/css/swiper-bundle.min.css" type="text/css">
+<script src="/mxtheme/js/jquery.min.js"></script>
+<script src="/mxtheme/js/home.js"></script>
+<script src="/mxtheme/js/jquery.lazyload.js"></script>
+<script src="/static/js/jquery.cookie.js"></script>
+<script src="/static/js/jquery.clipboard.js"></script>	
+<script type="text/javascript"  src="/mxtheme/js/jquery.qrcode.min.js"></script>
+<script src="/mxtheme/js/script.js"></script>	
+<script src="/mxtheme/js/swiper-bundle.min.js"></script>	
+<script src="/mxtheme/js/layer.min.js"></script>
+<link rel="stylesheet" href="/mxtheme/js/theme/default/layer.css" type="text/css">
+<style></style>
+<script>
+$(function(){
+$('#searchbutton').click(function() {
+if ($('.search-input').val()  == '') { layer.msg('请输入搜索关键词！',{time:1000,shade: 0.8}); $(".search-input").focus(); return false; }
+})
+});
+</script>
+<style>
+ @media (max-width: 559px){
+ .homepage .navbar {width: calc(100vw - 91px);}    
+ .navbar.open, .page .navbar {width: calc(100vw - 135px);}
+.side-op{ width:130px;}
+.homepage .side-op.open .header-op-search{display:block;}}
+</style>
+ 
+
+			<title>八天电影网-在线电影-最新电影-免费电影-电影在线观看-好看电视剧大全-电影排行榜-打造最新免费高清影院</title>
+            <meta name="keywords" content="今日影视,免费电影,美国大片,日韩各种大片,今日影院,在线播放,最新电影,最新影视,最新影院,免费在线观看电影,免费小电影 笑视频,视频分享,免费视频,在线视频,预告片" />
+            <meta name="description" content="八天电影网每天搜集互联网最新电影和电视剧，为广大用户免费提供无广告在线观看电影和电视剧服务，及时收录最新、最热、最全的电影大片,高清正版免费看。 " />
+		</head>
+		<body>
+				<div class="homepage">
+                	                	<div class="header">
+						<div class="header-box">
+							<div class="logo ">
+								<a href="/" title="八天电影网-在线电影-最新电影-免费电影-电影在线观看-好看电视剧大全-电影排行榜-打造最新免费高清影院"><img class="logo2"  src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01Xug6ix2NEuldYu5yl_!!2726769932.png" alt="八天电影网-在线电影-最新电影-免费电影-电影在线观看-好看电视剧大全-电影排行榜-打造最新免费高清影院" >
+								<img class="logo1" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01Xug6ix2NEuldYu5yl_!!2726769932.png" /></a>
+							</div>
+						
+							<div class="search-box ">
+								<div class="searchbar-main">
+						        <form name="search" method="get" action="/index.php/vod/search.html" onSubmit="return qrsearch();">
+									<div class="searchbar">
+									   <input class="search-input"  type="text" name="wd" autocomplete="off" placeholder="搜索电影、电视剧、综艺、动漫">
+							        <button class="search-btn search-go" id="searchbutton" type="submit"><i class="icon-search"></i></button>
+									  <button class="cancel-btn" type="button">取消</button></div>
+									<div class="search-recommend-box">
+										<div class="search-recommend">
+											<div class="search-recommend-title"><strong>大家都在搜</strong></div>
+											<div class="search-tag">
+																	                    <a href="/index.php/vod/search/wd/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A.html" class="hot "><i class="icon-hot"></i>变形金刚</a>
+						                    						                    <a href="/index.php/vod/search/wd/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85.html" class="hot "><i class="icon-hot"></i>火影忍者</a>
+						                    						                    <a href="/index.php/vod/search/wd/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F.html" class="hot "><i class="icon-hot"></i>复仇者联盟</a>
+						                    						                    <a href="/index.php/vod/search/wd/%E6%88%98%E7%8B%BC.html" class="hot "><i class="icon-hot"></i>战狼</a>
+						                    						                    <a href="/index.php/vod/search/wd/%E7%BA%A2%E6%B5%B7%E8%A1%8C%E5%8A%A8.html" class=""><i class="icon-hot"></i>红海行动</a>
+						                    											</div>
+										</div>
+									</div>
+								</form>
+								</div>
+							</div>
+							
+							<div class="header-op">
+								<div class="header-op-list">
+									<div class="drop">
+										<div class="header-op-list-btn header-op-history"><i class="icon icon-history-o"></i><span>观看记录</span></div>
+										<div class="drop-content drop-history">
+											<div class="drop-content-box">
+												<ul class="drop-content-items historical">
+													<li class="drop-item drop-item-title"><i class="icon icon-history"></i><strong>我的观影记录</strong></li>
+												</ul>
+											</div>
+										</div>
+										<div class="shortcuts-mobile-overlay"></div>
+									</div>
+																		<div class="mac_user header-op-user"  title="会员中心">登录</div>
+																		<div class="header-op-list-btn header-op-search"><i class="icon icon-search"></i></div>
+								</div>
+							</div>
+						</div>
+					</div>
+						
+						<div class="sidebar">
+						<div class="navbar ">
+							<ul class="navbar-items swiper-wrapper">
+								<li class="swiper-slide navbar-item active">
+									<a href="/" class="links">
+										<div class="current"></div><i class="icon-arrow-go"></i><i class="icon icon-home-o"></i><span>首页</span></a>
+								</li>
+							<li class="navbar-hr"></li>
+																<li class="swiper-slide navbar-item ">
+									<a href="/index.php/vod/type/id/1.html" title="电影" class="links">
+									    									<i class="icon-arrow-go"></i>
+																	   <i class="icon-dy-o"></i>
+								   								<span>电影</span></a>
+								</li>
+																<li class="swiper-slide navbar-item ">
+									<a href="/index.php/vod/type/id/2.html" title="电视剧" class="links">
+									    									<i class="icon-arrow-go"></i>
+									                                <i class="icon-tv-o"></i>
+                                								<span>电视剧</span></a>
+								</li>
+																<li class="swiper-slide navbar-item ">
+									<a href="/index.php/vod/type/id/3.html" title="综艺" class="links">
+									    									<i class="icon-arrow-go"></i>
+									                                <i class="icon-zy-o"></i>
+                                								<span>综艺</span></a>
+								</li>
+																<li class="swiper-slide navbar-item ">
+									<a href="/index.php/vod/type/id/4.html" title="动漫" class="links">
+									    									<i class="icon-arrow-go"></i>
+									                                <i class="icon-dm-o"></i>
+                                 								<span>动漫</span></a>
+								</li>
+																<li class="swiper-slide navbar-item ">
+									<a href="/index.php/vod/type/id/5.html" title="短剧" class="links">
+									    									<i class="icon-arrow-go"></i>
+									                                <i class="icon-tv"></i>
+                                 								<span>短剧</span></a>
+								</li>
+																<li class="swiper-slide navbar-item ">
+									<a href="/index.php/vod/type/id/20.html" title="纪录片" class="links">
+									    									<i class="icon-arrow-go"></i>
+									                                <i class="icon-jl"></i>
+                                 								<span>纪录片</span></a>
+								</li>
+																<li class="navbar-hr"></li>
+																<li class="swiper-slide navbar-item  ">
+									<a href="/index.php/label/new.html" class="links">
+									      									<i class="icon-arrow-go"></i><i class="icon icon-update-o"></i><span>今日更新</span><small>0</small></a>
+								</li>
+																<li class="swiper-slide navbar-item  ">
+									<a href="/index.php/label/hot.html" class="links">
+									    	      									<i class="icon-arrow-go"></i><i class="icon icon-ranking-o"></i><span>热榜</span></a>
+								</li>
+																<li class="swiper-slide navbar-item ">
+									<a href="/index.php/label/down.html" class="links" 	target="_blank">
+									<i class="icon-arrow-go"></i><i class="icon icon-phone-o"></i><span>APP</span></a>
+								</li>
+																<li class="swiper-slide navbar-item">
+									<a href="https://tao.8ttv.cn" class="links" target="_blank" title="优惠券">
+									<i class="icon-arrow-go"></i><i class="icon icon-hot "></i><span>优惠券</span></a>
+								</li>
+																<li class="swiper-slide navbar-item">
+									<a href="https://link3.cc/272401263" class="links" target="_blank" title="永久回家地址">
+									<i class="icon-arrow-go"></i><i class="icon icon-hot "></i><span>永久回家地址</span></a>
+								</li>
+															</ul>
+						</div>
+						<div class="side-op">
+							<div class="header-op-list">
+									<div class="drop">
+										<div class="header-op-list-btn header-op-history"><i class="icon icon-history-o"></i><span>观看记录</span></div>
+										<div class="drop-content drop-history">
+											<div class="drop-content-box">
+												<ul class="drop-content-items historical">
+													<li class="drop-item drop-item-title"><i class="icon icon-history"></i><strong>我的观影记录</strong></li>
+												</ul>
+											</div>
+										</div>
+										<div class="shortcuts-mobile-overlay"></div>
+									</div>
+								<div class="header-op-list-btn header-op-search"><i class="icon icon-search"></i></div>
+									                                	<div class="member_group">
+									<div class="mac_user"><img  src="/static/images/touxiang.png" class="useimg"></div>
+									</div>
+																</div>
+						</div>
+					</div>
+					                    <script>
+	            $(document).scroll(function() {
+		        var H = $(document).scrollTop();
+		            if(H > 20) {
+		          $(".sidebar").addClass("sidebar-bg");
+	        	} else {
+		        $(".sidebar").removeClass("sidebar-bg");
+		        }
+			    if(H > 140) {
+		        $(".navbar").addClass("open");
+		    	$(".side-op").addClass("open");
+		        } else {
+		           $(".navbar").removeClass("open");
+		  	     $(".side-op").removeClass("open");
+	            	}
+	            });
+                    </script>
+                                         <style>.homepage .side-op .header-op-search{display:none;}</style>
+                                          <style>
+             @media (max-width: 559px){.homepage .header{}.homepage .sidebar{}}</style>
+                                        	
+					<div class="main">
+						<div class="content">
+						         <div class="container-slide">
+    <div class="swiper swiper-big">
+            <div class="swiper-wrapper">
+                                  <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/16407.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/09/23/mzc00200sfgec7p.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>封门村惊魂</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>正片</p>
+                            <p>  封门村惊魂</p>
+                        </div>
+                    </div>
+                </div>
+                  	                <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/8963.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/10/09/mzc00200etzfunn.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>东极岛</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>正片</p>
+                            <p>  二战期间，中国舟山附近海域，一艘载满英军战俘的日本货轮被击沉，上千名英军战俘被日军封锁于船舱内。绝境之时，东极岛上的一群渔民毅然前来。他们凭借骨子里的善良、野性与血性，在惊涛骇浪中，为落难的战俘打开一条生路。
+　　取材自中国渔民营救英军战俘的真实事件。</p>
+                        </div>
+                    </div>
+                </div>
+                  	                <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/6613.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/10/09/mzc00200n8pyxae.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>摸金玦之天星陵</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>正片</p>
+                            <p>  该影片根据天下霸唱原著改编，讲述了胡八一为寻找祖辈的遗骨，与好友王胖子、大金牙等人共赴大仙山，沿途险象环生，遇千年凶墓、四鬼驮棺等诡谲奇事，机关陷阱更是步步夺命，但三人凭借经验与默契闯过难关，最终瓦解背后阴谋的故事。</p>
+                        </div>
+                    </div>
+                </div>
+                  	                <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/335.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/10/09/mzc00200hacbjao.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>宴遇永安</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>第32集完结</p>
+                            <p>  该剧讲述了在机缘巧合之下，沈韶光（王影璐饰）一家人意外来到永安城偶遇京兆少尹林晏（李昀锐饰），并展开了一场有关美食、市井民俗和另类爱情之旅的奇趣故事。改编自樱桃糕原著小说《长安小饭馆》。</p>
+                        </div>
+                    </div>
+                </div>
+                  	                <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/3116.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/09/28/mzc00200f19q8q5.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>许我耀眼</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>第32集完结</p>
+                            <p>  当红主播许妍和都市精英沈皓明是一对人人艳羡的夫妻，看似十分般配的两人，由于出生环境的差异，始终难以融入对方的圈层。许妍靠着光鲜的主持人身份和“精心装点”的身世顺利和沈皓明步入婚姻，而这一切尽在沈皓明的掌握下。冲突来临，许妍脱离沈皓明的掌控一去不回头。沈皓明却发现自己早已陷入爱情，想要全力追回许妍。经历种种，两人终于撕掉外表的伪装，重新靠近，会见彼此的内在，也重新认识自己。</p>
+                        </div>
+                    </div>
+                </div>
+                  	                <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/18831.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/09/23/mzc0020010cn1vt.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>大突围</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>正片</p>
+                            <p>  抗大一分校的17岁新学员苏凡，千里迢迢从福建龙岩来到沂蒙山腹地的学校驻地报到。报到的第二天就遭遇了日本军数万人的“铁壁合围”大扫荡突袭，通过突围战斗的洗礼，苏凡成长为一名真正的战士。</p>
+                        </div>
+                    </div>
+                </div>
+                  	                <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/8975.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/09/28/mzc00200i7484eg.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>围猎</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>第24集完结</p>
+                            <p>  围猎</p>
+                        </div>
+                    </div>
+                </div>
+                  	                <div class="swiper-slide">
+                    <a href="/index.php/vod/detail/id/2126.html" class="banner" style="background: url(https://cdn.bbj.icu/bbjposter/2025/09/28/mzc002004l7dytn.jpg)center no-repeat;background-size: cover;">
+                    </a>
+                    <div class="mobile-v-info">
+                        <div class="v-title">
+                            <span>喜人奇妙夜2</span>
+                        </div>
+                        <div class="v-ins">
+                            <p>喜人聚会特辑</p>
+                            <p>  喜人奇妙夜2</p>
+                        </div>
+                    </div>
+                </div>
+                  		
+            </div>
+        </div>
+        <div class="sm-swiper">
+            <div class="swiper swiper-small">
+                <div class="swiper-wrapper">
+                                          <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/16407.html">
+                                    <img src="https://images.67c6c7a.com/upload/vod/2025-09/p2923285088.jpg" alt="封门村惊魂">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/16407.html">封门村惊魂</a></div>
+                            <div class="ins">
+                                <p>正片</p>
+                                <p class="ins">  封门村惊魂</p>
+                            </div>
+                    </div>
+                    	                    <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/8963.html">
+                                    <img src="https://pic8.iqiyipic.com/image/20251013/e4/24/v_115482501_m_601_m5_260_360.jpg" alt="东极岛">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/8963.html">东极岛</a></div>
+                            <div class="ins">
+                                <p>正片</p>
+                                <p class="ins">  二战期间，中国舟山附近海域，一艘载满英军战俘的日本货轮被击沉，上千名英军战俘被日军封锁于船舱内。绝境之时，东极岛上的一群渔民毅然前来。他们凭借骨子里的善良、野性与血性，在惊涛骇浪中，为落难的战俘打开一条生路。
+　　取材自中国渔民营救英军战俘的真实事件。</p>
+                            </div>
+                    </div>
+                    	                    <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/6613.html">
+                                    <img src="https://pic3.iqiyipic.com/image/20251014/e1/1d/v_187843074_m_601_m4_260_360.jpg" alt="摸金玦之天星陵">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/6613.html">摸金玦之天星陵</a></div>
+                            <div class="ins">
+                                <p>正片</p>
+                                <p class="ins">  该影片根据天下霸唱原著改编，讲述了胡八一为寻找祖辈的遗骨，与好友王胖子、大金牙等人共赴大仙山，沿途险象环生，遇千年凶墓、四鬼驮棺等诡谲奇事，机关陷阱更是步步夺命，但三人凭借经验与默契闯过难关，最终瓦解背后阴谋的故事。</p>
+                            </div>
+                    </div>
+                    	                    <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/335.html">
+                                    <img src="https://mzzyjpg.com/upload/vod/20251009-1/2dea6a8d70c71fb269afa181e3576366.jpg" alt="宴遇永安">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/335.html">宴遇永安</a></div>
+                            <div class="ins">
+                                <p>第32集完结</p>
+                                <p class="ins">  该剧讲述了在机缘巧合之下，沈韶光（王影璐饰）一家人意外来到永安城偶遇京兆少尹林晏（李昀锐饰），并展开了一场有关美食、市井民俗和另类爱情之旅的奇趣故事。改编自樱桃糕原著小说《长安小饭馆》。</p>
+                            </div>
+                    </div>
+                    	                    <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/3116.html">
+                                    <img src="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200f19q8q51726740653099/0" alt="许我耀眼">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/3116.html">许我耀眼</a></div>
+                            <div class="ins">
+                                <p>第32集完结</p>
+                                <p class="ins">  当红主播许妍和都市精英沈皓明是一对人人艳羡的夫妻，看似十分般配的两人，由于出生环境的差异，始终难以融入对方的圈层。许妍靠着光鲜的主持人身份和“精心装点”的身世顺利和沈皓明步入婚姻，而这一切尽在沈皓明的掌握下。冲突来临，许妍脱离沈皓明的掌控一去不回头。沈皓明却发现自己早已陷入爱情，想要全力追回许妍。经历种种，两人终于撕掉外表的伪装，重新靠近，会见彼此的内在，也重新认识自己。</p>
+                            </div>
+                    </div>
+                    	                    <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/18831.html">
+                                    <img src="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc0020010cn1vt1758181895607/0" alt="大突围">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/18831.html">大突围</a></div>
+                            <div class="ins">
+                                <p>正片</p>
+                                <p class="ins">  抗大一分校的17岁新学员苏凡，千里迢迢从福建龙岩来到沂蒙山腹地的学校驻地报到。报到的第二天就遭遇了日本军数万人的“铁壁合围”大扫荡突袭，通过突围战斗的洗礼，苏凡成长为一名真正的战士。</p>
+                            </div>
+                    </div>
+                    	                    <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/8975.html">
+                                    <img src="https://images.67c6c7a.com/upload/vod/2025-09/p2900739400.jpg" alt="围猎">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/8975.html">围猎</a></div>
+                            <div class="ins">
+                                <p>第24集完结</p>
+                                <p class="ins">  围猎</p>
+                            </div>
+                    </div>
+                    	                    <div class="swiper-slide">
+                                                     <div class="pic">
+                                <a href="/index.php/vod/detail/id/2126.html">
+                                    <img src="https://images.67c6c7a.com/upload/vod/2025-09/202509191758267860.jpg" alt="喜人奇妙夜2">
+                                </a>
+                            </div>
+                                                        <div class="title"><a href="/index.php/vod/detail/id/2126.html">喜人奇妙夜2</a></div>
+                            <div class="ins">
+                                <p>喜人聚会特辑</p>
+                                <p class="ins">  喜人奇妙夜2</p>
+                            </div>
+                    </div>
+                    	                </div>
+            </div>
+                        <div class="swiper-button-prev"><svg rseat="712211_banner_left" width="20" height="20"
+                    xmlns="http://www.w3.org/2000/svg" class="qy20-h-carousel__arrow left" data-v-1ea95016="">
+                    <path
+                        d="M10 0c5.523 0 10 4.477 10 10s-4.477 10-10 10S0 15.523 0 10 4.477 0 10 0zm2.439 4.95a1.429 1.429 0 00-2.02 0L5.367 10l5.05 5.05.125.112c.56.444 1.378.407 1.896-.111l.11-.125a1.429 1.429 0 00-.11-1.896L9.409 10l3.03-3.03.11-.125a1.429 1.429 0 00-.11-1.896z" fill="#FFF" fill-rule="evenodd" data-v-1ea95016=""></path>
+                </svg></div>
+            <div class="swiper-button-next"><svg rseat="712211_banner_right" width="20" height="20"
+                    xmlns="http://www.w3.org/2000/svg" class="qy20-h-carousel__arrow right" data-v-1ea95016="">
+                    <path
+                        d="M10 0C4.477 0 0 4.477 0 10s4.477 10 10 10 10-4.477 10-10S15.523 0 10 0zM7.561 4.95a1.429 1.429 0 012.02 0L14.633 10l-5.05 5.05-.125.112a1.429 1.429 0 01-1.896-.111l-.11-.125a1.429 1.429 0 01.11-1.896l3.03-3.03-3.03-3.03-.11-.125a1.429 1.429 0 01.11-1.896z"  fill="#FFF" fill-rule="evenodd" data-v-1ea95016=""></path>
+                </svg></div>
+                        
+            <div class="swiper-pagination"></div>
+        </div>
+
+            </div>	 
+ <div class="module-adslist module-wrapper ads_w">
+<a target="_blank" href="https://tao.8ttv.cn"><img src="https://img.alicdn.com/imgextra/i2/2726769932/O1CN01ZXxHeq2NEuWmO1OtW_!!2726769932.gif" alt="优惠券" width="100%"><i class="gg-icon"></i></a>
+<a target="_blank" href="http://hk.53hk.cn/index?k=d1NySFloOTUxQ0k9"><img src="https://img.alicdn.com/imgextra/i2/2726769932/O1CN01lTvRv82NEufp8o80x_!!2726769932.png" alt="流量卡" width="100%"><i class="gg-icon"></i></a>
+</div><div class="module">
+	<div class="module-heading">
+	    <i class="icon-hot" style="color:#FF0000"></i>
+		<h2 class="module-title">正在热映</h2></div>
+	<div class="module-main scroll-box">
+		<div class="module-items module-poster-items-base">
+						<a href="/index.php/vod/detail/id/91.html" title="入青云" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第36集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mzzyjpg.com/upload/vod/20251008-1/4e5855dc8232b3af296f45aff1ca9a8c.jpg" alt="入青云"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">入青云</div>
+	</div>
+</a>
+						<a href="/index.php/vod/detail/id/98805.html" title="暗河传" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第38集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mzzyjpg.com/upload/vod/20251020-1/794a50ca509dbf7bc73cdfc995315f7b.jpg" alt="暗河传"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">暗河传</div>
+	</div>
+</a>
+						<a href="/index.php/vod/detail/id/5742.html" title="师兄啊师兄" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第123集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://m.ykimg.com/0584000068E1C12F42AF3311771A3514" alt="师兄啊师兄"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">师兄啊师兄</div>
+	</div>
+</a>
+						<a href="/index.php/vod/detail/id/1328.html" title="炼气十万年" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第310集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.picbf.com/upload/vod/20230424-21/d5cadd7d60f9e539cf8110fda3e4a1d1.jpg" alt="炼气十万年"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">炼气十万年</div>
+	</div>
+</a>
+					</div>
+	</div>
+</div>	
+							<div class="module">
+								<div class="module-heading">
+									<h2 class="module-title"><a href="/index.php/vod/type/id/1.html">电影<span class="module-title-en">dianying</span></a></h2>
+									 									 <div class="module-tab-items">
+									   <div class="module-tab-title">选择类型<span class="close-drop"><i class="icon-close"></i></span></div>
+									   <a class="module-heading-more" href="/index.php/vod/type/id/1.html">更多<i class="icon-arrow-right"></i></a>
+									   </div>
+									 									<div class="shortcuts-mobile-overlay"></div>
+								</div>
+								<div class="module-main tab-list  active">
+									<div class="module-items  module-poster-items-base ">
+									    										<a href="/index.php/vod/detail/id/41855.html" title="志愿军:存亡之战" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://m.ykimg.com/05840000675A96CF6BE218124D2389D5" alt="志愿军:存亡之战"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">志愿军:存亡之战</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/95962.html" title="三天" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-8/832fc7848098c8081e00ac202259cca4.jpg" alt="三天"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">三天</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/95964.html" title="玛丽亚:卡拉斯" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-8/f7481cf25c9edd2010b687577eefd56e.jpg" alt="玛丽亚:卡拉斯"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">玛丽亚:卡拉斯</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/90911.html" title="恶棍父亲" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/2cf2b6389045e38e90c961c7ceedf8bf.jpg" alt="恶棍父亲"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">恶棍父亲</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/23560.html" title="随身危机" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-8/c1de26a807cb4bb64beebb19c8233c61.jpg" alt="随身危机"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">随身危机</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41873.html" title="市井英雄" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200a2vfxm71733112122752/0" alt="市井英雄"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">市井英雄</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115825.html" title="Margheritadellestelle" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/ac86c1ea0e3d2a15df92b8cbf66ec2b9.jpg" alt="Margheritadellestelle"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">Margheritadellestelle</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115824.html" title="哀悼岩" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/d1b769aeddff7949bb28ce194c1c6840.jpg" alt="哀悼岩"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">哀悼岩</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96003.html" title="李佩西与五大王国的守护者" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="http://tyyswimg.com/upload/vod/20241228-2/08aee69fbad9100353cc29c55f9a8661.jpg" alt="李佩西与五大王国的守护者"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">李佩西与五大王国的守护者</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96009.html" title="水中血3" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/3f3690670166f777126f1aa952f6fddd.jpg" alt="水中血3"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">水中血3</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96008.html" title="灾难级假期" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/ad5278f1e8a1d32ff7e598a4c212dacd.jpg" alt="灾难级假期"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">灾难级假期</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/44196.html" title="风流一代" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://pic1.iqiyipic.com/image/20241213/21/76/v_176667829_m_601_m4_260_360.jpg" alt="风流一代"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">风流一代</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/23559.html" title="猎人克莱文" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://pic1.iqiyipic.com/image/20250423/86/7c/v_179695403_m_601_m1_260_360.jpg" alt="猎人克莱文"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">猎人克莱文</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96011.html" title="世界奇妙物语第二季024冬季特别版" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/9fbd1a18c8aa592adfd01292978b270b.jpg" alt="世界奇妙物语第二季024冬季特别版"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">世界奇妙物语第二季024冬季特别版</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96004.html" title="像这样的小事" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/11fc099610bc55ff3eade9ecefe18b20.jpg" alt="像这样的小事"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">像这样的小事</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/42054.html" title="孤勇毒战" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://pic1.iqiyipic.com/image/20241216/c0/70/v_179115103_m_601_m2_260_360.jpg" alt="孤勇毒战"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">孤勇毒战</div>
+	</div>
+</a>
+										 									</div>
+								</div>
+																</div>
+				        	
+							<div class="module">
+								<div class="module-heading">
+									<h2 class="module-title"><a href="/index.php/vod/type/id/2.html">电视剧<span class="module-title-en">dianshiju</span></a></h2>
+									 									 <div class="module-tab-items">
+									   <div class="module-tab-title">选择类型<span class="close-drop"><i class="icon-close"></i></span></div>
+									   <a class="module-heading-more" href="/index.php/vod/type/id/2.html">更多<i class="icon-arrow-right"></i></a>
+									   </div>
+									 									<div class="shortcuts-mobile-overlay"></div>
+								</div>
+								<div class="module-main tab-list  active">
+									<div class="module-items  module-poster-items-base ">
+									    										<a href="/index.php/vod/detail/id/15056.html" title="好事多磨" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第8集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-12/202412121733995720.jpg" alt="好事多磨"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">好事多磨</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/116007.html" title="FaceMe" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第12集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/33276c240aed5a905efbe8ee9c822ecc.jpg" alt="FaceMe"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">FaceMe</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/97330.html" title="漂浮于太空的教室" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第10集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-10/p2912803993.jpg" alt="漂浮于太空的教室"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">漂浮于太空的教室</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/55676.html" title="逃离火山岛" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第4集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-12/202412121734000784.jpg" alt="逃离火山岛"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">逃离火山岛</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/50962.html" title="范:德:沃克第四季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第03集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-12/202412121734009009.jpg" alt="范:德:沃克第四季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">范:德:沃克第四季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115972.html" title="设得兰谜案第九季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第06集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/8e01892c39a2fd497b300b83fd4ff22e.jpg" alt="设得兰谜案第九季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">设得兰谜案第九季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/48351.html" title="豺狼的日子" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第10集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-11/202411081731059526.jpg" alt="豺狼的日子"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">豺狼的日子</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/61858.html" title="带刀侍卫苏小黎" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第24集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-12/202412041733286021.jpg" alt="带刀侍卫苏小黎"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">带刀侍卫苏小黎</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/55590.html" title="追凶1992" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第6集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-12/202412131734088022.jpg" alt="追凶1992"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">追凶1992</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/44808.html" title="我是刑警" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第38集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-11/202411271732711318.jpg" alt="我是刑警"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">我是刑警</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115893.html" title="高杉家的爱心便当" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第10集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/df5847bbd4774d41dccb72752905511f.jpg" alt="高杉家的爱心便当"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">高杉家的爱心便当</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115826.html" title="班迪舒班迪斯第二季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第8集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/5abfc587f633422a2762d2ba7a88d9ce.jpg" alt="班迪舒班迪斯第二季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">班迪舒班迪斯第二季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115823.html" title="怪人录像带" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第06集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/055f96e5a38d4a5d1108709a77c80a55.jpg" alt="怪人录像带"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">怪人录像带</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115790.html" title="年下男友2" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第10集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/2803163d27ac58633fb69d37bff948de.jpg" alt="年下男友2"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">年下男友2</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/68555.html" title="如意" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第20集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-12/202412111733889089.jpg" alt="如意"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">如意</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/68552.html" title="我和我爸的18岁" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第24集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-12/202412031733199300.jpg" alt="我和我爸的18岁"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">我和我爸的18岁</div>
+	</div>
+</a>
+										 									</div>
+								</div>
+																</div>
+				        	
+							<div class="module">
+								<div class="module-heading">
+									<h2 class="module-title"><a href="/index.php/vod/type/id/3.html">综艺<span class="module-title-en">zongyi</span></a></h2>
+									 									 <div class="module-tab-items">
+									   <div class="module-tab-title">选择类型<span class="close-drop"><i class="icon-close"></i></span></div>
+									   <a class="module-heading-more" href="/index.php/vod/type/id/3.html">更多<i class="icon-arrow-right"></i></a>
+									   </div>
+									 									<div class="shortcuts-mobile-overlay"></div>
+								</div>
+								<div class="module-main tab-list  active">
+									<div class="module-items  module-poster-items-base ">
+									    										<a href="/index.php/vod/detail/id/116038.html" title="RapPublic" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第12期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/ed06dbfa853191d161b5d4ff5ade9840.jpg" alt="RapPublic"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">RapPublic</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/66027.html" title="粉雄救兵第八季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第6集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250108-58/4bf61f4929bd73224ee012475074a53b.jpg" alt="粉雄救兵第八季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">粉雄救兵第八季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115583.html" title="胶个朋友" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第6期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/04a5485da1d6ad12fd8d7e78307e8c1c.jpg" alt="胶个朋友"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">胶个朋友</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115407.html" title="钢铁部队W" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第12期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/c0e3cd6db1359ed02c1726421bb7325d.jpg" alt="钢铁部队W"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">钢铁部队W</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115377.html" title="走到要去的地方" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第08期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/f64e114897684724e794c0462b92bdcb.jpg" alt="走到要去的地方"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">走到要去的地方</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115305.html" title="爱情盲选:阿根廷篇" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第11集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/3bc9582aaf34b77ef03a33424e29497a.jpg" alt="爱情盲选:阿根廷篇"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">爱情盲选:阿根廷篇</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115304.html" title="金鸡啼晓" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第6期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/ac8aa7998e431838bf8940b6bc99ff16.jpg" alt="金鸡啼晓"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">金鸡啼晓</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115229.html" title="原子少年第二季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第15期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/081b9d0fe5c806746fd4324e33081218.jpg" alt="原子少年第二季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">原子少年第二季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/99567.html" title="吾湖音乐局" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第9期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://vip.dytt-img.com/upload/vod/20251024-1/25c7bc5830c862e91978c11417cf17fe.jpg" alt="吾湖音乐局"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">吾湖音乐局</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114908.html" title="年KBS演艺大赏" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第2期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/7d52d4f3668befe29d2c13e9d683e26c.jpg" alt="年KBS演艺大赏"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">年KBS演艺大赏</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/111178.html" title="SBS演技大赏" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第3期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/954599b8e9b0c7ddacd9f8c9f3f05c76.jpg" alt="SBS演技大赏"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">SBS演技大赏</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114906.html" title="第二届借口Go颁奖典礼" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/9c110fa312e5223724a41c1dc4fabcb4.jpg" alt="第二届借口Go颁奖典礼"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">第二届借口Go颁奖典礼</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114878.html" title="哈利:波特:烘焙奇才" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第6集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/10f05df65909273d0d9c276a46e96f27.jpg" alt="哈利:波特:烘焙奇才"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">哈利:波特:烘焙奇才</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114718.html" title="真爱不说谎波兰篇第二季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第8集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/70aec12ce81b24f5aac7e260582a969b.jpg" alt="真爱不说谎波兰篇第二季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">真爱不说谎波兰篇第二季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114683.html" title="真爱不说谎南非篇" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第8集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/15fec8cc407cfa321a7d12ceace60001.jpg" alt="真爱不说谎南非篇"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">真爱不说谎南非篇</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114527.html" title="跟着大明寻味" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第3期</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/f306d07d1d0022e299c953a089f94d6b.jpg" alt="跟着大明寻味"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">跟着大明寻味</div>
+	</div>
+</a>
+										 									</div>
+								</div>
+																</div>
+				        	
+							<div class="module">
+								<div class="module-heading">
+									<h2 class="module-title"><a href="/index.php/vod/type/id/4.html">动漫<span class="module-title-en">dongman</span></a></h2>
+									 									 <div class="module-tab-items">
+									   <div class="module-tab-title">选择类型<span class="close-drop"><i class="icon-close"></i></span></div>
+									   <a class="module-heading-more" href="/index.php/vod/type/id/4.html">更多<i class="icon-arrow-right"></i></a>
+									   </div>
+									 									<div class="shortcuts-mobile-overlay"></div>
+								</div>
+								<div class="module-main tab-list  active">
+									<div class="module-items  module-poster-items-base ">
+									    										<a href="/index.php/vod/detail/id/116036.html" title="梦境制片厂粤语" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第4集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/a7e8524987a816af44f00f447106f4bd.jpg" alt="梦境制片厂粤语"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">梦境制片厂粤语</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/116035.html" title="梦境制片厂英语版" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第4集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/99aea6c4c9bfae6f8d23be51128f8d3c.jpg" alt="梦境制片厂英语版"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">梦境制片厂英语版</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/116034.html" title="梦境制片厂版" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第4集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/f2a4cabb3e3f0986764a72e55c53e8cb.jpg" alt="梦境制片厂版"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">梦境制片厂版</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/116006.html" title="我天命大反派第二季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第40集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/91ab82a786bdbccd20aa63772937bfc0.jpg" alt="我天命大反派第二季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">我天命大反派第二季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/116005.html" title="王牌保镖动态漫画" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第8集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/d3112a282e238c4a9507072a5c52a368.jpg" alt="王牌保镖动态漫画"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">王牌保镖动态漫画</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/5930.html" title="独自一人的异世界攻略" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第12集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-09/202409271727401910.jpg" alt="独自一人的异世界攻略"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">独自一人的异世界攻略</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115896.html" title="稳住别浪动态漫画" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第77集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/21f06bfb74f26240375a8ec3d18f5494.jpg" alt="稳住别浪动态漫画"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">稳住别浪动态漫画</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/6474.html" title="2:5次元的诱惑" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第24集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-07/202407061720229795.jpg" alt="2:5次元的诱惑"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">2:5次元的诱惑</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/5442.html" title="少女乐队的呐喊" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第13集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/f0d582c0f29ccc4687ff4a6154078ecb.jpg" alt="少女乐队的呐喊"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">少女乐队的呐喊</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/49478.html" title="标准规格战士" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第16集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-11/202411031730599982.jpg" alt="标准规格战士"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">标准规格战士</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/42216.html" title="重来吧魔王大人" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第12集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250109-6/a26e9eadff8e07c058e3f2a29d8c6a14.jpg" alt="重来吧魔王大人"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">重来吧魔王大人</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/51069.html" title="剑来" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第26集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-08/202408151723689356.jpg" alt="剑来"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">剑来</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/3407.html" title="妻子变成小学生" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第12集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-10/202410071728280790.jpg" alt="妻子变成小学生"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">妻子变成小学生</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115699.html" title="穿越大秦当太子" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第11集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/a5db12b8170a5c8a02c70d183784aaa4.jpg" alt="穿越大秦当太子"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">穿越大秦当太子</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/87416.html" title="山海伏魔录" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第7集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://m.ykimg.com/058400006721D11513EBC61311E2910C" alt="山海伏魔录"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">山海伏魔录</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/3031.html" title="香蕉喵游世界" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第13集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://images.67c6c7a.com/upload/vod/2024-10/202410151728953094.jpg" alt="香蕉喵游世界"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">香蕉喵游世界</div>
+	</div>
+</a>
+										 									</div>
+								</div>
+																</div>
+				        	
+							<div class="module">
+								<div class="module-heading">
+									<h2 class="module-title"><a href="/index.php/vod/type/id/5.html">短剧<span class="module-title-en">duanju</span></a></h2>
+									 									 <div class="module-tab-items">
+									   <div class="module-tab-title">选择类型<span class="close-drop"><i class="icon-close"></i></span></div>
+									   <a class="module-heading-more" href="/index.php/vod/type/id/5.html">更多<i class="icon-arrow-right"></i></a>
+									   </div>
+									 									<div class="shortcuts-mobile-overlay"></div>
+								</div>
+								<div class="module-main tab-list  active">
+									<div class="module-items  module-poster-items-base ">
+									    										<a href="/index.php/vod/detail/id/116037.html" title="八角笼中" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第41-60集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/d1662e45bfe70ba942c9ccc60a209e04.jpg" alt="八角笼中"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">八角笼中</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41288.html" title="白露为霜" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第41-60集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/77198df67b80cb437f174b6bf9b81c4a.jpg" alt="白露为霜"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">白露为霜</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41287.html" title="被女帝倒追傲娇公主后悔了" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第41-61集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/6fc5601e59da5f308fcd710e0a7adb87.jpg" alt="被女帝倒追傲娇公主后悔了"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">被女帝倒追傲娇公主后悔了</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41283.html" title="大小姐杀穿末日" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第41-61集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/19e4f1acdad85cac0a2705979a926bd9.jpg" alt="大小姐杀穿末日"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">大小姐杀穿末日</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41275.html" title="鉴宝魔心瞳" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第61-73集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/17af85d7570ba3c508f2b676b7b8c062.jpg" alt="鉴宝魔心瞳"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">鉴宝魔心瞳</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41168.html" title="千亿总裁一醉成宠" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第81-111集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/8abbafe261f5fb2f8da650abb65fe6e5.jpg" alt="千亿总裁一醉成宠"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">千亿总裁一醉成宠</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41164.html" title="苏云欣的复仇" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第21-45集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/699ef1d9ecc1f7722572353e58c3392d.jpg" alt="苏云欣的复仇"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">苏云欣的复仇</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41163.html" title="甜蜜心跳声" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/fce6e05e1d03343a433d5cf618b590c2.jpg" alt="甜蜜心跳声"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">甜蜜心跳声</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41161.html" title="危情婚爱前夫跪安吧" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第61-80集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/520ecfbb9466dcce78c54df267a1375a.jpg" alt="危情婚爱前夫跪安吧"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">危情婚爱前夫跪安吧</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41047.html" title="养子不教他被全球通缉你哭什么" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/757e5e10271262aa798ad048be480166.jpg" alt="养子不教他被全球通缉你哭什么"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">养子不教他被全球通缉你哭什么</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41044.html" title="一纸调令" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第41-66集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/d6a2f32fca2e422cbdd53ed56190ec8d.jpg" alt="一纸调令"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">一纸调令</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41040.html" title="追夫火葬场" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">全集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/ad80ce14ecea05915f70f0017f74ecd3.jpg" alt="追夫火葬场"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">追夫火葬场</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41289.html" title="罢工了美女总裁跪求我上班" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第81-102集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/558e3df1edb61361cbe5cc2b6d32f6f4.jpg" alt="罢工了美女总裁跪求我上班"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">罢工了美女总裁跪求我上班</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41285.html" title="不小心嫁给大佬" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第21-40集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/cb529c546356ab7b946a06033551e9ae.jpg" alt="不小心嫁给大佬"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">不小心嫁给大佬</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41159.html" title="我不怕荆棘只要路的尽头是你" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第41-57集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-14/f0d034a1739eb9b14f04dc1931dd06ab.jpg" alt="我不怕荆棘只要路的尽头是你"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">我不怕荆棘只要路的尽头是你</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/41042.html" title="战神奶爸俏老婆" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第61-80集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/0b032fe00ebeb0f69df4e5f2aae097cc.jpg" alt="战神奶爸俏老婆"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">战神奶爸俏老婆</div>
+	</div>
+</a>
+										 									</div>
+								</div>
+																</div>
+				        	
+							<div class="module">
+								<div class="module-heading">
+									<h2 class="module-title"><a href="/index.php/vod/type/id/20.html">纪录片<span class="module-title-en">jilupian</span></a></h2>
+									 									 <div class="module-tab-items">
+									   <div class="module-tab-title">选择类型<span class="close-drop"><i class="icon-close"></i></span></div>
+									   <a class="module-heading-more" href="/index.php/vod/type/id/20.html">更多<i class="icon-arrow-right"></i></a>
+									   </div>
+									 									<div class="shortcuts-mobile-overlay"></div>
+								</div>
+								<div class="module-main tab-list  active">
+									<div class="module-items  module-poster-items-base ">
+									    										<a href="/index.php/vod/detail/id/96005.html" title="埃尔顿:约翰:永远不迟" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="http://tyyswimg.com/upload/vod/20250209-1/f73858afec44b0c77381871b7523753f.jpg" alt="埃尔顿:约翰:永远不迟"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">埃尔顿:约翰:永远不迟</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/55675.html" title="图珀洛之王:南部犯罪传奇" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第3集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/8cfb7e76f1d2441500f9668b14777cdf.jpg" alt="图珀洛之王:南部犯罪传奇"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">图珀洛之王:南部犯罪传奇</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/91954.html" title="达荷美" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/5a1bcbde6af378668f02d742983c141c.jpg" alt="达荷美"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">达荷美</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96014.html" title="朱莉亚:赖克特:一步一脚印" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-1/ecd01ca6dcc9b52d6f237751cbe2d27d.jpg" alt="朱莉亚:赖克特:一步一脚印"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">朱莉亚:赖克特:一步一脚印</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/10206.html" title="与世界的最后一眼相遇" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-2/0827fd72cd63ee7a587840bc149a4d93.jpg" alt="与世界的最后一眼相遇"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">与世界的最后一眼相遇</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/115120.html" title="印度嘻哈天王星路历程" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/7a9d630944cef1ed6c6cab614ced31e7.jpg" alt="印度嘻哈天王星路历程"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">印度嘻哈天王星路历程</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114590.html" title="梦想改造家第十一季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">20241227</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/6fe67d201dbdacef258b62e272ef9ee5.jpg" alt="梦想改造家第十一季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">梦想改造家第十一季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/114455.html" title="王者归来" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/7d162bc88c4f6b3d9d859264bd0ce595.jpg" alt="王者归来"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">王者归来</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96107.html" title="长生不死:硅谷富豪的逆龄人生" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-1/2f6f6a83495bda14612f288d4b09b090.jpg" alt="长生不死:硅谷富豪的逆龄人生"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">长生不死:硅谷富豪的逆龄人生</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/113802.html" title="何以当归" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/3e02ca1810f38a683e85652f8a4467ef.jpg" alt="何以当归"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">何以当归</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/96131.html" title="黑箱日记" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250107-1/e9250f84f555215b7a05e902b7c3dcee.jpg" alt="黑箱日记"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">黑箱日记</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/113420.html" title="杰瑞斯普林格脱口秀劲爆内幕揭秘" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第2集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/142dfe4a33d624d2b830a9257e96726d.jpg" alt="杰瑞斯普林格脱口秀劲爆内幕揭秘"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">杰瑞斯普林格脱口秀劲爆内幕揭秘</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/44296.html" title="一代爱国高僧圆瑛" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">正片</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://mtzy0.com/upload/vod/20250110-1/f2053a5b5b82fedd406d6fe529fee86c.jpg" alt="一代爱国高僧圆瑛"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">一代爱国高僧圆瑛</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/112997.html" title="我杀人第六季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第6集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/5f9fd943c52284c377f38814cd95944f.jpg" alt="我杀人第六季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">我杀人第六季</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/55683.html" title="倒计时:保罗对决泰森" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第3集完结</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://vip.dytt-img.com/upload/vod/20250429-1/39df9fc99d9bb4396ae2c97e7afa4a9e.jpg" alt="倒计时:保罗对决泰森"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">倒计时:保罗对决泰森</div>
+	</div>
+</a>
+										 										<a href="/index.php/vod/detail/id/112507.html" title="沼泽人蟒蛇入侵第五季" class="module-poster-item module-item">
+	<div class="module-item-cover">
+		<div class="module-item-note">第3集</div>
+		<div class="module-item-pic"><img class="lazy lazyload" data-original="https://img.jisuimage.com/cover/8168229805ac673ef3577a1af234c323.jpg" alt="沼泽人蟒蛇入侵第五季"  referrerpolicy="no-referrer" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01C4fkn72NEujUCIcAg_!!2726769932.gif"></div>
+	</div>
+	<div class="module-poster-item-info">
+		<div class="module-poster-item-title">沼泽人蟒蛇入侵第五季</div>
+	</div>
+</a>
+										 									</div>
+								</div>
+																</div>
+				        	 
+ <div class="module-adslist module-wrapper ads_w">
+<a target="_blank" href="https://tao.8ttv.cn"><img src="https://img.alicdn.com/imgextra/i2/2726769932/O1CN01ZXxHeq2NEuWmO1OtW_!!2726769932.gif" alt="优惠券" width="100%"><i class="gg-icon"></i></a>
+<a target="_blank" href="http://hk.53hk.cn/index?k=d1NySFloOTUxQ0k9"><img src="https://img.alicdn.com/imgextra/i2/2726769932/O1CN01lTvRv82NEufp8o80x_!!2726769932.png" alt="流量卡" width="100%"><i class="gg-icon"></i></a>
+</div>	                        <div class="module module-shadow">
+								<div class="module-heading">
+									<h2 class="module-title"><a href="/index.php/label/hot.html">热榜<span class="module-title-en">RANKING</span></a></h2>
+									<a class="module-heading-more" href="/index.php/label/hot.html">更多<i class="icon-arrow-right"></i></a>
+								</div>
+								<div class="module-main scroll-box">
+									<div class="module-items scroll-content">
+									    	
+										<div class="module-paper-item module-item">
+											<div class="module-paper-item-header"><i class="icon64 icon64 icon-dy"></i>
+												<h3 class="module-paper-item-title">电影榜</h3></div>
+											<div class="module-paper-item-main">
+											      												<a href="/index.php/vod/detail/id/2.html">
+													<div class="module-paper-item-num module-paper-item-num-first">1</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">花漾少女杀人事件</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/9624.html">
+													<div class="module-paper-item-num module-paper-item-num-second">2</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">毕正明的证明</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/11368.html">
+													<div class="module-paper-item-num module-paper-item-num-third">3</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">一战再战</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/47418.html">
+													<div class="module-paper-item-num ">4</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">浪浪山小妖怪</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/129922.html">
+													<div class="module-paper-item-num ">5</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">惊天魔盗团3</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/49291.html">
+													<div class="module-paper-item-num ">6</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">罗小黑战记2</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/6605.html">
+													<div class="module-paper-item-num ">7</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">震耳欲聋</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/52067.html">
+													<div class="module-paper-item-num ">8</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">哪吒之魔童闹海</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/27367.html">
+													<div class="module-paper-item-num ">9</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">捕风追影</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/3100.html">
+													<div class="module-paper-item-num ">10</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">风林火山</span>
+														<p>高清版</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 											</div>
+										</div>
+											
+										<div class="module-paper-item module-item">
+											<div class="module-paper-item-header"><i class="icon64 icon64 icon-tv"></i>
+												<h3 class="module-paper-item-title">电视剧榜</h3></div>
+											<div class="module-paper-item-main">
+											      												<a href="/index.php/vod/detail/id/129484.html">
+													<div class="module-paper-item-num module-paper-item-num-first">1</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">唐朝诡事录之长安</span>
+														<p>第40集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/129474.html">
+													<div class="module-paper-item-num module-paper-item-num-second">2</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">四喜</span>
+														<p>第36集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/91.html">
+													<div class="module-paper-item-num module-paper-item-num-third">3</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">入青云</span>
+														<p>第36集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/98805.html">
+													<div class="module-paper-item-num ">4</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">暗河传</span>
+														<p>第38集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/445.html">
+													<div class="module-paper-item-num ">5</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">沉默的荣耀</span>
+														<p>第39集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/335.html">
+													<div class="module-paper-item-num ">6</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">宴遇永安</span>
+														<p>第32集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/541.html">
+													<div class="module-paper-item-num ">7</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">命悬一生</span>
+														<p>第16集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/129246.html">
+													<div class="module-paper-item-num ">8</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">新闻女王2粤语</span>
+														<p>第25集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/129245.html">
+													<div class="module-paper-item-num ">9</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">新闻女王2</span>
+														<p>更新至23集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/111120.html">
+													<div class="module-paper-item-num ">10</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">无血无泪版</span>
+														<p>第78集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 											</div>
+										</div>
+											
+										<div class="module-paper-item module-item">
+											<div class="module-paper-item-header"><i class="icon64 icon64 icon icon-zy"></i>
+												<h3 class="module-paper-item-title">综艺榜</h3></div>
+											<div class="module-paper-item-main">
+											      												<a href="/index.php/vod/detail/id/99003.html">
+													<div class="module-paper-item-num module-paper-item-num-first">1</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">现在就出发 第三季</span>
+														<p>更新至2025.10.19-先导片下</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/2126.html">
+													<div class="module-paper-item-num module-paper-item-num-second">2</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">喜人奇妙夜2</span>
+														<p>喜人聚会特辑</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/97868.html">
+													<div class="module-paper-item-num module-paper-item-num-third">3</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">现在就出发第三季</span>
+														<p>特别加更</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/97985.html">
+													<div class="module-paper-item-num ">4</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">再见爱人第五季</span>
+														<p>沉浸版第13期</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/2131.html">
+													<div class="module-paper-item-num ">5</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">王牌对王牌第九季</span>
+														<p>不打烊</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/98955.html">
+													<div class="module-paper-item-num ">6</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">王牌对王牌 第九季</span>
+														<p>更新至10-19期</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/2907.html">
+													<div class="module-paper-item-num ">7</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">向往的生活第八季</span>
+														<p>超前回顾</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/113554.html">
+													<div class="module-paper-item-num ">8</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">美好中国新歌会:腾讯音乐榜样年度荣誉之夜</span>
+														<p>第1期</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/98899.html">
+													<div class="module-paper-item-num ">9</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">花儿与少年·同心季</span>
+														<p>更新至20251021</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/456.html">
+													<div class="module-paper-item-num ">10</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">圆桌派第八季</span>
+														<p>昆仑</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 											</div>
+										</div>
+											
+										<div class="module-paper-item module-item">
+											<div class="module-paper-item-header"><i class="icon64 icon64 icon icon-dm"></i>
+												<h3 class="module-paper-item-title">动漫榜</h3></div>
+											<div class="module-paper-item-main">
+											      												<a href="/index.php/vod/detail/id/168.html">
+													<div class="module-paper-item-num module-paper-item-num-first">1</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">重生归来:直接无敌动态漫画</span>
+														<p>第310集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/2911.html">
+													<div class="module-paper-item-num module-paper-item-num-second">2</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">牧神记</span>
+														<p>第65集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/169.html">
+													<div class="module-paper-item-num module-paper-item-num-third">3</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">全民诡异:开局掌握零元购动态漫画</span>
+														<p>更新至第140集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/104961.html">
+													<div class="module-paper-item-num ">4</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">吹响悠风号第三季</span>
+														<p>第5集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/223.html">
+													<div class="module-paper-item-num ">5</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">青之壬生狼</span>
+														<p>第24集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/2125.html">
+													<div class="module-paper-item-num ">6</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">一拳超人第三季</span>
+														<p>第12集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/58055.html">
+													<div class="module-paper-item-num ">7</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">指尖相触恋恋不舍</span>
+														<p>第12集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/5443.html">
+													<div class="module-paper-item-num ">8</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">神明渴望游戏</span>
+														<p>第13集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/5441.html">
+													<div class="module-paper-item-num ">9</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">拉面赤猫</span>
+														<p>第12集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/5442.html">
+													<div class="module-paper-item-num ">10</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">少女乐队的呐喊</span>
+														<p>第13集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 											</div>
+										</div>
+											
+										<div class="module-paper-item module-item">
+											<div class="module-paper-item-header"><i class="icon64 icon64 iicon-jl"></i>
+												<h3 class="module-paper-item-title">短剧榜</h3></div>
+											<div class="module-paper-item-main">
+											      												<a href="/index.php/vod/detail/id/107766.html">
+													<div class="module-paper-item-num module-paper-item-num-first">1</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">天降七个未婚妻</span>
+														<p>全集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/106140.html">
+													<div class="module-paper-item-num module-paper-item-num-second">2</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">风起南城</span>
+														<p>第61-70集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/109323.html">
+													<div class="module-paper-item-num module-paper-item-num-third">3</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">全世界都在等你离婚</span>
+														<p>第61-89集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/109968.html">
+													<div class="module-paper-item-num ">4</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">被闪婚小叔宠上天</span>
+														<p>第81-100集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/33439.html">
+													<div class="module-paper-item-num ">5</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">我突然强到傲天了</span>
+														<p>第61-89集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/112503.html">
+													<div class="module-paper-item-num ">6</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">重生后反派大佬是我囊中物</span>
+														<p>第41-59集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/110091.html">
+													<div class="module-paper-item-num ">7</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">盖世</span>
+														<p>第81-100集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/8.html">
+													<div class="module-paper-item-num ">8</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">替嫁新娘是千金</span>
+														<p>已完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/107761.html">
+													<div class="module-paper-item-num ">9</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">无疆阎君归来</span>
+														<p>全集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/3269.html">
+													<div class="module-paper-item-num ">10</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">走出去带回来</span>
+														<p>第41-64集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 											</div>
+										</div>
+											
+										<div class="module-paper-item module-item">
+											<div class="module-paper-item-header"><i class="icon64 icon64 iicon-jl"></i>
+												<h3 class="module-paper-item-title">纪录片榜</h3></div>
+											<div class="module-paper-item-main">
+											      												<a href="/index.php/vod/detail/id/113420.html">
+													<div class="module-paper-item-num module-paper-item-num-first">1</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">杰瑞斯普林格脱口秀劲爆内幕揭秘</span>
+														<p>第2集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/3907.html">
+													<div class="module-paper-item-num module-paper-item-num-second">2</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">守护解放西6</span>
+														<p>更新至第08集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/52668.html">
+													<div class="module-paper-item-num module-paper-item-num-third">3</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">偷情网站泄密事件:性:谎言与丑闻</span>
+														<p>第1集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/1228.html">
+													<div class="module-paper-item-num ">4</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">巨钻大盗:千禧奇案解密</span>
+														<p>第3集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/21873.html">
+													<div class="module-paper-item-num ">5</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">天网:案件真相</span>
+														<p>第10集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/6796.html">
+													<div class="module-paper-item-num ">6</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">鬼屋实录</span>
+														<p>第5集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/97782.html">
+													<div class="module-paper-item-num ">7</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">远古外星人第二十一季</span>
+														<p>第13集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/101304.html">
+													<div class="module-paper-item-num ">8</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">反对普京的无名先生</span>
+														<p>正片</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/31179.html">
+													<div class="module-paper-item-num ">9</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">伟大遗产</span>
+														<p>第8集完结</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 												<a href="/index.php/vod/detail/id/125403.html">
+													<div class="module-paper-item-num ">10</div>
+													<div class="module-paper-item-info"><span class="module-paper-item-infotitle">欢迎来到雷克瑟姆第四季</span>
+														<p>第8集</p>
+													</div>
+													<div class="icon-arrow-right"></div>
+												</a>
+												 											</div>
+										</div>
+																			</div>
+								</div>
+							</div>						</div>
+					</div>
+			    	                    	                     	<div class="fixedGroup">
+                    	                          	    <div class="fixedGroup-item">
+                    	        <div class="fixedGroup__cell">
+                    	            <span class="fixedGroup__triangle"></span>
+                    	            <div class="txt" id="changeAppearance">切换深色外观</div>
+                    	        </div>
+                    	        <i  class="icon-yejian" data-id="black"></i>
+                    	        <i class="icon-rijian" data-id="white"></i>
+                    	    </div>
+                    	    	                    	    <div class="fixedGroup-item" onclick="location='/index.php/gbook/index.html'">
+                    	        <div class="fixedGroup__cell">
+                    	            <span class="fixedGroup__triangle"></span>
+                    	            <div>留言</div>
+                    	        </div>
+                    	        <i class="icon-gbook"></i>
+                    	    </div>
+                    	                       	    <div class="fixedGroup-item retop">
+                    	        <div class="fixedGroup__cell">
+                    	            <span class="fixedGroup__triangle"></span>
+                    	            <div>回到顶部</div>
+                    	        </div>
+                    	        <i class="icon-top"></i>
+                    	    </div>
+                    	                          	</div>
+                    	                    	<div class="footer">
+						<div class="content">
+					       	                    	<div class="module links-list" id="friendlink">
+								<div class="module-heading">
+									<h3>友情链接</h3>
+								</div>
+								<div class="module-main">
+								    								</div>
+							</div>							<div class="footer-content">
+								<div class="foot-logo"><img class="logo2"  src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01Xug6ix2NEuldYu5yl_!!2726769932.png" alt="八天电影网-在线电影-最新电影-免费电影-电影在线观看-好看电视剧大全-电影排行榜-打造最新免费高清影院" >
+								<img class="logo1" src="https://img.alicdn.com/imgextra/i4/2726769932/O1CN01Xug6ix2NEuldYu5yl_!!2726769932.png" /></div>
+								<div class="foot-copyright">
+								   
+		                        <a target="_blank" href="/index.php/rss/index.xml">RSS</a>
+	                        	<a target="_blank" href="/index.php/rss/baidu.xml">Baidu</a>
+		                        <a target="_blank" href="/index.php/rss/baidu.xml">Google</a>
+	                        	<a target="_blank" href="/index.php/rss/sogou.xml">Sogou</a>
+	                        	   
+								<a href="https://8ttv.cn" target="_blank" rel="”nofollow”">八天娱乐网</a>
+								 
+								<a href="https://tao.8ttv.cn" target="_blank" rel="”nofollow”">淘宝优惠券</a>
+								 
+								<a href="https://8ttv.cn/xjj" target="_blank" rel="”nofollow”">随机小姐姐视频</a>
+																<p>八天电影网-在线电影-最新电影-免费电影-电影在线观看-好看电视剧大全-电影排行榜-打造最新免费高清影院本站所有内容均来自互联网分享站点所提供的公开引用资源，未提供资源上传、存储服务	<span class="none"><script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?8e2a27e0227e65f53f601811340ae82f";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script></span></p>
+								</div>
+							</div>
+						</div>
+					</div>
+					
+<script type="text/javascript">   
+	document.onkeydown=function(){
+	    
+		var e = window.event||arguments[0];
+		
+	      
+			if(e.keyCode==123){
+				alert('你知道的太多了');
+				return false;
+			}
+        	}
+   
+	var threshold = 160;
+	window.setInterval(function() {  
+	    if (window.outerWidth - window.innerWidth > threshold ||   
+	    window.outerHeight - window.innerHeight > threshold) {  
+			function disableDebugger() {
+				debugger;
+			}
+			$(document).ready(function () {
+				disableDebugger();
+			});
+	    }  
+	}, 1e3);
+ </script>
+										<div>
+						<div class="popup popup-tips none" id="popup">
+							<div class="popup-header">
+								<h3 class="popup-title">八天电影网</h3></div>
+							<div class="popup-main">
+							<strong><p>◆欢迎访问八天电影网</p>
+<p>◆贫穷使你我相遇,永久回家地址<a href="https://link3.cc/272401263" target="_blank">https://link3.cc/272401263</a></p>
+<p>◆视频封面集数更新不准,点进去查看具体更新情况！</p>
+<p>◆本站所有内容均来自互联网分享站点所提供的公开引用资源，未提供资源上传、存储服务</p>
+<p>◆播放卡顿请切换线路(手机端点击线路名称切换)全屏点击播放器最右边向外的四个箭头图标(苹果手机关闭屏幕竖排方向锁定)！推荐下载APP使用！</p></strong>							</div>
+							<div class="popup-footer">
+								<div class="popup-btn close-pop">好的，我记住啦</div>
+							</div>
+						</div>
+						<div class="shortcuts-mobile-overlay"></div>
+					</div>
+				</div>
+		</body>
+
+</html>

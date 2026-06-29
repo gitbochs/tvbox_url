@@ -1,0 +1,1045 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<title>Gimy TV 劇迷 - 高清追劇隨時看</title>
+<meta name="description" content="Gimy TV 劇迷線上看，提供最新電視劇與熱門影劇內容，隨選隨看、輕鬆追劇不間斷。 Gimy 收錄電影、電視劇、動漫、綜藝、陸劇、韓劇、美劇、台劇、日劇、BL、泰劇、紀錄片等豐富類型，打造一站式影音追劇平台。"><link rel="canonical" href="https://gimyai.tw/">
+<meta name="robots" content="index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Gimy TV 劇迷 - 高清追劇隨時看">
+<meta property="og:description" content="Gimy TV 劇迷線上看，提供最新電視劇與熱門影劇內容，隨選隨看、輕鬆追劇不間斷。 Gimy 收錄電影、電視劇、動漫、綜藝、陸劇、韓劇、美劇、台劇、日劇、BL、泰劇、紀錄片等豐富類型，打造一站式影音追劇平台。"><meta property="og:url" content="https://gimyai.tw/">
+<meta property="og:image" content="https://gimyai.tw/images/ogimage.png">
+<meta property="og:image:alt" content="Gimy TV 劇迷 - 高清追劇隨時看">
+<meta property="og:site_name" content="Gimy TV 劇迷">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Gimy TV 劇迷 - 高清追劇隨時看">
+<meta name="twitter:description" content="Gimy TV 劇迷線上看，提供最新電視劇與熱門影劇內容，隨選隨看、輕鬆追劇不間斷。 Gimy 收錄電影、電視劇、動漫、綜藝、陸劇、韓劇、美劇、台劇、日劇、BL、泰劇、紀錄片等豐富類型，打造一站式影音追劇平台。"><meta name="twitter:image" content="https://gimyai.tw/images/ogimage.png">
+
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","@id":"https://gimyai.tw/#website","url":"https://gimyai.tw/","name":"Gimy TV 劇迷","inLanguage":"zh-Hant","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://gimyai.tw/search/{search_term_string}-------------.html"},"query-input":"required name=search_term_string"}}</script>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"Organization","@id":"https://gimyai.tw/#org","name":"Gimy TV 劇迷","url":"https://gimyai.tw/","logo":"https://gimyai.tw/apple-touch-icon.png"}</script>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#fafafa">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" type="image/png" sizes="48x48" href="/favicon.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/android-chrome-192x192.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Gimy TV 劇迷">
+<script>(function(){try{document.documentElement.dataset.theme=localStorage.getItem('theme')||'light';}catch(e){document.documentElement.dataset.theme='light';}})();</script>
+<script>var maccms={"path":"","mid":"","url":"gimyai.tw","wapurl":"gimyai.tw","mob_status":"2"};</script>
+<link rel="stylesheet" href="/template/gimyai/css/style.css?v=20">
+
+</head>
+<body data-nav="home">
+
+<header class="site-header" role="banner">
+  <div class="container site-header__inner">
+    <button class="nav-toggle" type="button" aria-label="開啟選單" data-action="nav-open">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+    <a class="logo" href="/" aria-label="Gimy TV 劇迷 首頁"><img class="logo-img logo-img--light" src="/template/gimyai/img/logow.png" alt="Gimy TV 劇迷"><img class="logo-img logo-img--dark" src="/template/gimyai/img/logob.png" alt="Gimy TV 劇迷"></a>
+
+    <nav class="mainnav" aria-label="主選單">
+      <a href="/" class="is-active">首頁</a>
+            <a href="/genre/2.html" >電視劇</a>
+            <a href="/genre/1.html" >電影</a>
+            <a href="/genre/4.html" >動漫</a>
+            <a href="/genre/29.html" >綜藝</a>
+            <a href="/label/top.html" >排行</a>
+      <a href="https://ginovel.net" target="_blank" rel="noopener nofollow">小說</a>
+      <a href="http://bit.ly/3QBiarU" target="_blank" rel="noopener nofollow">成人</a>
+    </nav>
+
+    <form class="searchbar" action="/find/-------------.html" method="get" role="search">
+      <input type="search" name="wd" placeholder="輸入影片關鍵詞…" aria-label="搜尋影片" value="" required minlength="1">
+      <button type="submit" aria-label="搜尋">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+    </form>
+
+    <div class="header-actions">
+      <button class="icon-btn theme-btn" type="button" data-theme-toggle aria-label="切換深淺色主題">
+        <svg class="ico-moon" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.37 5.51A7 7 0 0 0 18.49 14.63 9 9 0 1 1 9.37 5.51z"/></svg>
+        <svg class="ico-sun" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 7c-2.76 0-5 2.24-5 5s2.24 5 5 5 5-2.24 5-5-2.24-5-5-5zM2 13h2c.55 0 1-.45 1-1s-.45-1-1-1H2c-.55 0-1 .45-1 1s.45 1 1 1zm18 0h2c.55 0 1-.45 1-1s-.45-1-1-1h-2c-.55 0-1 .45-1 1s.45 1 1 1zM11 2v2c0 .55.45 1 1 1s1-.45 1-1V2c0-.55-.45-1-1-1s-1 .45-1 1zm0 18v2c0 .55.45 1 1 1s1-.45 1-1v-2c0-.55-.45-1-1-1s-1 .45-1 1zM5.99 4.58c-.39-.39-1.03-.39-1.41 0-.39.39-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0s.39-1.03 0-1.41L5.99 4.58zm12.37 12.37c-.39-.39-1.03-.39-1.41 0-.39.39-.39 1.03 0 1.41l1.06 1.06c.39.39 1.03.39 1.41 0 .39-.39.39-1.03 0-1.41l-1.06-1.06zm1.06-10.96c.39-.39.39-1.03 0-1.41-.39-.39-1.03-.39-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41s1.03.39 1.41 0l1.06-1.06zM7.05 18.36c.39-.39.39-1.03 0-1.41-.39-.39-1.03-.39-1.41 0l-1.06 1.06c-.39.39-.39 1.03 0 1.41s1.03.39 1.41 0l1.06-1.06z"/></svg>
+      </button>
+      <button class="icon-btn search-m" type="button" aria-label="搜尋" data-action="search-open">
+        <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+      </button>
+      <span data-header-user>
+        <a class="btn-login" href="/user/login.html">登入</a>
+      </span>
+    </div>
+  </div>
+
+  <form class="header-search" action="/find/-------------.html" method="get" role="search">
+    <button type="button" class="header-search__back" aria-label="返回" data-action="search-close">
+      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg>
+    </button>
+    <input type="search" name="wd" class="header-search__input" placeholder="輸入影片關鍵詞…" aria-label="搜尋影片" value="" required minlength="1">
+    <button type="submit" class="header-search__go" aria-label="搜尋">
+      <svg width="19" height="19" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+    </button>
+  </form>
+</header>
+
+<div class="nav-scrim" data-action="nav-close"></div>
+<aside class="nav-drawer" aria-label="行動選單">
+  <div class="nav-drawer__top">
+    <a class="logo" href="/"><img class="logo-img logo-img--light" src="/template/gimyai/img/logow.png" alt="Gimy TV 劇迷"><img class="logo-img logo-img--dark" src="/template/gimyai/img/logob.png" alt="Gimy TV 劇迷"></a>
+    <button class="icon-btn" type="button" aria-label="關閉" data-action="nav-close">
+      <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M6 6l12 12M18 6 6 18"/></svg>
+    </button>
+  </div>
+
+  <nav class="nav-drawer__nav">
+    <a href="/" class="is-active">
+      <svg class="drawer-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 20v-6h4v6h5v-8h3L12 3 2 12h3v8z"/></svg>
+      <span>首頁</span>
+    </a>
+    <a href="/label/top.html" >
+      <svg class="drawer-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M13.5.67s.74 2.65.74 4.8c0 2.06-1.35 3.73-3.41 3.73-2.07 0-3.63-1.67-3.63-3.73l.03-.36C5.21 7.51 4 10.62 4 14a8 8 0 0 0 16 0c0-4.13-1.99-7.81-5.05-10.2l-1.45-3.13z"/></svg>
+      <span>排行榜</span>
+    </a>
+    <a href="https://ginovel.net" target="_blank" rel="noopener nofollow">
+      <svg class="drawer-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M18 2H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2zm0 18H6V4h2v8l2.5-1.5L13 12V4h5v16z"/></svg>
+      <span>小說</span>
+    </a>
+    <a href="http://bit.ly/3QBiarU" target="_blank" rel="noopener nofollow">
+      <svg class="drawer-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M14 3v2h3.59l-9.83 9.83 1.41 1.41L19 6.41V10h2V3h-7zM19 19H5V5h7V3H5c-1.11 0-2 .9-2 2v14c0 1.1.89 2 2 2h14c1.1 0 2-.9 2-2v-7h-2v7z"/></svg>
+      <span>成人</span>
+    </a>
+  </nav>
+
+    <div class="nav-drawer__group">
+    <span class="nav-drawer__label">分類</span>
+    <nav class="nav-drawer__nav">
+            <a href="/genre/2.html" >
+        <span class="cat-ico cat-ico--tv" aria-hidden="true"></span>        <span>電視劇</span>
+      </a>
+            <a href="/genre/1.html" >
+        <span class="cat-ico cat-ico--movie" aria-hidden="true"></span>        <span>電影</span>
+      </a>
+            <a href="/genre/4.html" >
+        <span class="cat-ico cat-ico--anime" aria-hidden="true"></span>        <span>動漫</span>
+      </a>
+            <a href="/genre/29.html" >
+        <span class="cat-ico cat-ico--mic" aria-hidden="true"></span>        <span>綜藝</span>
+      </a>
+            <a href="/genre/13.html" >
+        <span class="cat-badge" aria-hidden="true">陸</span>        <span>陸劇</span>
+      </a>
+            <a href="/genre/20.html" >
+        <span class="cat-badge" aria-hidden="true">韓</span>        <span>韓劇</span>
+      </a>
+            <a href="/genre/16.html" >
+        <span class="cat-badge" aria-hidden="true">美</span>        <span>美劇</span>
+      </a>
+            <a href="/genre/15.html" >
+        <span class="cat-badge" aria-hidden="true">日</span>        <span>日劇</span>
+      </a>
+            <a href="/genre/14.html" >
+        <span class="cat-badge" aria-hidden="true">台</span>        <span>台劇</span>
+      </a>
+            <a href="/genre/21.html" >
+        <span class="cat-badge" aria-hidden="true">港</span>        <span>港劇</span>
+      </a>
+            <a href="/genre/34.html" >
+        <span class="cat-ico cat-ico--short" aria-hidden="true"></span>        <span>短劇</span>
+      </a>
+            <a href="/genre/31.html" >
+        <span class="cat-ico cat-ico--globe" aria-hidden="true"></span>        <span>海外劇</span>
+      </a>
+          </nav>
+  </div>
+  
+  <nav class="nav-drawer__nav nav-drawer__nav--settings">
+    <button type="button" data-zh-toggle>
+      <svg class="drawer-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M12.87 15.07l-2.54-2.51.03-.03c1.74-1.94 2.98-4.17 3.71-6.53H17V4h-7V2H8v2H1v1.99h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04zM18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12zm-2.62 7l1.62-4.33L19.12 17h-3.24z"/></svg>
+      <span data-zh-label>簡體中文</span>
+    </button>
+    <button type="button" data-theme-toggle>
+      <svg class="drawer-ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M9.37 5.51A7 7 0 0 0 18.49 14.63 9 9 0 1 1 9.37 5.51z"/></svg>
+      <span data-theme-label>深色主題</span>
+    </button>
+  </nav>
+</aside>
+
+
+<main class="container" role="main" id="main">
+  <h1 class="visually-hidden">Gimy TV 劇迷｜免費追劇線上看，熱門陸劇、韓劇、日劇、短劇、電影、動漫即時更新</h1>
+
+  <section class="section">
+    <div class="section__head">
+      <h2 class="section__title">熱門推薦</h2>
+    </div>
+    <div class="grid">
+            <a class="poster" href="/detail/463748.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260627-1/85226b1734ef2f0400163cc9f0677821.jpg" alt="千香" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至7集</span>        </span>
+        <h3 class="poster__title">千香</h3>
+        <p class="poster__meta">宋威龍,鞠婧禕,葉盛佳,朱麗嵐,劉夢芮,何中華,張志浩,林艾泇,鄭合惠子,趙華為,梁詠妮,傅方俊</p>
+      </a>
+            <a class="poster" href="/detail/454135.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260616-1/b4575468fd0d05da9e422be77c08ca54.jpg" alt="熾夏" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至24集</span>        </span>
+        <h3 class="poster__title">熾夏</h3>
+        <p class="poster__meta">包上恩,周柯宇,趙英博,黃奕,柯淳,徐媛屹娜,付偉倫,李媛,王策,方芳,苑冉,黃婷婷,楊淇源</p>
+      </a>
+            <a class="poster" href="/detail/454511.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260618-1/57492eb15089f7494f4b2ca62c2e2a79.webp" alt="問心2" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至26集</span>        </span>
+        <h3 class="poster__title">問心2</h3>
+        <p class="poster__meta">趙又廷,毛曉彤,金世佳,張佳寧,陳沖,黃覺,合詩雨,王川,孫浠倫,扈耀之,苑冉,牟湘盈</p>
+      </a>
+            <a class="poster" href="/detail/454690.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260620-1/2579731feda145b1d65eec3c047db6e1.jpg" alt="雲秀行" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至23集</span>        </span>
+        <h3 class="poster__title">雲秀行</h3>
+        <p class="poster__meta">李一桐,曾舜晞,鄧為,代露娃,王以綸,程泓鑫,田嘉瑞,簡宇熙,範靜雯,鄧孝慈,尹鑄勝,鮑大志,黑子,張晞臨</p>
+      </a>
+            <a class="poster" href="/detail/454037.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260615-1/09c0c833ab4de6a6937caf51ebd0da44.jpg" alt="愛情有煙火" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至30集/共36集</span>        </span>
+        <h3 class="poster__title">愛情有煙火</h3>
+        <p class="poster__meta">檀健次,王楚然,李乃文,李欣澤</p>
+      </a>
+            <a class="poster" href="/detail/447953.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260609-1/1187979b916d210898852caedd34e393.jpg" alt="莫離" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">第40集已完結</span>        </span>
+        <h3 class="poster__title">莫離</h3>
+        <p class="poster__meta">白鹿,丞磊,蔡正傑,楊舒伊,林沐然,董潔,宣言,張月,劉擎,邱心志</p>
+      </a>
+            <a class="poster" href="/detail/452537.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260611-1/693498c8c178c98179fdf59394cf1710.jpg" alt="南部檔案" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">第5集</span>        </span>
+        <h3 class="poster__title">南部檔案</h3>
+        <p class="poster__meta">張新成,丁禹兮,姜珮瑤,富大龍,劉令姿,張宸逍,李歡,姜卓君,徐正溪,韓棟,季肖冰,徐振軒,程相,應灝銘,曲高位,寇振海,佟晨潔,屠顯智</p>
+      </a>
+            <a class="poster" href="/detail/447226.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260602-1/da7b569d5e03bf5f3f932d69db20e6b2.jpg" alt="翹楚" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至第01集</span>        </span>
+        <h3 class="poster__title">翹楚</h3>
+        <p class="poster__meta">陳都靈,周翊然,唐曉天,王瑞昌,吳施樂,高茂桐,蔣愷</p>
+      </a>
+            <a class="poster" href="/detail/463703.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260626-1/eddc8bb9478bc2d0132960cdf0931d74.jpg" alt="金特務：本色迴歸" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至2集</span>        </span>
+        <h3 class="poster__title">金特務：本色迴歸</h3>
+        <p class="poster__meta">蘇志燮,崔大勳,尹敬浩,金成圭,孫娜恩</p>
+      </a>
+            <a class="poster" href="/detail/443546.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260509-1/76f155181f475b559f5f13211136ea29.jpg" alt="我的王室死對頭" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至14集</span>        </span>
+        <h3 class="poster__title">我的王室死對頭</h3>
+        <p class="poster__meta">林智妍,許南俊,張勝祖,李世熙,金玟錫,蔡書安,金海淑,尹周相,尹炳熙,鄭英珠,白恩惠,白智媛,朴鎮宇,吳敏愛,張河恩</p>
+      </a>
+            <a class="poster" href="/detail/447725.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260605-1/713f6c771fe41090ecc509c655b5e088.jpg" alt="鐵拳教育" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至10集</span>        </span>
+        <h3 class="poster__title">鐵拳教育</h3>
+        <p class="poster__meta">金武烈 , 李星民 , 秦基周 , 表志勳 , 賀營</p>
+      </a>
+            <a class="poster" href="/detail/463689.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260626-1/e66126807286c871294febd5f416b793.webp" alt="最後一排的男孩" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至6集</span>        </span>
+        <h3 class="poster__title">最後一排的男孩</h3>
+        <p class="poster__meta">崔岷植,崔顯旭,陳慶,許峻豪,金允珍,趙漢哲,文晶熙</p>
+      </a>
+            <a class="poster" href="/detail/430098.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260316-1/3746ee02c75e38188b07d3fe71a56754.jpg" alt="逐玉" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">逐玉</h3>
+        <p class="poster__meta">田曦薇,張凌赫,任豪,孔雪兒,鄧凱,李卿,喻鐘黎,劉琳,嚴屹寬,岳暘,杜淳,譚凱,毛林林,葉祖新,於洋,李建義,田麗,寇佔文,付淼,盧勇,苑冉,王九勝,高卿塵,賈妮,金珈,林沐然,林思意,何昶希,高上淇,李殿尊,管雲鵬,管梓淨,張舒淪,李昱唯,向夏,韓浩天,王亭文,曹晏寧,吳佳峻,楊賀</p>
+      </a>
+            <a class="poster" href="/detail/443215.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260504-1/e36062f2d4bfdb73345c8abdd9c13c35.webp" alt="低智商犯罪" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">低智商犯罪</h3>
+        <p class="poster__meta">王驍,田曦薇,王傳君,朱雲峯,張瑞涵,姜冠南,馬旭東,宋鬱河,董寶石,雷佳音,扈耀之,張哲華,詹鑫,譚希和,任程偉,白志迪,趙達,閆佩倫,黃曉娟,王沛祿,徐鼕鼕,姚櫓,周大勇,欒元暉,劉巴特爾,宗俊濤,鞠帛展,劉闖,宋熹,王正權,榮飛</p>
+      </a>
+            <a class="poster" href="/detail/443881.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260513-1/bf3892f9d8af14d3588d450bb468da20.jpg" alt="校園之外" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">校園之外</h3>
+        <p class="poster__meta">艾拉·布賴特,貝爾蒙特·卡梅利,史蒂夫·豪威,杰倫·托馬斯·布魯克斯,米卡·阿卜杜拉,斯蒂芬·卡林,喬什·休斯頓,安東尼奧·西普里亞諾,查德·威列,科比·克拉克,Austin A.J. Abell,Francesca Bianchi,Danica Robyn Berard,謝拉赫·霍斯達爾,詹妮弗·斯賓塞</p>
+      </a>
+            <a class="poster" href="/detail/443968.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260514-1/da5e8d92e732ea893c30bdee8f4933ce.jpg" alt="雨霖鈴" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">雨霖鈴</h3>
+        <p class="poster__meta">楊洋,章若楠,方逸倫,張予曦,嶽暘,修慶,魯諾,張銘恩,姜震昊,是安,王子睿,徐崴羅</p>
+      </a>
+            <a class="poster" href="/detail/444179.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260517-1/e2862ce5fd488241fb75df422b3a2b5f.jpg" alt="家業" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">家業</h3>
+        <p class="poster__meta">楊紫,韓東君,吳冕,田小潔,徐百慧,王梓豪,謝心,李泓良,楊斯,富大龍,曹磊,李洪濤,黃曼,張喜前,李寶安,朱輝,劉濤,劉凱,紅花,周知,李春嬡,王婉娟,王玉寧,李煜,舒燕,付嘉,王文綺,洪洋,張渟渟,許之糯,李田野,陳偉棟,劉恆甫,王學東,娜菲莎,瞿楚原</p>
+      </a>
+          </div>
+  </section>
+
+    <section class="section">
+    <div class="section__head">
+      <h2 class="section__title">熱門電視劇</h2>
+            <nav class="section__tabs" aria-label="電視劇分類">
+        <a href="/genre/13.html">陸劇</a><a href="/genre/20.html">韓劇</a><a href="/genre/16.html">美劇</a><a href="/genre/15.html">日劇</a><a href="/genre/14.html">台劇</a><a href="/genre/21.html">港劇</a><a href="/genre/34.html">短劇</a><a href="/genre/31.html">海外劇</a>      </nav>
+            <a class="section__more" href="/genre/2.html">更多 ›</a>
+    </div>
+    <div class="grid">
+            <a class="poster" href="/detail/447953.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260609-1/1187979b916d210898852caedd34e393.jpg" alt="莫離" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">第40集已完結</span>        </span>
+        <h3 class="poster__title">莫離</h3>
+        <p class="poster__meta">白鹿,丞磊,蔡正傑,楊舒伊,林沐然,董潔,宣言,張月,劉擎,邱心志</p>
+      </a>
+            <a class="poster" href="/detail/454037.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260615-1/09c0c833ab4de6a6937caf51ebd0da44.jpg" alt="愛情有煙火" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至30集/共36集</span>        </span>
+        <h3 class="poster__title">愛情有煙火</h3>
+        <p class="poster__meta">檀健次,王楚然,李乃文,李欣澤</p>
+      </a>
+            <a class="poster" href="/detail/454135.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260616-1/b4575468fd0d05da9e422be77c08ca54.jpg" alt="熾夏" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至24集</span>        </span>
+        <h3 class="poster__title">熾夏</h3>
+        <p class="poster__meta">包上恩,周柯宇,趙英博,黃奕,柯淳,徐媛屹娜,付偉倫,李媛,王策,方芳,苑冉,黃婷婷,楊淇源</p>
+      </a>
+            <a class="poster" href="/detail/447725.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260605-1/713f6c771fe41090ecc509c655b5e088.jpg" alt="鐵拳教育" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至10集</span>        </span>
+        <h3 class="poster__title">鐵拳教育</h3>
+        <p class="poster__meta">金武烈 , 李星民 , 秦基周 , 表志勳 , 賀營</p>
+      </a>
+            <a class="poster" href="/detail/463748.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260627-1/85226b1734ef2f0400163cc9f0677821.jpg" alt="千香" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至7集</span>        </span>
+        <h3 class="poster__title">千香</h3>
+        <p class="poster__meta">宋威龍,鞠婧禕,葉盛佳,朱麗嵐,劉夢芮,何中華,張志浩,林艾泇,鄭合惠子,趙華為,梁詠妮,傅方俊</p>
+      </a>
+            <a class="poster" href="/detail/463703.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260626-1/eddc8bb9478bc2d0132960cdf0931d74.jpg" alt="金特務：本色迴歸" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至2集</span>        </span>
+        <h3 class="poster__title">金特務：本色迴歸</h3>
+        <p class="poster__meta">蘇志燮,崔大勳,尹敬浩,金成圭,孫娜恩</p>
+      </a>
+            <a class="poster" href="/detail/447026.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260531-1/4fd2f171b8fac2734681f2f3174964b3.jpg" alt="新進社員姜會長" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">第10集</span>        </span>
+        <h3 class="poster__title">新進社員姜會長</h3>
+        <p class="poster__meta">李濬榮,孫賢周,李周明,全慧珍,晉久</p>
+      </a>
+            <a class="poster" href="/detail/454511.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260618-1/57492eb15089f7494f4b2ca62c2e2a79.webp" alt="問心2" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至26集</span>        </span>
+        <h3 class="poster__title">問心2</h3>
+        <p class="poster__meta">趙又廷,毛曉彤,金世佳,張佳寧,陳沖,黃覺,合詩雨,王川,孫浠倫,扈耀之,苑冉,牟湘盈</p>
+      </a>
+            <a class="poster" href="/detail/452537.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260611-1/693498c8c178c98179fdf59394cf1710.jpg" alt="南部檔案" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">第5集</span>        </span>
+        <h3 class="poster__title">南部檔案</h3>
+        <p class="poster__meta">張新成,丁禹兮,姜珮瑤,富大龍,劉令姿,張宸逍,李歡,姜卓君,徐正溪,韓棟,季肖冰,徐振軒,程相,應灝銘,曲高位,寇振海,佟晨潔,屠顯智</p>
+      </a>
+            <a class="poster" href="/detail/454750.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260621-1/5b1458266e20b888a0c27f7ab09fa2c3.jpg" alt="欠你的那場婚禮" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">欠你的那場婚禮</h3>
+        <p class="poster__meta">張孝全,蘇慧倫,朱軒洋,謝盈萱,姚淳耀,黃迪揚,王渝萱,蒲禾菲,裴子齊</p>
+      </a>
+            <a class="poster" href="/detail/443669.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260510-1/cadfcda5ea29f6d8a36d1bb356e3e95a.webp" alt="主角" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至第04集</span>        </span>
+        <h3 class="poster__title">主角</h3>
+        <p class="poster__meta">張嘉益,劉浩存,秦海璐,竇驍,翟子路,王曉晨,扈耀之,王海燕,李澤鋒,孫浩,姬他,張國強,王麗坤,石文中,韓沛穎,苗阜</p>
+      </a>
+            <a class="poster" href="/detail/454690.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260620-1/2579731feda145b1d65eec3c047db6e1.jpg" alt="雲秀行" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至23集</span>        </span>
+        <h3 class="poster__title">雲秀行</h3>
+        <p class="poster__meta">李一桐,曾舜晞,鄧為,代露娃,王以綸,程泓鑫,田嘉瑞,簡宇熙,範靜雯,鄧孝慈,尹鑄勝,鮑大志,黑子,張晞臨</p>
+      </a>
+            <a class="poster" href="/detail/443215.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260504-1/e36062f2d4bfdb73345c8abdd9c13c35.webp" alt="低智商犯罪" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">低智商犯罪</h3>
+        <p class="poster__meta">王驍,田曦薇,王傳君,朱雲峯,張瑞涵,姜冠南,馬旭東,宋鬱河,董寶石,雷佳音,扈耀之,張哲華,詹鑫,譚希和,任程偉,白志迪,趙達,閆佩倫,黃曉娟,王沛祿,徐鼕鼕,姚櫓,周大勇,欒元暉,劉巴特爾,宗俊濤,鞠帛展,劉闖,宋熹,王正權,榮飛</p>
+      </a>
+            <a class="poster" href="/detail/444179.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260517-1/e2862ce5fd488241fb75df422b3a2b5f.jpg" alt="家業" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">家業</h3>
+        <p class="poster__meta">楊紫,韓東君,吳冕,田小潔,徐百慧,王梓豪,謝心,李泓良,楊斯,富大龍,曹磊,李洪濤,黃曼,張喜前,李寶安,朱輝,劉濤,劉凱,紅花,周知,李春嬡,王婉娟,王玉寧,李煜,舒燕,付嘉,王文綺,洪洋,張渟渟,許之糯,李田野,陳偉棟,劉恆甫,王學東,娜菲莎,瞿楚原</p>
+      </a>
+            <a class="poster" href="/detail/443968.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260514-1/da5e8d92e732ea893c30bdee8f4933ce.jpg" alt="雨霖鈴" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">雨霖鈴</h3>
+        <p class="poster__meta">楊洋,章若楠,方逸倫,張予曦,嶽暘,修慶,魯諾,張銘恩,姜震昊,是安,王子睿,徐崴羅</p>
+      </a>
+            <a class="poster" href="/detail/443546.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260509-1/76f155181f475b559f5f13211136ea29.jpg" alt="我的王室死對頭" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至14集</span>        </span>
+        <h3 class="poster__title">我的王室死對頭</h3>
+        <p class="poster__meta">林智妍,許南俊,張勝祖,李世熙,金玟錫,蔡書安,金海淑,尹周相,尹炳熙,鄭英珠,白恩惠,白智媛,朴鎮宇,吳敏愛,張河恩</p>
+      </a>
+            <a class="poster" href="/detail/442394.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260426-1/8d9329e48d48a29544716b6078b3a55f.webp" alt="黑夜告白" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">黑夜告白</h3>
+        <p class="poster__meta">潘粵明,王鶴棣,任敏,姜珮瑤,趙虎子,江奇霖,宋霄瑛子,鄭奇,陳璽旭,劉闖,周大勇</p>
+      </a>
+            <a class="poster" href="/detail/430098.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260316-1/3746ee02c75e38188b07d3fe71a56754.jpg" alt="逐玉" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">已完結</span>        </span>
+        <h3 class="poster__title">逐玉</h3>
+        <p class="poster__meta">田曦薇,張凌赫,任豪,孔雪兒,鄧凱,李卿,喻鐘黎,劉琳,嚴屹寬,岳暘,杜淳,譚凱,毛林林,葉祖新,於洋,李建義,田麗,寇佔文,付淼,盧勇,苑冉,王九勝,高卿塵,賈妮,金珈,林沐然,林思意,何昶希,高上淇,李殿尊,管雲鵬,管梓淨,張舒淪,李昱唯,向夏,韓浩天,王亭文,曹晏寧,吳佳峻,楊賀</p>
+      </a>
+          </div>
+  </section>
+    <section class="section">
+    <div class="section__head">
+      <h2 class="section__title">熱門電影</h2>
+            <nav class="section__tabs" aria-label="電影分類">
+        <a href="/genre/11.html">劇情片</a><a href="/genre/6.html">動作片</a><a href="/genre/9.html">科幻片</a><a href="/genre/7.html">喜劇片</a><a href="/genre/10.html">恐怖片</a><a href="/genre/8.html">愛情片</a><a href="/genre/12.html">戰爭片</a><a href="/genre/24.html">動畫電影</a>      </nav>
+            <a class="section__more" href="/genre/1.html">更多 ›</a>
+    </div>
+    <div class="grid">
+            <a class="poster" href="/detail/444469.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260522-1/885d728662fdf750ca111afcb1a53b30.jpg" alt="群體" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">正片</span>        </span>
+        <h3 class="poster__title">群體</h3>
+        <p class="poster__meta">全智賢,具教煥,池昌旭,申鉉彬,金新綠</p>
+      </a>
+            <a class="poster" href="/detail/447535.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260604-1/db9350d6ad752c3aa3b9dc15e3301a5d.jpg" alt="宇宙巨人：希曼崛起" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">宇宙巨人：希曼崛起</h3>
+        <p class="poster__meta">尼古拉斯·加利齊納,卡米拉·門德斯,伊德瑞斯·艾爾巴,傑瑞德·萊託,夏洛特·萊利,詹姆斯·鮑弗,莫蕾娜·巴卡琳,愛麗森·布里,克里斯汀·韋格,約翰內斯·豪克爾·約翰內森,阿爾蒂·威爾金森-亨特,薩希爾·澤瑪塔,馬克斯·克勞斯,科喬·阿塔,山姆·C·威爾遜,哈夫托爾·尤利烏斯·比約恩松,埃爾·法瑞爾,詹姆斯·威爾金森,Jon Xue Zhang,斯蒂芬·阿登坦</p>
+      </a>
+            <a class="poster" href="/detail/446935.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260529-1/f0d1592632852e8f5e5acd37f33dab2c.jpg" alt="後室" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">後室</h3>
+        <p class="poster__meta">切瓦特·埃加福,雷娜特·賴因斯夫,芬恩·本尼特</p>
+      </a>
+            <a class="poster" href="/detail/454431.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260618-1/ed5496f6bc3183991c592c1c5afcf4eb.jpg" alt="玩具總動員5" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">HC</span>        </span>
+        <h3 class="poster__title">玩具總動員5</h3>
+        <p class="poster__meta">瓊·庫薩克,埃涅·赫德森,湯姆·漢克斯,託尼·海爾,安娜·法瑞絲,柯南·奧布萊恩,布萊克·克拉克,蒂姆·艾倫,格蕾塔·李</p>
+      </a>
+            <a class="poster" href="/detail/463818.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260628-1/9afde0933dd3742ebc2c6907ea3618bf.jpg" alt="定海神針：九尾三世劫" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">定海神針：九尾三世劫</h3>
+        <p class="poster__meta">動作片 · 2026</p>
+      </a>
+            <a class="poster" href="/detail/447529.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260604-1/0508e38882a18d4ba79c05db7f7589d5.jpg" alt="驚聲尖笑6" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">驚聲尖笑6</h3>
+        <p class="poster__meta">馬龍·韋恩斯,肖恩·韋恩斯,安娜·法瑞絲,雷吉娜·赫爾,小達蒙·韋恩斯,格雷格·韋恩斯,金·韋恩斯,本尼·齊爾克,卡梅倫·斯科特·羅伯茨,切裏·奧特萊,克里斯·艾略特,戴夫·謝里登,海蒂·加德納,洛奇林·莫羅,奧利維亞·羅斯·基根,魯比·斯諾伯,哈薩尼·維貝茲·科默,西德尼·帕克,喬恩·亞伯拉罕斯,費莉莎·羅斯,薩凡納·李·梅,邁克爾·利維,比利·斯洛特,Kai Cenat</p>
+      </a>
+            <a class="poster" href="/detail/427884.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260218-1/487319893c01a2a25a86b5f45b9530e9.jpg" alt="鏢人：風起大漠" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">正片</span>        </span>
+        <h3 class="poster__title">鏢人：風起大漠</h3>
+        <p class="poster__meta">吳京,謝霆鋒,於適,陳麗君,孫藝洲,此沙,李雲霄,梁家輝,張晉,惠英紅,張譯,李連杰,劉耀文,熊瑾怡,莒謙朗,白那日蘇,梁壁熒,文俊輝,董思成,林秋楠,景瓷,張藝瀧,李嘉輝,寇佔文,代樂樂,釋彥能,徐向東,淳于珊珊,孟鶴堂,於榮光</p>
+      </a>
+            <a class="poster" href="/detail/443049.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260502-1/1fb88f840438fcaea360b011e3c27714.jpg" alt="穿著Prada的惡魔2" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">HC</span>        </span>
+        <h3 class="poster__title">穿著Prada的惡魔2</h3>
+        <p class="poster__meta">梅莉史翠普,安海瑟薇,艾米莉·布朗特,斯坦利·圖齊,賈斯汀·塞洛克斯,西蒙娜·阿什利,肯尼思·布拉納,劉玉玲,翠茜·索姆斯,凱萊布·希倫,B·J·諾瓦克,蒂波·費德曼,沈雨田,帕特里克·布拉莫爾,蕾切爾·布魯姆,Lady Gaga,寶琳·查拉梅</p>
+      </a>
+            <a class="poster" href="/detail/463747.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260627-1/c159c8b875d640f974fdba6600b909b8.jpg" alt="森中有林" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">完結</span>        </span>
+        <h3 class="poster__title">森中有林</h3>
+        <p class="poster__meta">於和偉,高圓圓,韓庚,張天愛,喬杉,夏之光,鄔家楷,謝可寅,宋小寶,安韓瑾,孫悅,樸松日,楊謹睿,孫奉招,孫奉正,劉長春,羅輯,劉威葳,劉戈濱</p>
+      </a>
+            <a class="poster" href="/detail/443094.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260503-1/c978a6dd6856602e3200bee2510bff1c.jpg" alt="寒戰1994" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">TC</span>        </span>
+        <h3 class="poster__title">寒戰1994</h3>
+        <p class="poster__meta">吳彥祖,劉俊謙,吳慷仁,謝君豪,王丹妮,廖子妤,艾丹·吉倫,休·博納維爾,周潤發,郭富城,梁家輝,古天樂,元彪,葉童,陳以文,莫文蔚,周文健,陳家樂,白只,彭敬慈,朱鑑然,譚旻萱,何啓華,楊樂文,邱士縉,魏浚笙,林嘉華,太保,楊天宇,高海寧,鄭則仕,張可堅,麥沛東,陳湛文,陳偉雄,張達倫,栢天男,林家熙</p>
+      </a>
+            <a class="poster" href="/detail/444442.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260521-1/d7ee448e41cf2d91d17f9aaa0e20525d.jpg" alt="星球大戰：曼達洛人與古古" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">星球大戰：曼達洛人與古古</h3>
+        <p class="poster__meta">佩德羅·帕斯卡,傑瑞米·艾倫·懷特,西格妮·韋弗,史蒂夫·布盧姆,馬丁·斯科塞斯,赫米基·馬德拉,馬修·維利希,喬尼·科因,邁爾斯·哈姆帕斯,倫敦·斯塔布爾菲爾德,克里斯托弗·艾倫·羅賓遜,波西亞·D·哈里斯,埃文·沙夫蘭</p>
+      </a>
+            <a class="poster" href="/detail/462800.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260625-1/0f19383c4abd28df3c3d418faf4ec5c5.jpg" alt="機械軍團" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">機械軍團</h3>
+        <p class="poster__meta">科幻片 · 2026</p>
+      </a>
+            <a class="poster" href="/detail/443103.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260503-1/2c9686f22b2f5b6906c4cfabb1a2c226.jpg" alt="給阿嬤的情書" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新TC</span>        </span>
+        <h3 class="poster__title">給阿嬤的情書</h3>
+        <p class="poster__meta">李思潼,王彥桐,吳少卿,鄭潤奇,王曉慧,趙曙光,李德如,李樹浩,烏薩·薩梅坎姆,方培松</p>
+      </a>
+            <a class="poster" href="/detail/464332.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260628-1/37def5d1cd1c72d5159621db9ee32c69.webp" alt="殺戮屋" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">殺戮屋</h3>
+        <p class="poster__meta">謝爾蓋·斯特列尼科夫,Denis,Kapustin,Oleksandra,Soroka,Valeriy,Velichko,Karina,Tymoshenko,Max,Tkachenko,Aleksandr,Rudko,Serhiy,Smiyan,Danylo,Bilyi,Oleksiy,Tyunin,Oleksiy,Sokur,Olga,Spytsia,Serhiy,Zhuravliov,Audrey,MacAlpine,Andrii,Lisnevs</p>
+      </a>
+            <a class="poster" href="/detail/454693.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260620-1/acc2528afb8b2add9d400e4288e26de4.jpg" alt="羅賓漢之死" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新HD</span>        </span>
+        <h3 class="poster__title">羅賓漢之死</h3>
+        <p class="poster__meta">休·傑克曼,朱迪·科默,比爾·斯卡斯加德,諾亞·尤佩,穆雷·巴特利特,菲絲·德拉尼,阿爾菲·勞利斯,以利亞·昂格瓦里,Fintan Shevlin,塔比莎·史密斯,博·湯普森,Asher De Silva</p>
+      </a>
+            <a class="poster" href="/detail/452530.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260611-1/96277718e0cf0e1b4c4f16e32d9d31ed.jpg" alt="揭秘日" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新TC</span>        </span>
+        <h3 class="poster__title">揭秘日</h3>
+        <p class="poster__meta">艾米莉·布朗特,喬什·奧康納,科林·費爾斯,伊芙·休森,科爾曼·多明戈,懷亞特·羅素,亨利·勞埃德-休斯,吉姆·帕拉克,邁克爾·加斯頓,麥肯娜·布里傑,加比·比恩斯,湯米·馬丁內茲,斯萬米·薩姆派奧,艾米麗·麥肯德里,埃利奧特·維拉爾,諾亞·羅賓斯,克里斯·西爾科克,奇里爾·保蘭,庫利·卡爾文,伊麗莎白·斯坦利</p>
+      </a>
+            <a class="poster" href="/detail/443127.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260504-1/b29ba76c7a8d39de717d6ab8c7b7e2a8.jpg" alt="關於我轉生變成史萊姆這檔事蒼海之淚篇" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">HD</span>        </span>
+        <h3 class="poster__title">關於我轉生變成史萊姆這檔事蒼海之淚篇</h3>
+        <p class="poster__meta">堂本光一</p>
+      </a>
+            <a class="poster" href="/detail/463631.html">
+        <span class="poster__thumb">
+          <img src="https://xinlangtupian.com/cover/8e115f1f0305d1af42317e69fd492c8f.jpg#err" alt="小黃人與大怪獸" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新TC</span>        </span>
+        <h3 class="poster__title">小黃人與大怪獸</h3>
+        <p class="poster__meta">皮埃爾·柯芬,克里斯托弗·瓦爾茲,傑夫·布里吉斯,艾莉森·珍妮,傑西·艾森伯格,佐伊·達奇,鮑比·莫尼漢,菲爾·拉馬,喬治·盧卡斯,特雷·帕克</p>
+      </a>
+          </div>
+  </section>
+    <section class="section">
+    <div class="section__head">
+      <h2 class="section__title">熱門動漫</h2>
+            <a class="section__more" href="/genre/4.html">更多 ›</a>
+    </div>
+    <div class="grid">
+            <a class="poster" href="/detail/245516.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20231107-1/7c270c32a4b91a8db9a28ba9987e56d1.jpg" alt="仙逆" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至147集</span>        </span>
+        <h3 class="poster__title">仙逆</h3>
+        <p class="poster__meta">史澤鯤,常文濤,林強,周湘寧</p>
+      </a>
+            <a class="poster" href="/detail/68033.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260615-1/f3528cbcb4700de9dd65f426b43ec355.jpg" alt="凡人修仙傳" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至第180集</span>        </span>
+        <h3 class="poster__title">凡人修仙傳</h3>
+        <p class="poster__meta">錢文青,楊天翔,楊默,歪歪,谷江山,喬詩語</p>
+      </a>
+            <a class="poster" href="/detail/252248.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20231118-1/5f2b4d5c31e63bf637e0b4b28a9d8311.jpg" alt="航海王" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">艾格赫德前半總集篇</span>        </span>
+        <h3 class="poster__title">航海王</h3>
+        <p class="poster__meta">田中真弓,岡村明美,中井和哉,山口勝平,平田廣明,大谷育江,山口由裏子,矢尾一樹,長島雄一,池田秀一,古川登志夫,古谷徹,大塚周夫,津嘉山正種,草尾毅,大場真人,寶龜克壽,園部啓一,柴田秀勝,中博史,阪口大助,竹內順子,千葉繁,三石琴乃,掛川裕彥,堀秀行,田中秀幸,大友龍三郎,有本欽隆,大塚明夫,玄田哲章,小山茉美,土井美加,野田順子,渡邊美佐,野上尤加奈,林原惠美,水樹奈奈,園崎未惠,西原久美子,久川綾,澤城美雪,池澤春菜,齋藤千和,神谷浩史,浪川大輔,森久保祥太郎,石田彰,高木涉,檜山修之,子安武人,</p>
+      </a>
+            <a class="poster" href="/detail/303485.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20241027-1/480211ecc8be65bb630815094bc68d16.jpg" alt="牧神記" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至第02集</span>        </span>
+        <h3 class="poster__title">牧神記</h3>
+        <p class="poster__meta">張若瑜,李欣,程玉珠,杜晴晴,虞曉旭,於凱隆,高嗣航,張恆,王宇航,劉宇軒,唐昊</p>
+      </a>
+            <a class="poster" href="/detail/207873.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20220731-1/a315fc299a4e5e4fed0c8ef34006a6f5.jpg" alt="斗破蒼穹 年番" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至205集</span>        </span>
+        <h3 class="poster__title">斗破蒼穹 年番</h3>
+        <p class="poster__meta">暫無</p>
+      </a>
+            <a class="poster" href="/detail/420167.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20251228-1/88712bbb5dfac644e2b9319e1415c0af.jpg" alt="光陰之外" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">28</span>        </span>
+        <h3 class="poster__title">光陰之外</h3>
+        <p class="poster__meta">動漫 · 2025</p>
+      </a>
+            <a class="poster" href="/detail/242440.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20230624-1/1d840d934c43570d642bbbd58355b48b.jpg" alt="斗羅大陸2：絕世唐門" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至159集</span>        </span>
+        <h3 class="poster__title">斗羅大陸2：絕世唐門</h3>
+        <p class="poster__meta">動漫 · 2023</p>
+      </a>
+            <a class="poster" href="/detail/115825.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20201129-1/58d2d1341368dfe916ae1198b95a9bfd.jpg" alt="吞噬星空" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至230集</span>        </span>
+        <h3 class="poster__title">吞噬星空</h3>
+        <p class="poster__meta">動漫 · 2020</p>
+      </a>
+            <a class="poster" href="/detail/249985.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20231109-1/43d1601346dec6a3b55fb9b4989fc669.jpg" alt="滄元圖" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至第83集</span>        </span>
+        <h3 class="poster__title">滄元圖</h3>
+        <p class="poster__meta">動漫 · 2023</p>
+      </a>
+            <a class="poster" href="/detail/144478.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20210508-1/2caf509de03a6ae5beed9a342feb945e.jpg" alt="完美世界" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至275集</span>        </span>
+        <h3 class="poster__title">完美世界</h3>
+        <p class="poster__meta">動漫 · 2021</p>
+      </a>
+            <a class="poster" href="/detail/460548.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260625-1/f01fe18c26b7262ab23f87e47e0c1d6b.webp" alt="斬神之凡塵神域Ⅱ" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至3集</span>        </span>
+        <h3 class="poster__title">斬神之凡塵神域Ⅱ</h3>
+        <p class="poster__meta">馬正陽</p>
+      </a>
+            <a class="poster" href="/detail/425841.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260131-1/29212bc1d8a1846c4931629e76b86fa3.jpg" alt="擇天記3D動畫版" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至24集</span>        </span>
+        <h3 class="poster__title">擇天記3D動畫版</h3>
+        <p class="poster__meta">動漫 · 2026</p>
+      </a>
+            <a class="poster" href="/detail/240943.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20230803-1/bb6a64aad2c15d9439f844cc6341f24a.jpg" alt="遮天" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至168集</span>        </span>
+        <h3 class="poster__title">遮天</h3>
+        <p class="poster__meta">暫無</p>
+      </a>
+            <a class="poster" href="/detail/318325.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20250601-1/7de77f51ea194577d5a78bbe4e199f72.jpeg" alt="死靈法師！我即是天災" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至270集</span>        </span>
+        <h3 class="poster__title">死靈法師！我即是天災</h3>
+        <p class="poster__meta">動漫 · 2025</p>
+      </a>
+            <a class="poster" href="/detail/243991.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20230728-1/8bae4fa406938038ef612d0bf0fb1649.jpg" alt="大主宰年番" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新第79集</span>        </span>
+        <h3 class="poster__title">大主宰年番</h3>
+        <p class="poster__meta">動漫 · 2023</p>
+      </a>
+            <a class="poster" href="/detail/464375.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260628-1/fa9338a2ac6d11facb3d3013507ef5dc.jpg" alt="BLEACH 千年血戰篇 -禍進譚" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新第01-03集</span>        </span>
+        <h3 class="poster__title">BLEACH 千年血戰篇 -禍進譚</h3>
+        <p class="poster__meta">安元洋貴,雪野五月,梅原裕一郎,立木文彥,樫井笙人,稻田徹,大塚明夫,高木涉,桑島法子,伊藤健太郎,杉田智和,豐口惠美,菅生隆之,三木真一郎,朴璐美,折笠富美子,森田成一,市來光弘,武內駿輔,置鯰龍太郎,Noriaki Sugiyama,小山剛志,諏訪部順一,小野坂昌也,松岡由貴,石川英郎,速水獎,長嶝高士,高木禮子,清都亞里沙,石冢小夜裡</p>
+      </a>
+            <a class="poster" href="/detail/249837.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20231107-1/06ff3cb03c43fae1ea9a55cce8fb54de.jpg" alt="煉氣十萬年" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至第352集</span>        </span>
+        <h3 class="poster__title">煉氣十萬年</h3>
+        <p class="poster__meta">袁銘喆,朱蓉蓉,夜渡于野,孫睿揚,王曼詩,周侗,夏覓塵,孫熹鶴,張鬍子,唐策,李翰林,閆子蔚,胡正健,敘白,家明,康瀟文,三羊,易湫,梅媛菲,凃雄飛,羊羽先生</p>
+      </a>
+            <a class="poster" href="/detail/706.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20200423-1/71b874fa85d53ddf844bf1fe73d81355.jpg" alt="武神主宰" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至669集</span>        </span>
+        <h3 class="poster__title">武神主宰</h3>
+        <p class="poster__meta">內詳</p>
+      </a>
+          </div>
+  </section>
+    <section class="section">
+    <div class="section__head">
+      <h2 class="section__title">熱門綜藝</h2>
+            <a class="section__more" href="/genre/29.html">更多 ›</a>
+    </div>
+    <div class="grid">
+            <a class="poster" href="/detail/240661.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260407-1/06506bca409f5d95aabd73192b7aa11b.jpg" alt="乘風" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">訓練室全紀錄第6期</span>        </span>
+        <h3 class="poster__title">乘風</h3>
+        <p class="poster__meta">蕭薔,李心潔,范瑋琪,徐潔兒,江語晨,唐藝昕,闞清子,曾沛慈,淡淡,代斯,安崎</p>
+      </a>
+            <a class="poster" href="/detail/457055.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260624-1/84f8dd16741f87abd2c904f28f3e4be7.webp" alt="地球超新鮮第二季" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至2026-07-04期</span>        </span>
+        <h3 class="poster__title">地球超新鮮第二季</h3>
+        <p class="poster__meta">郭京飛,李乃文,孫紅雷,王玉雯,陳星旭,劉宇寧,林一,龔俊</p>
+      </a>
+            <a class="poster" href="/detail/463753.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260627-1/a6fdc95707cabfbcc3e1ce9e01c1ed49.webp" alt="說唱巔峰對決" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">聊巔天</span>        </span>
+        <h3 class="poster__title">說唱巔峰對決</h3>
+        <p class="poster__meta">嚴浩翔,謝帝,艾熱,派克特,功夫胖,盛宇,楊長青,劉嘉裕,米爾艾力,李斯丹妮,布瑞吉,翁傑,黃旭,楊博睿,吳嘉軒,白景屹,貳萬,孫暘,李大奔,徐贏,郭穎</p>
+      </a>
+            <a class="poster" href="/detail/576.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20210615-1/5b007a4f6432bcd5e3ee07537cd553d6.jpg" alt="Running Man" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至20260628期</span>        </span>
+        <h3 class="poster__title">Running Man</h3>
+        <p class="poster__meta">劉在石,池石鎮,金鐘國</p>
+      </a>
+            <a class="poster" href="/detail/444263.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260519-1/fe898b625c614450f8263110947cb3e2.webp" alt="半熟戀人第五季" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至2026-06-30期</span>        </span>
+        <h3 class="poster__title">半熟戀人第五季</h3>
+        <p class="poster__meta">綜藝 · 2026</p>
+      </a>
+            <a class="poster" href="/detail/431913.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260326-1/613200790e855843f0443a9951f29452.jpg" alt="開始推理吧第四季" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至2026-07-01期</span>        </span>
+        <h3 class="poster__title">開始推理吧第四季</h3>
+        <p class="poster__meta">綜藝 · 2026</p>
+      </a>
+            <a class="poster" href="/detail/454671.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260620-1/f1994ceff24433772714f16145c506d4.jpg" alt="豆豆農場" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至02集</span>        </span>
+        <h3 class="poster__title">豆豆農場</h3>
+        <p class="poster__meta">李光洙,金宇彬,都敬秀,文尚勳</p>
+      </a>
+            <a class="poster" href="/detail/306671.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20241215-1/59625be6d2a4ec62f99e88d01caa8c17.png" alt="拜託了冰箱2" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至77集</span>        </span>
+        <h3 class="poster__title">拜託了冰箱2</h3>
+        <p class="poster__meta">金聖柱,安貞煥</p>
+      </a>
+            <a class="poster" href="/detail/454457.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260618-1/5ff4ac16b506da582e7488c07799903c.jpg" alt="中餐廳·南洋拾光季" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新20260628</span>        </span>
+        <h3 class="poster__title">中餐廳·南洋拾光季</h3>
+        <p class="poster__meta">黃曉明,王俊凱,昆凌,姜妍,靳夢佳,張雅琪,林述巍</p>
+      </a>
+            <a class="poster" href="/detail/443550.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260509-1/0aea11742c0c5917cf944249dcd93920.jpg" alt="你好麵包店" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">第8期</span>        </span>
+        <h3 class="poster__title">你好麵包店</h3>
+        <p class="poster__meta">金喜愛,車勝元,金宣虎,李基澤</p>
+      </a>
+            <a class="poster" href="/detail/447233.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260602-1/12f7d49fb5e9ed333a1493e68c84784b.webp" alt="喜歡你我也是第六季" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新20260629</span>        </span>
+        <h3 class="poster__title">喜歡你我也是第六季</h3>
+        <p class="poster__meta">辰亦儒 何浩楠 孔雪兒 美娜 王一珩</p>
+      </a>
+            <a class="poster" href="/detail/163862.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20220102-1/edf4123ffbbd5a38558ea3058bdf8c4a.jpg" alt="你好星期六" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至會員精選第6期</span>        </span>
+        <h3 class="poster__title">你好星期六</h3>
+        <p class="poster__meta">綜藝 · 2022</p>
+      </a>
+            <a class="poster" href="/detail/141543.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20210501-1/e4ebb72853760e47888219529dd141d6.jpg" alt="我獨自生活" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至20260626期</span>        </span>
+        <h3 class="poster__title">我獨自生活</h3>
+        <p class="poster__meta">盧洪哲,Defconn,金泰元,金光奎</p>
+      </a>
+            <a class="poster" href="/detail/441381.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260612-1/8b4e4d02526b2542862ac4116be386ad.jpg" alt="奔跑吧第十季" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至20260629期</span>        </span>
+        <h3 class="poster__title">奔跑吧第十季</h3>
+        <p class="poster__meta">李晨,鄭愷,沙溢,白鹿,範丞丞,張真源,孟子義,李昀銳</p>
+      </a>
+            <a class="poster" href="/detail/143652.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20210502-1/5ee606d6b98040a4fc35a586db3b3ce3.jpg" alt="閒著幹嘛呢？" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至20260627期</span>        </span>
+        <h3 class="poster__title">閒著幹嘛呢？</h3>
+        <p class="poster__meta">劉在錫,李孝利</p>
+      </a>
+            <a class="poster" href="/detail/446572.html">
+        <span class="poster__thumb">
+          <img src="https://imgs.1777cdn.com/upload/vod/20260524-1/dc2e37aa3fd839289fec03c3b86960cd.webp" alt="姐姐對我來說是女人2" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">更新至05期</span>        </span>
+        <h3 class="poster__title">姐姐對我來說是女人2</h3>
+        <p class="poster__meta">韓惠珍,張祐榮,林哲</p>
+      </a>
+            <a class="poster" href="/detail/443449.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260507-1/cc8aca161863b384d04e0bb2b1794774.webp" alt="五十公里桃花塢6" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">260626</span>        </span>
+        <h3 class="poster__title">五十公里桃花塢6</h3>
+        <p class="poster__meta">阿如那,蕭敬騰,滕哲,袁詠儀,彭冠英,周濤,徐若晗,賀峻霖,李雪琴,王子奇,陳鑫海,方媛,徐志勝,李嘉琦</p>
+      </a>
+            <a class="poster" href="/detail/443200.html">
+        <span class="poster__thumb">
+          <img src="https://img.1777cdn.com/upload/vod/20260504-1/f641bf03ac8391ac3ab3baf1ada8c3e8.jpg" alt="花樣青春: 限量版" loading="lazy" decoding="async" referrerpolicy="no-referrer" width="200" height="280">
+          <span class="poster__status">全06集</span>        </span>
+        <h3 class="poster__title">花樣青春: 限量版</h3>
+        <p class="poster__meta">鄭裕美,朴敘俊,崔宇植</p>
+      </a>
+          </div>
+  </section>
+  </main>
+
+<button type="button" class="to-top" data-action="to-top" aria-label="返回頂部">
+  <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m18 15-6-6-6 6"/></svg>
+</button>
+
+<footer class="site-footer" role="contentinfo">
+  <div class="container">
+    <p class="site-footer__copy">Gimy TV 劇迷 — 高清追劇線上看，每日更新最新電視劇、電影、動漫、綜藝。本站所有影片資源均收集自網路。<br>&copy; 2026 Gimy TV 劇迷. All rights reserved.</p>
+  </div>
+</footer>
+
+<div class="install-banner" data-install-banner hidden>
+  <img class="install-banner__icon" src="/images/icon-192.png?v=2" alt="" width="40" height="40">
+  <div class="install-banner__text">
+    <strong>安裝 Gimy TV 劇迷</strong>
+    <span>加到主畫面,全螢幕看更順</span>
+  </div>
+  <button type="button" class="install-banner__btn" data-install-action>安裝</button>
+  <button type="button" class="install-banner__close" data-install-dismiss aria-label="關閉">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+  </button>
+</div>
+<div class="ios-hint" data-ios-hint hidden>
+  <div class="ios-hint__box">
+    <p>用 <strong>Safari</strong> 開啟,點「分享」<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 5l-1.42 1.42-1.59-1.59V16h-1.98V4.83L9.42 6.42 8 5l4-4 4 4zM20 10v11c0 1.1-.9 2-2 2H6c-1.11 0-2-.9-2-2V10c0-1.11.89-2 2-2h3v2H6v11h12V10h-3V8h3c1.1 0 2 .89 2 2z"/></svg>,選「加入主畫面」</p>
+    <button type="button" class="ios-hint__ok" data-ios-hint-close>知道了</button>
+  </div>
+</div>
+
+<script src="/template/gimyai/js/common.js?v=3" defer></script>
+<script src="/template/gimyai/js/comment-reply.js?v=4" defer></script>
+<script>(function(){function h(){var el=document.querySelector('.mac_hits[data-type="hits"]');if(!el)return;var id=el.getAttribute('data-id'),mid=el.getAttribute('data-mid')||'1';if(id)fetch('/index.php/ajax/hits?id='+encodeURIComponent(id)+'&mid='+encodeURIComponent(mid)+'&type=update',{credentials:'same-origin'});}if(document.readyState!=='loading')h();else document.addEventListener('DOMContentLoaded',h);})();</script>
+<script>if('serviceWorker' in navigator){addEventListener('load',function(){navigator.serviceWorker.register('/sw.js').catch(function(){});});}</script>
+<script>
+(function(){
+  var activeFrame=null;
+  var activeBox=null;
+  var savedFrameStyle='';
+  var savedBoxStyle='';
+  var savedOverflow=null;
+  function findPlayerFrame(source){
+    var frames=document.querySelectorAll('iframe');
+    for(var i=0;i<frames.length;i++){
+      if(frames[i].contentWindow===source)return frames[i];
+    }
+    return null;
+  }
+  function restore(){
+    if(activeFrame){
+      activeFrame.setAttribute('style',savedFrameStyle||'');
+      delete activeFrame.dataset.gimyYtWebFullscreen;
+    }
+    if(activeBox){
+      activeBox.setAttribute('style',savedBoxStyle||'');
+      delete activeBox.dataset.gimyYtWebFullscreen;
+    }
+    if(savedOverflow){
+      document.documentElement.style.overflow=savedOverflow.html;
+      if(document.body)document.body.style.overflow=savedOverflow.body;
+    }
+    activeFrame=null;
+    activeBox=null;
+    savedFrameStyle='';
+    savedBoxStyle='';
+    savedOverflow=null;
+  }
+  window.addEventListener('message',function(event){
+    var data=event.data||{};
+    var isYtPlayer=data.source==='gimy-yt-player'&&data.type==='web-fullscreen';
+    var isPlayerWrapper=data.type==='player:fullscreenWeb';
+    if(!data||(!isYtPlayer&&!isPlayerWrapper))return;
+    if(event.origin!=='https://v.gimy.bot'&&event.origin!=='https://player.gimy.bot')return;
+    var frame=findPlayerFrame(event.source);
+    if(!frame)return;
+    if(!(isYtPlayer?data.enabled:data.state)){
+      restore();
+      return;
+    }
+    if(activeFrame&&activeFrame!==frame)restore();
+    activeFrame=frame;
+    activeBox=frame.closest('#player-frame,.player-frame,.watch-player')||frame.parentElement;
+    savedFrameStyle=frame.getAttribute('style')||'';
+    savedBoxStyle=activeBox?activeBox.getAttribute('style')||'':'';
+    savedOverflow={
+      html:document.documentElement.style.overflow||'',
+      body:document.body?document.body.style.overflow||'':''
+    };
+    if(activeBox){
+      activeBox.dataset.gimyYtWebFullscreen='1';
+      activeBox.style.position='fixed';
+      activeBox.style.inset='0';
+      activeBox.style.width='100vw';
+      activeBox.style.height='100vh';
+      activeBox.style.maxWidth='none';
+      activeBox.style.maxHeight='none';
+      activeBox.style.margin='0';
+      activeBox.style.padding='0';
+      activeBox.style.borderRadius='0';
+      activeBox.style.overflow='hidden';
+      activeBox.style.zIndex='2147483000';
+      activeBox.style.background='#000';
+      activeBox.style.isolation='auto';
+    }
+    frame.dataset.gimyYtWebFullscreen='1';
+    frame.style.position='absolute';
+    frame.style.inset='0';
+    frame.style.width='100%';
+    frame.style.height='100%';
+    frame.style.maxWidth='none';
+    frame.style.maxHeight='none';
+    frame.style.zIndex='1';
+    frame.style.background='#000';
+    frame.style.border='0';
+    document.documentElement.style.overflow='hidden';
+    if(document.body)document.body.style.overflow='hidden';
+  });
+  window.addEventListener('keydown',function(event){
+    if(event.key==='Escape')restore();
+  });
+})();
+</script>
+<script>
+(function(){
+  var KEY='pwa_dismiss',DAYS=1,dp=null;
+  var sb=document.querySelector('[data-install-banner]'),ios=document.querySelector('[data-ios-hint]');
+  var acts=document.querySelectorAll('[data-install-action]');
+  if(window.matchMedia('(display-mode: standalone)').matches||navigator.standalone===true)return;
+  var ua=navigator.userAgent||'';
+  var isIOS=/iphone|ipad|ipod/i.test(ua)||(/Macintosh/i.test(ua)&&navigator.maxTouchPoints>1);
+  var isMobile=window.matchMedia('(pointer: coarse)').matches;
+  function dismissed(){try{var v=localStorage.getItem(KEY);return v&&(Date.now()-+v)<DAYS*864e5;}catch(e){return false;}}
+  function showBanner(){if(sb&&!dismissed()){sb.hidden=false;requestAnimationFrame(function(){sb.classList.add('show');});}}
+  function hideBanner(){if(sb){sb.classList.remove('show');setTimeout(function(){sb.hidden=true;},250);}}
+  window.addEventListener('beforeinstallprompt',function(e){if(!isMobile)return;e.preventDefault();dp=e;setTimeout(showBanner,3000);});
+  acts.forEach(function(b){b.addEventListener('click',function(){if(dp){dp.prompt();dp.userChoice.then(function(){dp=null;hideBanner();});}else if(isIOS&&ios){hideBanner();ios.hidden=false;}});});
+  var dm=document.querySelector('[data-install-dismiss]');if(dm)dm.addEventListener('click',function(){try{localStorage.setItem(KEY,String(Date.now()));}catch(e){}hideBanner();});
+  var ic=document.querySelector('[data-ios-hint-close]');if(ic)ic.addEventListener('click',function(){if(ios)ios.hidden=true;});
+  if(ios)ios.addEventListener('click',function(e){if(e.target===ios)ios.hidden=true;});
+  window.addEventListener('appinstalled',function(){hideBanner();acts.forEach(function(b){b.hidden=true;});});
+})();
+</script>
+<script>
+(function(){
+  var KEY='gimy_zh',MAPKEY='gimy_t2s_v1';
+  var btn=document.querySelector('[data-zh-toggle]'),lbl=document.querySelector('[data-zh-label]');
+  var map=null,observing=false;
+  var SKIP={SCRIPT:1,STYLE:1,NOSCRIPT:1,TEXTAREA:1,CODE:1,PRE:1};
+  function conv(s){var o='';for(var i=0;i<s.length;i++){var c=s.charAt(i);o+=map[c]||c;}return o;}
+  function walk(root){
+    if(root.nodeType===3){var c=conv(root.nodeValue);if(c!==root.nodeValue)root.nodeValue=c;return;}
+    if(root.nodeType!==1||SKIP[root.nodeName])return;
+    var w=document.createTreeWalker(root,NodeFilter.SHOW_TEXT,{acceptNode:function(n){
+      if(!n.nodeValue||!n.nodeValue.trim())return NodeFilter.FILTER_REJECT;
+      return (n.parentNode&&SKIP[n.parentNode.nodeName])?NodeFilter.FILTER_REJECT:NodeFilter.FILTER_ACCEPT;}});
+    var n,a=[];while(n=w.nextNode())a.push(n);
+    for(var i=0;i<a.length;i++){var c=conv(a[i].nodeValue);if(c!==a[i].nodeValue)a[i].nodeValue=c;}
+  }
+  function convertAll(){
+    if(lbl)lbl.textContent='繁體中文';
+    walk(document.body);
+    document.documentElement.lang='zh-Hans';
+    if(!observing){observing=true;
+      new MutationObserver(function(ms){for(var i=0;i<ms.length;i++){var ns=ms[i].addedNodes;for(var j=0;j<ns.length;j++)walk(ns[j]);}}).observe(document.body,{childList:true,subtree:true});}
+  }
+  function loadMap(cb){
+    if(map)return cb();
+    try{var c=localStorage.getItem(MAPKEY);if(c){map=JSON.parse(c);return cb();}}catch(e){}
+    fetch('/template/gimyai/js/t2s.json?v=1').then(function(r){return r.json();}).then(function(j){map=j;try{localStorage.setItem(MAPKEY,JSON.stringify(j));}catch(e){}cb();}).catch(function(){});
+  }
+  var active=false;try{active=localStorage.getItem(KEY)==='s';}catch(e){}
+  if(active)loadMap(convertAll);
+  if(btn)btn.addEventListener('click',function(){
+    try{localStorage.getItem(KEY)==='s'?localStorage.removeItem(KEY):localStorage.setItem(KEY,'s');}catch(e){}
+    location.reload();
+  });
+})();
+</script>
+<script>/* vod-vote */
+(function(){
+  function gc(n){var m=document.cookie.match('(^|;)\\s*'+n+'\\s*=\\s*([^;]+)');return m?decodeURIComponent(m.pop()):'';}
+  var EP='/index.php/ajax/digg';
+  function post(id,type){return fetch(EP,{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded','X-Requested-With':'XMLHttpRequest'},credentials:'same-origin',body:'id='+encodeURIComponent(id)+'&mid=1&type='+type}).then(function(r){return r.json();});}
+  var gs=document.querySelectorAll('[data-vote]');if(!gs.length)return;
+  for(var i=0;i<gs.length;i++)(function(g){
+    var id=g.getAttribute('data-id');if(!id)return;
+    var up=g.querySelector('.vote-up'),dn=g.querySelector('.vote-down');
+    var nu=up.querySelector('.vote-num'),nd=dn.querySelector('.vote-num');
+    function apply(d){if(nu)nu.textContent=d.up>0?d.up:'';if(nd)nd.textContent=d.down>0?d.down:'';up.classList.toggle('is-on',!!d.voted_up);dn.classList.toggle('is-on',!!d.voted_down);}
+    var vu=!!gc('vod-up-'+id),vd=!!gc('vod-down-'+id);
+    if(vu)up.classList.add('is-on');
+    if(vd)dn.classList.add('is-on');
+    if(vu||vd){post(id,'').then(function(d){if(d&&d.code==1&&d.data)apply(d.data);}).catch(function(){});}
+    g.addEventListener('click',function(e){
+      var btn=e.target.closest('[data-vote-type]');if(!btn)return;
+      if(g.getAttribute('data-busy'))return;g.setAttribute('data-busy','1');
+      post(id,btn.getAttribute('data-vote-type')).then(function(d){g.removeAttribute('data-busy');if(d&&d.code==1&&d.data)apply(d.data);}).catch(function(){g.removeAttribute('data-busy');});
+    });
+  })(gs[i]);
+})();
+</script>
+
+</body>
+</html>

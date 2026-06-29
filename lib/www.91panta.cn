@@ -1,0 +1,2131 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+	<base href="https://www.91panta.cn/" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>盘Ta-云盘资源共享站</title>
+	<meta name="keywords" content="91盘Ta 盘TA 91panta 影视资源 电影 电视剧 美剧 密室大逃脱 快乐再出发 资源"/>
+	<meta name="description" content="移动云盘小站论坛 移动云盘资源站 移动云盘论坛"/>
+    <meta name="baidu-site-verification" content="codeva-uj0Ah9j39z"/>
+	<script>
+		// console.log("埋点代码统一处理处")
+		</script>
+	<link href="common/default/pc/css/common.css" rel="stylesheet" type="text/css" />
+	<link rel="shortcut icon" type="image/x-icon" href="https://www.91panta.cn/common/default/pc/images/favicon.ico" media="screen" />
+	<link href="common/default/pc/css/themify-icons/style.css" type="text/css" rel="stylesheet">
+	<!--[if (IE 6)|(IE 7)|(IE 8)]>
+	<script type="text/javascript" src="common/default/pc/js/css3pie/PIE_IE678.js"></script> 
+	<![endif]-->
+	<!--[if (IE 6)|(IE 7)|(IE 8)]>
+	<script type="text/javascript">
+		//让ie6/ie7/ie8支持自定义标签。这段代码必须放在页面头部<head>标签内
+		(function() {
+			var a = ['hide'/* 其他HTML5元素 */];
+			for (var i = 0, j = a.length; i < j; i++) {
+				document.createElement(a[i]);
+			}	
+		})();
+	</script>
+	<![endif]-->
+	<script type="text/javascript" src="common/default/pc/js/jquery/jquery.min.js" language="javascript"></script>
+	<script type="text/javascript" src="common/default/pc/js/jquery/jquery.letterAvatar.js" language="javascript"></script>
+	<link href="common/default/pc/js/imageZoom/style.css" rel="stylesheet" type="text/css" />
+	<script type="text/javascript" src="common/default/pc/js/imageZoom/comment.js?1"></script> 
+	<script type="text/javascript" src="common/default/pc/js/tool.js" language="javascript"></script>
+	<script type="text/javascript" src="common/default/pc/js/kindeditor/kindeditor-min.js" language="javascript"></script>
+	<script type="text/javascript" src="common/default/pc/js/ajax.js" language="javascript" ></script>
+	<script type="text/javascript" src="common/default/pc/js/json2.js" language="javascript" ></script>
+	<link href="common/default/pc/js/layer/skin/default/layer.css"  type="text/css" rel="stylesheet"/>
+	<script type="text/javascript" src="common/default/pc/js/layer/layer.js" language="javascript"></script>
+	<script type="text/javascript" src="common/default/pc/js/jquery/readmore2.js" language="javascript"></script>
+	
+	<script type="text/javascript" src="common/default/pc/js/DPlayer/hls.min.js" language="javascript"></script>
+	<script type="text/javascript" src="common/default/pc/js/DPlayer/DPlayer.min.js" language="javascript"></script>
+</head>
+<body>
+<div class="headerModule">
+	<div class="box">
+		<a href="" class="logo">
+			<img alt="LOGO" width="140" height="30" src="common/default/pc/images/logo.gif" >
+		</a>
+<div class="nav">
+	<ul class="clearfix">
+			<li><a href="index">首页</a></li>
+			<li><a href="askList">互助区</a></li>
+			<li><a href="helpDetail?helpTypeId=39724773446472&amp;helpId=1">帮助中心</a></li>
+	</ul>
+</div>
+
+		<div class="head-search">
+			<form action="search" method="get">
+				<input name="keyword" value="" autocomplete="off" placeholder="片名/书名/演员/作者等">
+				<input type="submit" class="sub-button" value="">
+				<i class="icon cms-search"></i>
+			</form>
+		</div>
+		<div class="menu" >
+			<ul class="clearfix">
+					<li><a href="register" class="a-button">注册</a></li>
+					<li><a href="login" class="a-button">登录</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+
+<div class="skeleton">
+	<div class="main wrap" >
+
+	<div class="tabModule">
+		<div class="tab-box" >
+			<div id="tabNavigation">
+				<a href=""  class='tab_current'>全部</a>
+					<a href="?tagId=39955372461067"  class='tab' data="">
+						精彩合集
+					</a>
+					<a href="?tagId=39765285016165"  class='tab' data="">
+						电影
+					</a>
+					<a href="?tagId=39765284616164"  class='tab' data="">
+						电视剧
+					</a>
+					<a href="?tagId=44732560408431"  class='tab' data="">
+						短剧
+					</a>
+					<a href="?tagId=39724837840290"  class='tab' data="">
+						电子书
+					</a>
+					<a href="?tagId=39724839640293"  class='tab' data="">
+						综艺
+					</a>
+					<a href="?tagId=47473193741772"  class='tab' data="">
+						广播剧/有声书
+					</a>
+					<a href="?tagId=39724837340289"  class='tab' data="">
+						音乐
+					</a>
+					<a href="?tagId=39983744385926"  class='tab' data="">
+						少儿
+					</a>
+					<a href="?tagId=39956600861068"  class='tab' data="">
+						纪录片
+					</a>
+					<a href="?tagId=39963761061069"  class='tab' data="">
+						学习教育
+					</a>
+					<a href="?tagId=39724838540291"  class='tab' data="">
+						动漫
+					</a>
+					<a href="?tagId=40144748109462"  class='tab' data="">
+						运动健身
+					</a>
+					<a href="?tagId=41968409370311"  class='tab' data="">
+						壁纸头像
+					</a>
+					<a href="?tagId=40084313152845"  class='tab' data="">
+						软件/游戏
+					</a>
+					<a href="?tagId=39773221316166"  class='tab' data="">
+						其他
+					</a>
+			</div>
+		</div>
+		<div id="tabNavigation_more" class="more"></div>
+	</div>	
+<script type="text/javascript">
+	$(document).ready(function () {
+		//隐藏高度超过100px的内容
+		$('#tabNavigation').readmore({
+			speed: 100,//速度
+			collapsedHeight: 48,//默认高度
+			moreLink: '<div class="readMore">更多 <i class="cms-angle-down"></i></div>',
+			bindLink: '#tabNavigation_more',
+			rootElement: '.tabModule',
+			afterToggle: function(trigger, element, expanded) {
+
+			}
+		});
+		
+		
+	});
+</script>
+
+
+
+<style>
+/** 半透明提示层 **/
+.hideTag-class .layui-layer-content{
+	background-color: rgba(0,0,0,0.6);
+}
+.hideTag-class .layui-layer-content .layui-layer-TipsG {
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-width: 5px;
+	*overflow: hidden;
+	
+	border-style: dashed;
+ 	border-color:rgba(0,0,0,0.6) transparent transparent transparent;
+	margin-bottom: -2px;
+	margin-bottom: 3px\0;
+	*margin-bottom: 3px;
+}
+
+.hideTag-class .layui-layer-content .layui-layer-TipsT {
+	left: 7px;
+	border-right-style: solid;
+	border-right-color: rgba(0,0,0,0.6);
+}
+</style>
+<script type="text/javascript">
+var tab_tip_index = 0;
+$(".tab,.tab_current").on('mouseenter', this,function() {
+	var data = $(this).attr("data");
+	if(data != undefined && data != ''){
+		tab_tip_index = layer.tips(data, $(this), {
+			tips: 1,//[1, "rgba(0, 0, 0,0.5)"],
+			time: 5000,
+			skin: 'hideTag-class'
+		});
+	}
+}).on('mouseleave', this, function(){
+	layer.close(tab_tip_index);
+});
+</script>
+	
+	
+		
+<div class="topicModule">
+	<div class="topic-box">
+		<div class="topicList">
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=HaALSbhivlFjSrxuIt2">
+									<img src="file/avatar/2023-04-13/100x100/6b1568305eec47fb9cfc4a41746c11c4.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">其他</span></span>
+					            	<a class="userName" href="user/control/home?userName=HaALSbhivlFjSrxuIt2">
+					            		wulongcha
+					            	</a>
+					            	<span class="postTime">发表时间：2023-05-30 15:08:55</span>
+					            		<span class="lastReplyTime">最新回复：2026-02-20 15:18:47</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=11033" target="_blank">【记得超链接】论坛发帖规则+使用指引+防走丢策略</a>
+					            	<span class="top">置顶</span>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_11033">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-04-22/image/b1253e3c2da44deeb7a427aeca83a204b2770.png">
+																<div class="img" style="background-image: url(file/topic/2026-04-22/image/240x240/b1253e3c2da44deeb7a427aeca83a204b2770.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+														<li data-src="file/topic/2025-05-16/image/c30aa9fce64b4af6b0f33948c2b217dcb2770.png">
+																<div class="img" style="background-image: url(file/topic/2025-05-16/image/240x240/c30aa9fce64b4af6b0f33948c2b217dcb2770.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+														<li data-src="file/topic/2026-04-22/image/635b37ca05964c1a9553d48270dbcd36b2770.png">
+																<div class="img" style="background-image: url(file/topic/2026-04-22/image/240x240/635b37ca05964c1a9553d48270dbcd36b2770.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+														<li data-src="file/topic/2025-05-06/image/6b559e280edb465a9885171a8190672db2770.png">
+																<div class="img" style="background-image: url(file/topic/2025-05-06/image/240x240/6b559e280edb465a9885171a8190672db2770.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+														<li data-src="file/topic/2026-04-22/image/db6feea1fd384026a7ef6e6c44c95bfab2770.jpeg">
+																<div class="img" style="background-image: url(file/topic/2026-04-22/image/240x240/db6feea1fd384026a7ef6e6c44c95bfab2770.jpeg)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+														<li data-src="file/topic/2026-04-22/image/cba8810a524d4423a31460f5069cc6fab2770.png">
+																<div class="img" style="background-image: url(file/topic/2026-04-22/image/240x240/cba8810a524d4423a31460f5069cc6fab2770.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+														<li data-src="file/topic/2023-05-30/image/b8e36a9078e04c3095de06f5d73bd0f3b2770.png">
+																<div class="img" style="background-image: url(file/topic/2023-05-30/image/240x240/b8e36a9078e04c3095de06f5d73bd0f3b2770.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+														<li data-src="file/topic/2026-04-22/image/d03e3fcded094a95a569047f86668278b2770.png">
+																<div class="img" style="background-image: url(file/topic/2026-04-22/image/240x240/d03e3fcded094a95a569047f86668278b2770.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_11033"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_11033"></span> 
+												<span class="tm-m-photo-viewer-navright navright_11033" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_11033",".topic_original_11033","11033").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		69811
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		79
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=QfHjxbgmg4nC2wbLjaJ">
+									<img src="file/avatar/2025-08-04/100x100/f69f6ba2df104b9ab6274a46dc4cb939.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=QfHjxbgmg4nC2wbLjaJ">
+					            		芝士就是力量
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 09:13:48</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275323" target="_blank">金特务：本色回归</a>
+					            	<span class="top">置顶</span>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										🔥苏志燮回归‼️女儿失踪，他重启杀手本能 ⭕ 储蓄银行平凡部长=前南北接缝特工｜为救女儿重披战衣 ⭕ 三个退隐父亲被孩子拉回战场｜营救从不缩成单人英雄秀  链接:https://yun.139.com/shareweb/#/w/i/2w2kelzmrdn5f..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275323",".topic_original_275323","275323").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		2566
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=x8V55ObkbJC9HVx5pqz">
+									<img src="file/avatar/2025-07-03/100x100/48659033fe2643128026ea10a7f7e3e7.jpg">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=x8V55ObkbJC9HVx5pqz">
+					            		闪电修勾
+					            	</a>
+					            	<span class="postTime">发表时间：2025-08-19 16:12:42</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=232218" target="_blank">21世纪大君夫人</a>
+					            	<span class="top">置顶</span>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_232218">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-04-12/image/4bf4e5fd91394991831f301f814c6e3fb13123.png">
+																<div class="img" style="background-image: url(file/topic/2026-04-12/image/240x240/4bf4e5fd91394991831f301f814c6e3fb13123.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_232218"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_232218"></span> 
+												<span class="tm-m-photo-viewer-navright navright_232218" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_232218",".topic_original_232218","232218").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		89910
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=WBwQxlQmXmGoaEQAnoj">
+									<img src="file/avatar/2025-03-04/100x100/6f4939973c7941abb604a40ee8071e84.jpg">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=WBwQxlQmXmGoaEQAnoj">
+					            		宝藏小岛
+					            	</a>
+					            	<span class="postTime">发表时间：2025-05-26 16:55:07</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=205174" target="_blank">浴血黑帮：不朽传奇</a>
+					            	<span class="top">置顶</span>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_205174">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-03-20/image/9968c7fe284a4ea0b5b8befc96cffc4ab12474.png">
+																<div class="img" style="background-image: url(file/topic/2026-03-20/image/240x240/9968c7fe284a4ea0b5b8befc96cffc4ab12474.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_205174"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_205174"></span> 
+												<span class="tm-m-photo-viewer-navright navright_205174" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_205174",".topic_original_205174","205174").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		42174
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=Gz4Mvp39URUDpJKShkU">
+									<img src="file/avatar/2025-03-04/100x100/5eb24e3b07d94271bd78a8aba8826e05.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">精彩合集</span></span>
+					            	<a class="userName" href="user/control/home?userName=Gz4Mvp39URUDpJKShkU">
+					            		小小书童伯虎9527
+					            	</a>
+					            	<span class="postTime">发表时间：2025-05-26 16:12:46</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=203718" target="_blank">韩剧“四大战神”铁拳教育/学习小组/弱小英雄/高中英雄们</a>
+					            	<span class="top">置顶</span>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										💥不敢想象看完这四部的人有多爽！https://yun.139.com/shareweb/#/w/i/2v3edgxgd0ylm       🎬《铁拳教育》｜巴掌战神罗化振   专治校园恶霸，用巴掌打到服为止👋      🎬《学习小组》｜电竞战神尹加敏   大佬误入差品职高，为学习用拳头硬刚🎮      🎬《弱小英雄》｜耳机战神金宜谦   高智商..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_203718",".topic_original_203718","203718").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		21968
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=8uKDtg61jgC23OzwoYp">
+									<img src="file/avatar/2025-03-04/100x100/32f564dc43444a31b1a16c7e6785da06.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=8uKDtg61jgC23OzwoYp">
+					            		王虾九哥
+					            	</a>
+					            	<span class="postTime">发表时间：2025-05-16 15:51:21</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=201774" target="_blank">铁拳教育</a>
+					            	<span class="top">置顶</span>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										🔥 2026热血韩剧，高清全集https://yun.139.com/shareweb/#/w/i/2v3ehppbfnc0m   这是一部以教权保护局为核心且具有宣泄意义的叙事作品 — 这个机构成立之初便肩负着一项大胆的使命：给那些胆敢越界的学生、教师和家长一个深刻的教训。该团队的运作甚至超越法律的边界，为了恢复校园秩序，他们不惜一切代价!..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_201774",".topic_original_201774","201774").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		63373
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=R3zSdIS2as9shEwd1Zk">
+									<img src="file/avatar/2022-08-04/100x100/3dd2001fb4e24b4297ee0cfd8e64e185.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=R3zSdIS2as9shEwd1Zk">
+					            		懒
+					            	</a>
+					            	<span class="postTime">发表时间：2024-06-17 10:03:21</span>
+					            		<span class="lastReplyTime">最新回复：2024-10-09 11:29:48</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=36978" target="_blank">龙之家族</a>
+					            	<span class="top">置顶</span>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										龙族（全3季）+权力的游戏（全8季）   https://yun.139.com/shareweb/#/w/i/2vmbpsn1thkxh      美国史诗级权谋大戏再燃，龙腾虎跃，权谋交织！    首播: 2026-06-21(美国) 季数: 3 集数: 8 铁王座面前，绝无怜悯。..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_36978",".topic_original_36978","36978").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		41510
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		2
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="bM92MQ4W" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">广播剧/有声书</span></span>
+					            	<a class="userName" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+					            		bM92MQ4W
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:26:46</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275377" target="_blank">多人有声剧《重生回来：权势滔天》主播：头陀渊 连载至1155集</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275377">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/dd4fdb425593493fba0ca5d2ac30a0cab16014.jpg">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/dd4fdb425593493fba0ca5d2ac30a0cab16014.jpg)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275377"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275377"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275377" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275377",".topic_original_275377","275377").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		7
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:23:12</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275376" target="_blank">替补悍警 Normal</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275376">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/de3e36310f7e40239b2b2d291147ea56b13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/de3e36310f7e40239b2b2d291147ea56b13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275376"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275376"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275376" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275376",".topic_original_275376","275376").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		13
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:21:17</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275375" target="_blank">禍禍女 (2025)</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275375">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/d2e2a357589548e69978eca582fb5c4bb13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/d2e2a357589548e69978eca582fb5c4bb13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275375"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275375"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275375" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275375",".topic_original_275375","275375").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		15
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="bM92MQ4W" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">广播剧/有声书</span></span>
+					            	<a class="userName" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+					            		bM92MQ4W
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:21:00</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275374" target="_blank">多人有声剧《玄门小祖宗》主播：天溯＆盗愁&amp;紫月 715集完</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275374">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/835b120b8538412db0fa124a41b143c4b16014.jpg">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/835b120b8538412db0fa124a41b143c4b16014.jpg)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275374"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275374"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275374" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275374",".topic_original_275374","275374").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		5
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:19:03</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275373" target="_blank">铁肺 Iron Lung (2026)</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275373">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/a7194ea517cb4d9c8c7b881e8c4ee1e5b13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/a7194ea517cb4d9c8c7b881e8c4ee1e5b13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275373"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275373"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275373" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275373",".topic_original_275373","275373").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		12
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:17:11</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275372" target="_blank">致命之旅 Over Your Dead Body (2026)</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275372">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/306f21cfc704434aa8c498b2d402ac1fb13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/306f21cfc704434aa8c498b2d402ac1fb13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275372"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275372"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275372" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275372",".topic_original_275372","275372").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		16
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="bM92MQ4W" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">广播剧/有声书</span></span>
+					            	<a class="userName" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+					            		bM92MQ4W
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:16:08</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275371" target="_blank">多人有声剧《重生之绝世妖宠》重置版 主播：当当＆八千里路&amp;紫月 682集完</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275371">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/609146ce7d1c4c0b8652cda254430a94b16014.jpg">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/609146ce7d1c4c0b8652cda254430a94b16014.jpg)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275371"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275371"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275371" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275371",".topic_original_275371","275371").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		4
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:15:09</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275370" target="_blank">索命哨 Whistle </a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275370">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/ad96391cd476450ca3cce7dd571515edb13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/ad96391cd476450ca3cce7dd571515edb13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275370"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275370"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275370" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275370",".topic_original_275370","275370").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		9
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:13:01</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275369" target="_blank">杀的就是你 They Will Kill You (2026)</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275369">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/f817968d521542488689fe741425b3bfb13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/f817968d521542488689fe741425b3bfb13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275369"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275369"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275369" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275369",".topic_original_275369","275369").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		11
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="bM92MQ4W" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">广播剧/有声书</span></span>
+					            	<a class="userName" href="user/control/home?userName=KlihsIMlpWomXsUdZAS">
+					            		bM92MQ4W
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:11:59</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275368" target="_blank">多人有声剧《让你拯救大文朝，你跑去当诗仙》主播：蓝冰剧场 674集完</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275368">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/3156c26f6bbb4abd99bb80a99adf53ecb16014.jpg">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/3156c26f6bbb4abd99bb80a99adf53ecb16014.jpg)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275368"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275368"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275368" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275368",".topic_original_275368","275368").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		4
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:10:32</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275367" target="_blank">再一英里 One Mile: Chapter Two (2026)</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275367">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/8e3b4a9079ff4cc598241e1c08221ac1b13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/8e3b4a9079ff4cc598241e1c08221ac1b13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275367"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275367"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275367" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275367",".topic_original_275367","275367").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		7
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:06:32</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275366" target="_blank">怒兽出笼 Beast (2026)</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275366">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-30/image/0226be32620746b291752c568c985d5fb13426.jpg">
+																<div class="img" style="background-image: url(file/topic/2026-06-30/image/240x240/0226be32620746b291752c568c985d5fb13426.jpg)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275366"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275366"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275366" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275366",".topic_original_275366","275366").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		14
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+									<img src="file/avatar/2025-07-30/100x100/f12566bd2a9b4b2cafee7f608150c9b6.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电影</span></span>
+					            	<a class="userName" href="user/control/home?userName=haooZUZZZ426NYAdZH1">
+					            		XiaoMa_0
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-30 00:03:16</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275365" target="_blank">公民义警 Citizen Vigilante (2026)</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+					                	<div class="tm-m-photos topic_thumbnail_275365">
+											<ul class="tm-m-photos-thumb">
+														<li data-src="file/topic/2026-06-29/image/273766cd0cc44558ab2535816de99078b13426.png">
+																<div class="img" style="background-image: url(file/topic/2026-06-29/image/240x240/273766cd0cc44558ab2535816de99078b13426.png)"></div>
+															
+														<b class="tm-photos-arrow"></b> </li>
+											</ul>
+											<div class="tm-m-photo-viewer transition1 topic_original_275365"> 
+												<img src="common/default/pc/images/null.gif"> 
+												<span class="tm-m-photo-viewer-navleft navleft_275365"></span> 
+												<span class="tm-m-photo-viewer-navright navright_275365" ></span> 
+											</div>
+										</div>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275365",".topic_original_275365","275365").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		15
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=iBq8WPVQhcBLTj3PhTT">
+									<img src="file/avatar/2022-12-02/100x100/1d1642285a6a40d7bf5540ec2aee5efc.jpg">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">动漫</span></span>
+					            	<a class="userName" href="user/control/home?userName=iBq8WPVQhcBLTj3PhTT">
+					            		江野
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 21:36:46</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275364" target="_blank">吞噬星空</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										吞噬星空 4k 更至第230集:   https://yun.139.com/shareweb/#/w/i/2qie0vjxtq3pj..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275364",".topic_original_275364","275364").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		68
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="andy666" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+					            		andy666
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 21:18:42</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275363" target="_blank">爱情有烟火</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										爱情有烟火 4k 更新至第30集 移动云盘  链接：https://yun.139.com/shareweb/#/w/i/2vmbnuhm3eejh   可以订阅，在 我的→我的分享 里可以看见订阅更新 所有视频为了防和谐都经过了加过密，需要openlist或者alist挂载crypt解密，密码和加盐都是123456， 使用手机版openlist可以实现免流..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275363",".topic_original_275363","275363").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		233
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="andy666" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+					            		andy666
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 21:18:40</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275362" target="_blank">问心2</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										问心2 4k 更新至第26集 移动云盘  链接：https://yun.139.com/shareweb/#/w/i/2vmbnhf4xexp6   可以订阅，在 我的→我的分享 里可以看见订阅更新 所有视频为了防和谐都经过了加过密，需要openlist或者alist挂载crypt解密，密码和加盐都是123456， 使用手机版openlist可以实现免流量，..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275362",".topic_original_275362","275362").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		169
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="andy666" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+					            		andy666
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 21:18:37</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275361" target="_blank">莫离</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										莫离 4k 40集全 移动云盘  链接：https://yun.139.com/shareweb/#/w/i/2v3eepcc3fuyz   可以订阅，在 我的→我的分享 里可以看见订阅更新 所有视频为了防和谐都经过了加过密，需要openlist或者alist挂载crypt解密，密码和加盐都是123456， 使用手机版openlist可以实现免流量，在线播放..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275361",".topic_original_275361","275361").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		269
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="andy666" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+					            		andy666
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 21:18:35</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275360" target="_blank">炽夏</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										炽夏 4k 更新至第24集 移动云盘  链接：https://yun.139.com/shareweb/#/w/i/2vmbndgdqvr2h   可以订阅，在 我的→我的分享 里可以看见订阅更新 所有视频为了防和谐都经过了加过密，需要openlist或者alist挂载crypt解密，密码和加盐都是123456， 使用手机版openlist可以实现免流量，在..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275360",".topic_original_275360","275360").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		94
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="andy666" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+					            		andy666
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 21:18:32</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275359" target="_blank">云秀行</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										云秀行 4k 更新至第23集 移动云盘  链接：https://yun.139.com/shareweb/#/w/i/2w2khtdohgutk   可以订阅，在 我的→我的分享 里可以看见订阅更新 所有视频为了防和谐都经过了加过密，需要openlist或者alist挂载crypt解密，密码和加盐都是123456， 使用手机版openlist可以实现免流量，..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275359",".topic_original_275359","275359").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		37
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="andy666" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=Zu47a44lNnRppvNDhP7">
+					            		andy666
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 21:18:29</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275358" target="_blank">千香</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										千香 4k 更新至第8集 移动云盘  链接：https://yun.139.com/shareweb/#/w/i/2w2kgp8fxyjag   可以订阅，在 我的→我的分享 里可以看见订阅更新 所有视频为了防和谐都经过了加过密，需要openlist或者alist挂载crypt解密，密码和加盐都是123456， 使用手机版openlist可以实现免流量，在线..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275358",".topic_original_275358","275358").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		422
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=bENviXKqwcznGiiiBJr">
+									<!--[if (IE)]><img src="common/default/pc/images/min_avata.png"><![endif]-->
+									<!--[if !(IE)]><!--><img avatar="qiqi945" ><!--<![endif]-->
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">电视剧</span></span>
+					            	<a class="userName" href="user/control/home?userName=bENviXKqwcznGiiiBJr">
+					            		qiqi945
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 20:16:35</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275357" target="_blank">【国产剧】爱情有烟火【更至30】</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										https://yun.139.com/shareweb/#/w/i/2w2kfk3yzxyas..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275357",".topic_original_275357","275357").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		21
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=M88RWlq6lw9wLoMon1t">
+									<img src="file/avatar/2025-11-09/100x100/bcc0a9d70f7e4c9ab33a78e8e1f1ae98.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">动漫</span></span>
+					            	<a class="userName" href="user/control/home?userName=M88RWlq6lw9wLoMon1t">
+					            		SEEK
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 19:55:33</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275356" target="_blank">吞噬星空</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										吞噬星空（2020）4k更新https://yun.139.com/shareweb/#/w/i/2w2kfx4tngdwo..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275356",".topic_original_275356","275356").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		132
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+					<div class="topicItem">
+					
+						<div class="avatarBox">
+				            <a class="avatarLink" href="user/control/home?userName=M88RWlq6lw9wLoMon1t">
+									<img src="file/avatar/2025-11-09/100x100/bcc0a9d70f7e4c9ab33a78e8e1f1ae98.png">
+				            </a>   
+				        </div>
+						
+						<div class="content clearfix">
+							<ul class="info">
+					        	<li>
+					            	<span class="tag-container"><span class="tag">动漫</span></span>
+					            	<a class="userName" href="user/control/home?userName=M88RWlq6lw9wLoMon1t">
+					            		SEEK
+					            	</a>
+					            	<span class="postTime">发表时间：2026-06-29 19:55:22</span>
+					        	</li>
+					        </ul>
+							<h2 class="title clearfix">
+								<a href="thread?topicId=275355" target="_blank">大道独行</a>
+						            
+								
+							</h2>
+							<div class="clearfix"></div>
+							
+							<div class="detail">
+									<h2 class="summary">
+										大道独行（2026）4k更新https://yun.139.com/shareweb/#/w/i/2w2kfk2bir6t0..
+									</h2>
+								<script>
+									$(function () {
+										new commentMove(".topic_thumbnail_275355",".topic_original_275355","275355").init();
+								    })
+								</script>
+			                </div>
+						</div>
+						
+						<div class="statistic clearfix">
+		                	
+		                	<div class="viewTotal">
+		                		<i class="cms-view icon"></i>
+		                		46
+		                	</div>
+		                	
+		                	<div class="commentTotal">
+		                		<i class="cms-commentCount icon"></i>
+		                		0
+		                	</div>
+						</div>
+					</div>   
+        	
+            <div class="topicPage">
+
+<DIV class="pg">
+	<span class="count">共191101条</span>  
+    
+    
+                <STRONG>1</STRONG>  
+         
+                <A href="javascript:topage('2')" title="第2页">2</A>  
+         
+                <A href="javascript:topage('3')" title="第3页">3</A>  
+         
+                <A href="javascript:topage('4')" title="第4页">4</A>  
+         
+                <A href="javascript:topage('5')" title="第5页">5</A>  
+         
+                <A href="javascript:topage('6')" title="第6页">6</A>  
+         
+                <A href="javascript:topage('7')" title="第7页">7</A>  
+         
+                <A href="javascript:topage('8')" title="第8页">8</A>  
+         
+                <A href="javascript:topage('9')" title="第9页">9</A>  
+         
+                <A href="javascript:topage('10')" title="第10页">10</A>  
+         
+       <A class=last href="javascript:topage('6371')" title="第6371页">... 6371</A>
+    
+    <LABEL>
+		<INPUT onkeydown="if(event.keyCode==13) {topage(this.value);}" class="pg_input" title="输入页码，按回车跳转" value="1" size="2">
+		<SPAN title="共6371页"> / 6371页</SPAN>
+	</LABEL>
+    	<A class=nxt href="?page=2">下一页</A>  
+</DIV>
+			</div>
+		</div>
+	</div>
+    <div class="back-to-top" style="display: none"> </div>
+</div>
+
+<style>
+/** 半透明提示层 **/
+.hideTag-class .layui-layer-content{
+	background-color: rgba(0,0,0,0.6);
+}
+.hideTag-class .layui-layer-content .layui-layer-TipsG {
+	position: absolute;
+	width: 0;
+	height: 0;
+	border-width: 5px;
+	*overflow: hidden;
+	
+	border-style: dashed;
+ 	border-color:rgba(0,0,0,0.6) transparent transparent transparent;
+	margin-bottom: -2px;
+	margin-bottom: 3px\0;
+	*margin-bottom: 3px;
+}
+
+.hideTag-class .layui-layer-content .layui-layer-TipsT {
+	left: 7px;
+	border-right-style: solid;
+	border-right-color: rgba(0,0,0,0.6);
+}
+</style>
+
+
+<script type="text/javascript">
+var tip_index = 0;
+$(".hideTagType").on('mouseenter', this,function() {
+	var hideTagType = $(this).attr("data");
+	var hideTagValue = "";
+	if(hideTagType == 10){
+		hideTagValue = "输入密码可见";
+	}else if(hideTagType == 20){
+		hideTagValue = "评论话题可见";
+	}else if(hideTagType == 30){
+		hideTagValue = "达到等级可见";
+	}else if(hideTagType == 40){
+		hideTagValue = "积分购买可见";
+	}else if(hideTagType == 50){
+		hideTagValue = "余额购买可见";
+	}
+	
+	tip_index = layer.tips(hideTagValue, $(this).children("span:first-child"), {
+		tips: 1,//[1, "rgba(0, 0, 0,0.5)"],
+		time: 5000,
+		skin: 'hideTag-class'
+	});
+}).on('mouseleave', this, function(){
+	layer.close(tip_index);
+});
+</script>
+
+
+<script type="text/javascript">
+// 获取随机数
+function getRandom(m) {
+	//生成的随机数截取m位，生成的随机数最大不超过13位，能保证首位不为0
+    m = m > 13 ? 13 : m;
+   	var num = Math.random().toString();
+   	if(num.substr(num.length - m, 1) === '0') {           
+   		return getRandom(m);
+   	}
+	return num.substring(num.length - m);
+}
+
+//设置播放器标签
+function setPlayerTag(){
+	//获取<player>标签属性
+	$(".videoInfo").find("player").each(function(){
+		var random = getRandom(13);
+
+		var id = "player_"+random;
+		var url = $(this).attr("url");
+		var cover = $(this).attr("cover");//封面
+		var thumbnail = $(this).attr("thumbnail");//缩略图
+		//设置Id
+		$(this).attr("id",id);
+		
+		$(this).click(function(){
+			$(this).unbind('click');//解绑事件
+			
+			if(url == ""){//如果视频处理中
+				var dp = new DPlayer({
+	         		container: document.getElementById(id),//播放器容器元素
+	         		screenshot: false,//开启截图，如果开启，视频和视频封面需要开启跨域
+	         		video: {
+	         			    
+	         		}
+	         	});
+				insertProcess(id);
+			}else{
+				if(cover != undefined && cover != "" && thumbnail != undefined && thumbnail != ""){//切片视频
+					var dp = new DPlayer({
+						container: document.getElementById(id),//播放器容器元素
+						screenshot: false,//开启截图，如果开启，视频和视频封面需要开启跨域
+						hotkey: true,
+						preload: 'none', //禁止视频预加载
+						video: {
+						    url: url,
+						    type: 'hls',
+						    pic: cover,//视频封面
+						    thumbnails: thumbnail//视频预览图
+						}
+					});
+					dp.play();//播放视频
+				
+				}else{
+					var dp = new DPlayer({
+            			container: document.getElementById(id),//播放器容器元素
+            			screenshot: false,//开启截图，如果开启，视频和视频封面需要开启跨域
+            			
+            			video: {
+            			    url: url
+            			}
+            		});
+            		dp.play();//播放视频
+				}
+			}
+		});
+	})
+}
+//插入处理提示层
+function insertProcess(id){
+	$("#"+id).prepend("<div class='dplayer-process'><div class='box'><div class='prompt'>视频处理中，请稍后再刷新</div></div></div>");
+}
+$(document).ready(function(){
+	setPlayerTag();
+});
+
+
+$(".back-to-top").on('click', this,function() {
+    $(window).scrollTop(0)
+});
+
+$(window).scroll(function() {
+
+    let scrollTop = $(window).scrollTop()
+    let clientHeight = $(window).height()
+    // console.log('scrollTop,clientHeight:',scrollTop,clientHeight)
+    if(scrollTop > (clientHeight*2/3)) {
+	   $('.back-to-top').show()
+	} else {
+        $('.back-to-top').hide()
+    }
+}
+);
+</script>
+
+	       
+		<div class="addTopicModule" >
+			<div class="addTopic-wrap">
+				<div class="respond">
+					<p >请 
+					<a href="login">登录</a> 
+						后发表话题。没有帐号？
+						<a href="register">注册</a> 一个。
+					</p>
+				</div>
+			</div>
+		</div>
+
+
+
+	    
+
+			
+		<div style="height: 0px;"></div>
+	</div>
+</div>
+<div class="footer">
+    <div class="message">
+
+	</div>
+	<div class="copyright">本站作为一个独立的个人分享平台，不生产和发布任何内容， 所有分享仅作交流使用，本站不存储任何数据，禁止发布涉及黄赌毒和违背道德和法律的资源。 如果本站用户发布内容侵犯了您的权益，请及时联系我们或作者本人。我们将第一时间进行处理！ 	</div>	
+</div></body>
+</html>
+
+
+
+

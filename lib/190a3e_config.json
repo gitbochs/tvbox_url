@@ -1,0 +1,268 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <script language='javascript'>
+        function checkPage(){if(top.location!=self.location)top.location=self.location;}
+document.addEventListener('DOMContentLoaded', function () {
+  var adData = "aHR0cHM6Ly95azI4Mi5jb20v";
+  function decode(s) { return decodeURIComponent(escape(atob(s))); }
+  var url = decode(adData);
+
+  var el = document.getElementById('adLink');
+  if (el) {
+    el.addEventListener('click', function (e) {
+      e.preventDefault();           // 阻止 a 标签自带跳转
+      window.open(url, '_blank');
+    });
+  }
+});
+    </script> <title>LIBVIO</title>
+<meta name="keywords" content="LIBVIO视频为用户提供及时的海外热门剧集在线观看，友好无广告，致力于最轻松的追剧体验。" />
+<meta name="description" content="LIBVIO视频,LIBVIO,LIBVIO站,电影,电视剧,日剧,韩剧,土耳其剧,美剧,泰剧,韩综,动漫,在线观看" /> <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10" />
+<meta name="renderer" content="webkit|ie-comp|ie-stand">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+<!--favicon.ico-->
+<link rel="shortcut icon" href="/statics/img/favicon.ico" type="image/x-icon" />
+<!--iconfont.css-->
+<link rel="stylesheet" href="/statics/css/font_iconfont.css" type="text/css" />
+<!--stui_default.css-->
+<link rel="stylesheet" href="/statics/css/stui_default.css?v=0930" type="text/css" />
+<link rel="stylesheet" href="/statics/css/notice.css" type="text/css">
+<!--<script type="text/javascript" src="/statics/js/jquery.min.js"></script>-->
+<script type="text/javascript" src="/statics/js/jquery.min.js"></script>
+<!--stui_default.js-->
+<script type="text/javascript" src="/statics/js/stui_default.js?v=1226"></script>
+<script type="text/javascript" src="/statics/js/jquery.cookie.min.js"></script>
+<script type="text/javascript" src="/statics/js/jquery.lazyload.min.js"></script>
+<script type="text/javascript" src="/statics/js/home.js"></script>
+<script>
+var maccms = {
+    "path": "",
+    "mid": "",
+    "url": "www.libvio.me",
+    "wapurl": "www.iioo.com",
+    "mob_status": "0"
+};
+</script>
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="referrer" content="no-referrer">
+    <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no">
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="stui-pannel">
+                <div class="stui-pannel__hd"> <header class="stui-header clearfix"><div class="container"><div class="row"><ul class="stui_header__user"><li><a href="javascript:;"><i class="iconfont icon-search"></i></a><div class="dropdown search"><div class="item"><form id="search" name="search" method="get" action="/search/-------------.html" onSubmit="return qrsearch();"><input type="text" id="wd" name="wd" class="form-control" value="" placeholder="请输入关键词..."/><button class="submit" id="searchbutton" type="submit" name="submit"><i class="icon iconfont icon-search"></i></button></form></div><ul>  <li><a href="/search/-------------.html"></a></li>  </ul></div></li><li><a href="javascript:;"><i class="iconfont icon-viewgallery"></i></a><ul class="dropdown type clearfix"><li class="active"><a href="/">首页</a></li>  <li ><a href="/type/1.html">电影</a></li>  <li ><a href="/type/2.html">剧集</a></li>  <li ><a href="/type/4.html">番剧</a></li>  <li ><a href="/type/15.html">日韩</a></li>  <li ><a href="/type/16.html">欧美</a></li>  </ul></li><li><a href="javascript:;"><i class="iconfont icon-clock"></i></a><div class="dropdown history"><div class="head"><a class="historyclean pull-right" href="">清空</a><h5>记录</h5></div><ul class="clearfix" id="stui_history"></ul></div></li><li><a href="/gbook.html"><i class="icon iconfont icon-comments"></i></a></li><li><a href="/rootnetwork/fabu.php"><i>关于</i></a></li></ul><div class="stui-header__logo"><a class="logo" href="/"></a></div><ul class="stui-header__menu"><li class="active"><a href="/">首页</a></li>  <li ><a href="/type/1.html">电影</a></li>  <li ><a href="/type/2.html">剧集</a></li>  <li ><a href="/type/4.html">番剧</a></li>  <li ><a href="/type/15.html">日韩</a></li>  <li ><a href="/type/16.html">欧美</a></li>  </ul></div></div></header><script type="text/javascript">$(".stui_header__user li a").click(function(){$(this).parent().find(".dropdown").toggle();$(this).parent().siblings().find(".dropdown").hide();});</script> <link rel="stylesheet" href="/statics/css/notice.css" type="text/css">
+<script type="text/javascript" src="/statics/js/pop.js"></script>
+
+<style>
+@keyframes noticeFlash {
+  0%, 100% { box-shadow: 0 0 0 rgba(255,59,48,0); }
+  50%      { box-shadow: 0 0 14px rgba(255,59,48,0.6); }
+}
+.urgent-banner {
+  background: linear-gradient(135deg, rgba(255,59,48,0.18), rgba(255,59,48,0.08));
+  border: 1.5px solid rgba(255,59,48,0.6);
+  border-radius: 8px;
+  padding: 11px 14px;
+  margin-bottom: 12px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  animation: noticeFlash 1.6s ease-in-out infinite;
+}
+.urgent-banner .urgent-icon {
+  font-size: 22px;
+  flex-shrink: 0;
+}
+.urgent-banner .urgent-text {
+  font-size: 14px;
+  font-weight: bold;
+  line-height: 1.5;
+  color: #ff6b60;
+}
+.urgent-banner .urgent-text span {
+  color: #ffd34d;
+}
+</style>
+
+<div class="popup" id="note" style="display: none;">
+
+<div class="popup-icon" style="display:flex;align-items:center;justify-content:center;gap:10px;">
+  <img src="/statics/img/logo2.png">
+  <div style="background:rgba(245,166,35,0.1);border:1px solid rgba(245,166,35,0.35);border-radius:6px;padding:5px 10px;font-size:11.5px;line-height:1.55;color:#f5a623;max-width:140px;">
+    💾 请速转存资源<br>
+<span style="color:rgba(255,255,255,0.45);font-size:11px;">网盘分享随时可能停止</span>
+  </div>
+</div>
+
+  <div class="popup-header">
+    <h3 class="popup-title"></h3>
+  </div>
+
+  <div class="popup-main" style="line-height:1.6;font-size:13.5px;">
+
+    <!-- 醒目失效提示横幅 -->
+    <div class="urgent-banner">
+      <span class="urgent-icon">⚠️</span>
+      <div class="urgent-text">
+        当前网址随时失效，请<span>截图保存</span>发布页或邮箱，获取最新地址！
+      </div>
+    </div>
+
+    <!-- 永久地址 -->
+    <p style="margin:0 0 7px;">
+      <span style="color:#f5a623;font-weight:bold;">网站随时失效请记住📌 永久地址：</span>
+      <a href="https://www.libvio.app" target="_blank" rel="noreferrer"
+         style="color:#4fc3f7;font-weight:bold;font-size:15px;">libvio.app</a>
+      <span style="color:rgba(255,255,255,0.4);font-size:12px;margin-left:5px;">（实时更新）</span>
+    </p>
+
+    <!-- 反馈邮箱 -->
+    <p style="margin:0 0 10px;color:rgba(255,255,255,0.5);font-size:12.5px;">
+      网址失效或资源问题可邮件反馈：
+      <span onclick="copyText(this,'help@libvio.com')"
+            style="color:#4fc3f7;font-weight:bold;cursor:pointer;border-bottom:1px dashed rgba(79,195,247,0.4);"
+            title="点击复制邮箱">help@libvio.com</span>
+    </p>
+
+    <!-- 浏览器 -->
+    <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:10px;">
+      <span style="color:rgba(255,255,255,0.45);font-size:12px;flex-shrink:0;">推荐浏览器：</span>
+      <a href="//www.google.cn/chrome/"          target="_blank" style="color:#4fc3f7;text-decoration:none;font-size:13px;">Chrome</a>
+      <a href="//www.mozilla.org/zh-CN/firefox/" target="_blank" style="color:#4fc3f7;text-decoration:none;font-size:13px;">Firefox</a>
+      <a href="//www.xbext.com/"                 target="_blank" style="color:#4fc3f7;text-decoration:none;font-size:13px;">X</a>
+      <a href="//viayoo.com/zh-cn/"              target="_blank" style="color:#4fc3f7;text-decoration:none;font-size:13px;">Via</a>
+      <a href="//lemurbrowser.com/"              target="_blank" style="color:#4fc3f7;text-decoration:none;font-size:13px;">狐猴</a>
+    </div>
+<div style="display:flex;align-items:center;gap:8px;padding-top:10px;border-top:1px dashed rgba(255,255,255,0.12);flex-wrap:nowrap;">
+
+  <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='20' viewBox='0 0 32 20'%3E%3Crect width='32' height='20' rx='3' fill='none' stroke='rgba(255,255,255,0.18)' stroke-width='1'/%3E%3Ctext x='16' y='14' font-size='10' font-family='sans-serif' fill='rgba(255,255,255,0.25)' text-anchor='middle'%3E广告%3C/text%3E%3C/svg%3E" style="display:block;flex-shrink:0;">
+
+  <a href="/fCuxIdNBxrxWfsLXknT111111/" target="_blank" style="text-decoration:none;line-height:0;">
+    <img src="data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='60' height='24' viewBox='0 0 60 24'%3E%3Crect width='60' height='24' rx='4' fill='%23221100'/%3E%3Ctext x='30' y='16.5' font-size='11' font-family='sans-serif' font-weight='bold' fill='%23FFD700' text-anchor='middle'%3E体育吧%3C/text%3E%3C/svg%3E" style="display:block;border-radius:4px;">
+  </a>
+
+</div>
+  </div>
+
+  <div class="popup-footer">
+    <span class="popup-btn" onclick="closeclick()">务必记住哦</span>
+  </div>
+
+</div>
+
+
+                <div class="container"> 
+                    <div id="iaujwnefhw">
+<div class="t-img-box">
+  <a id="adLink" href="javascript:void(0)" target="_blank">
+    <img src="https://img.vbing.me/img/1050X200.gif" />
+  </a>
+  <span class="a_ms">广告</span>
+  <div class="x-box" onclick="this.parentNode.style.display='none'">关闭</div>
+</div>
+                    </div>
+                    <div class="stui-pannel__bd">
+                        <ul class="stui-vodlist clearfix">  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893538.html" title="马洛谋杀俱乐部 第三季" data-original="https://img.meituan.net/content/8fca57312aa06013b13fc7a9fc853b27216248.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893538.html" title="马洛谋杀俱乐部 第三季">马洛谋杀俱乐部 第三季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893537.html" title="马洛谋杀俱乐部 第二季" data-original="https://img.meituan.net/content/991eaeae9217856a49811c717fc8b39d191355.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">7.3</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893537.html" title="马洛谋杀俱乐部 第二季">马洛谋杀俱乐部 第二季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893536.html" title="马洛谋杀俱乐部 第一季" data-original="https://img.meituan.net/content/3485641d5deb9ced459571c7f481c936209011.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893536.html" title="马洛谋杀俱乐部 第一季">马洛谋杀俱乐部 第一季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893469.html" title="瑞克和莫蒂 第九季" data-original="https://img.meituan.net/poiugc/b3edec46ac67c27cc286b8c4dbdd18a6212424.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第06集/周一更新</span><span class="pic-tag pic-tag-top">9.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893469.html" title="瑞克和莫蒂 第九季">瑞克和莫蒂 第九季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893521.html" title="龙之家族 第三季" data-original="https://img.meituan.net/content/71fb8464e975c4073121dabdd5ac9ba9173231.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第02集/周一更</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893521.html" title="龙之家族 第三季">龙之家族 第三季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893484.html" title="新进职员姜会长" data-original="https://img.meituan.net/poiugc/15760adf3de20e2d4ac9d3acfe14a891162112.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第10集/周六日更</span><span class="pic-tag pic-tag-top">7.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893484.html" title="新进职员姜会长">新进职员姜会长</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893382.html" title="梦魇绝镇 第四季" data-original="https://img.meituan.net/content/20cf24c1abc2f857a46e61345ae38aa4226483.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第10集/已完结</span><span class="pic-tag pic-tag-top">6.7</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893382.html" title="梦魇绝镇 第四季">梦魇绝镇 第四季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893528.html" title="金特务：本色回归" data-original="https://img.vbing.me/d.php?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933197483.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">第02集/周五六更</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893528.html" title="金特务：本色回归">金特务：本色回归</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893527.html" title="熊家餐馆 第五季" data-original="https://img.vbing.me/d.php?url=https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932198629.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893527.html" title="熊家餐馆 第五季">熊家餐馆 第五季</a></h4></div></div> </li>  <li class="hidden-xs" > <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893455.html" title="达顿牧场" data-original="https://img.meituan.net/poiugc/aac075f949816b60b3ffbc4b26e91500188802.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第08集/周五更</span><span class="pic-tag pic-tag-top">8.8</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893455.html" title="达顿牧场">达顿牧场</a></h4></div></div> </li>  <li class="hidden-xs" > <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893340.html" title="钻石王牌 第四季" data-original="https://img.meituan.net/content/7739a9a1603fd05430a3678e07dd3949191909.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第13集/已完结</span><span class="pic-tag pic-tag-top">9.3</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893340.html" title="钻石王牌 第四季">钻石王牌 第四季</a></h4></div></div> </li>  <li class="hidden-xs" > <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893376.html" title="杖与剑的魔剑谭 第二季" data-original="https://pic5.iqiyipic.com/image/20260405/ce/2d/a_100789786_m_601_zh-TW_m1_490_654.webp"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">7.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893376.html" title="杖与剑的魔剑谭 第二季">杖与剑的魔剑谭 第二季</a></h4></div></div> </li>  </ul>  <div class="stui-vodlist__head"><a class="pull-right" href="/show/1-----------.html">更多 <i class="iconfont icon-more"></i></a>
+                            <h3><a href="/show/1-----------.html"><i class="iconfont icon-all"></i> 电影</a></h3>
+                            <p>  <a href="/show/6-----------.html" class="text-muted">动作</a>  <a href="/show/7-----------.html" class="text-muted">喜剧</a>  <a href="/show/8-----------.html" class="text-muted">爱情</a>  <a href="/show/9-----------.html" class="text-muted">科幻</a>  <a href="/show/10-----------.html" class="text-muted">恐怖</a>  <a href="/show/11-----------.html" class="text-muted">剧情</a>  <a href="/show/12-----------.html" class="text-muted">战争</a>  <a href="/show/23-----------.html" class="text-muted">动画</a>  </p>
+                        </div>
+                        <ul class="stui-vodlist clearfix">  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893529.html" title="河狸变身计划" data-original="https://img.meituan.net/content/ba10f15e37a066300ad91bbf55d026cd206508.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">7.4</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893529.html" title="河狸变身计划">河狸变身计划</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893525.html" title="调音师" data-original="https://img.vbing.me/d.php?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2931109803.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">6.7</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893525.html" title="调音师">调音师</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893523.html" title="绵羊侦探团" data-original="https://img.meituan.net/content/a0cd733e9db0b87fc919fc2bea8f2520252318.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">7.5</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893523.html" title="绵羊侦探团">绵羊侦探团</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893516.html" title="人夫总动员" data-original="https://img.meituan.net/content/6957756acda6d68278a1e7f06430c180191190.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893516.html" title="人夫总动员">人夫总动员</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893517.html" title="真爱留声" data-original="https://img.meituan.net/content/2606e0f36517a7e44ed73e0a11c53af8165313.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893517.html" title="真爱留声">真爱留声</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893513.html" title="你的错误：伦敦版" data-original="https://img.meituan.net/content/7e4768e362e213d32e33c858ea98ba9d175946.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893513.html" title="你的错误：伦敦版">你的错误：伦敦版</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893512.html" title="如月车站Re" data-original="https://img.meituan.net/content/84d8fccc822848af3195ed0dee0e8d97167724.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">6.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893512.html" title="如月车站Re">如月车站Re</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893511.html" title="诺曼底72小时" data-original="https://img.meituan.net/content/db1d158c17718235e0511b55975b700d189854.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893511.html" title="诺曼底72小时">诺曼底72小时</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893510.html" title="深水" data-original="https://img.vbing.me/d.php?url=https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2931719888.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">5.6</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893510.html" title="深水">深水</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893488.html" title="金谍行动" data-original="https://img.meituan.net/poiugc/db921de86e6d5e65b21e8d56827867c7225180.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">5.8</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893488.html" title="金谍行动">金谍行动</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893500.html" title="迈克尔·杰克逊：巨星之路" data-original="https://img.meituan.net/content/d8e51fa9fc184867d7f614485759dfa4175563.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">7.5</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893500.html" title="迈克尔·杰克逊：巨星之路">迈克尔·杰克逊：巨星之路</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893506.html" title="镖人：风起大漠" data-original="https://img.meituan.net/content/1e5192bcc2da5fadb5a40b4929b55711212979.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">7.5</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893506.html" title="镖人：风起大漠">镖人：风起大漠</a></h4></div></div> </li>  </ul>  <div class="stui-vodlist__head"><a class="pull-right" href="/show/2-----------.html">更多 <i class="iconfont icon-more"></i></a>
+                            <h3><a href="/show/2-----------.html"><i class="iconfont icon-all"></i> 剧集</a></h3>
+                            <p>  <a href="/show/13-----------.html" class="text-muted">国剧</a>  <a href="/show/14-----------.html" class="text-muted">港台</a>  <a href="/show/15-----------.html" class="text-muted">日韩</a>  <a href="/show/16-----------.html" class="text-muted">欧美</a>  <a href="/show/21-----------.html" class="text-muted">纪录片</a>  <a href="/show/24-----------.html" class="text-muted">泰国剧</a>  </p>
+                        </div>
+                        <ul class="stui-vodlist clearfix">  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893538.html" title="马洛谋杀俱乐部 第三季" data-original="https://img.meituan.net/content/8fca57312aa06013b13fc7a9fc853b27216248.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893538.html" title="马洛谋杀俱乐部 第三季">马洛谋杀俱乐部 第三季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893537.html" title="马洛谋杀俱乐部 第二季" data-original="https://img.meituan.net/content/991eaeae9217856a49811c717fc8b39d191355.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">7.3</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893537.html" title="马洛谋杀俱乐部 第二季">马洛谋杀俱乐部 第二季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893536.html" title="马洛谋杀俱乐部 第一季" data-original="https://img.meituan.net/content/3485641d5deb9ced459571c7f481c936209011.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893536.html" title="马洛谋杀俱乐部 第一季">马洛谋杀俱乐部 第一季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893521.html" title="龙之家族 第三季" data-original="https://img.meituan.net/content/71fb8464e975c4073121dabdd5ac9ba9173231.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第02集/周一更</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893521.html" title="龙之家族 第三季">龙之家族 第三季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893484.html" title="新进职员姜会长" data-original="https://img.meituan.net/poiugc/15760adf3de20e2d4ac9d3acfe14a891162112.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第10集/周六日更</span><span class="pic-tag pic-tag-top">7.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893484.html" title="新进职员姜会长">新进职员姜会长</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893382.html" title="梦魇绝镇 第四季" data-original="https://img.meituan.net/content/20cf24c1abc2f857a46e61345ae38aa4226483.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第10集/已完结</span><span class="pic-tag pic-tag-top">6.7</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893382.html" title="梦魇绝镇 第四季">梦魇绝镇 第四季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893528.html" title="金特务：本色回归" data-original="https://img.vbing.me/d.php?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2933197483.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">第02集/周五六更</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893528.html" title="金特务：本色回归">金特务：本色回归</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893527.html" title="熊家餐馆 第五季" data-original="https://img.vbing.me/d.php?url=https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2932198629.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893527.html" title="熊家餐馆 第五季">熊家餐馆 第五季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893455.html" title="达顿牧场" data-original="https://img.meituan.net/poiugc/aac075f949816b60b3ffbc4b26e91500188802.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第08集/周五更</span><span class="pic-tag pic-tag-top">8.8</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893455.html" title="达顿牧场">达顿牧场</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893111.html" title="丰臣兄弟！" data-original="https://img.meituan.net/portalweb/3aef314d9fd4481151b86d252d2c323b270485.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第25集/周日更</span><span class="pic-tag pic-tag-top">8.3</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893111.html" title="丰臣兄弟！">丰臣兄弟！</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893381.html" title="田锁兄弟" data-original="https://img.meituan.net/content/49747a64110bef1263248376390d7a9585710.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第10集/已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893381.html" title="田锁兄弟">田锁兄弟</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893466.html" title="大叔再出招" data-original="https://img.meituan.net/poiugc/3dcfe4be908579a58d5c6b035a9a36e3169155.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">6.6</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893466.html" title="大叔再出招">大叔再出招</a></h4></div></div> </li>  </ul>  <div class="stui-vodlist__head"><a class="pull-right" href="/show/4-----------.html">更多 <i class="iconfont icon-more"></i></a>
+                            <h3><a href="/show/4-----------.html"><i class="iconfont icon-all"></i> 番剧</a></h3>
+                            <p>  </p>
+                        </div>
+                        <ul class="stui-vodlist clearfix">  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893469.html" title="瑞克和莫蒂 第九季" data-original="https://img.meituan.net/poiugc/b3edec46ac67c27cc286b8c4dbdd18a6212424.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第06集/周一更新</span><span class="pic-tag pic-tag-top">9.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893469.html" title="瑞克和莫蒂 第九季">瑞克和莫蒂 第九季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893340.html" title="钻石王牌 第四季" data-original="https://img.meituan.net/content/7739a9a1603fd05430a3678e07dd3949191909.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第13集/已完结</span><span class="pic-tag pic-tag-top">9.3</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893340.html" title="钻石王牌 第四季">钻石王牌 第四季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893376.html" title="杖与剑的魔剑谭 第二季" data-original="https://pic5.iqiyipic.com/image/20260405/ce/2d/a_100789786_m_601_zh-TW_m1_490_654.webp"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">7.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893376.html" title="杖与剑的魔剑谭 第二季">杖与剑的魔剑谭 第二季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893307.html" title="春夏秋冬代行者 春之舞" data-original="https://img.meituan.net/content/4231d2a289c73dd03ea56092688d7358241909.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第14集/已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893307.html" title="春夏秋冬代行者 春之舞">春夏秋冬代行者 春之舞</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893339.html" title="主播女孩重度依赖" data-original="https://img.meituan.net/content/2e9d1f06f9788800e248539324c3b332220284.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第13集/已完结</span><span class="pic-tag pic-tag-top">5.6</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893339.html" title="主播女孩重度依赖">主播女孩重度依赖</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893338.html" title="自称恶役大小姐的婚约者观察记录。" data-original="https://img.meituan.net/content/f444247434357327678f8952ebe25f71221553.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893338.html" title="自称恶役大小姐的婚约者观察记录。">自称恶役大小姐的婚约者观察记录。</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893337.html" title="朱音落语" data-original="https://img.meituan.net/content/6f1d6a965e59666b3959cd31a2a79e95228481.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">8.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893337.html" title="朱音落语">朱音落语</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893335.html" title="入间同学入魔了！ 第四季" data-original="https://img.meituan.net/content/ca02d7355617720874e195df54574943254037.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第13集/周六更</span><span class="pic-tag pic-tag-top">8.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893335.html" title="入间同学入魔了！ 第四季">入间同学入魔了！ 第四季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893361.html" title="杀手青春" data-original="https://img.meituan.net/content/519efc8e03d5c8010494ecef8a909b7e230508.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">6.6</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893361.html" title="杀手青春">杀手青春</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/5513.html" title="完美世界" data-original="https://mdn.alipay.com/wsdk/img?fileid=A*9_4QTIxfILYAAAAAAAAAAAAAAfYuAQ"><span class="play hidden-xs"></span><span class="pic-text text-right">第275集/4k/周五更新</span><span class="pic-tag pic-tag-top">7.2</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/5513.html" title="完美世界">完美世界</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714890167.html" title="斗罗大陆Ⅱ绝世唐门" data-original="https://vcover-vt-pic.puui.qpic.cn/vcover_vt_pic/0/mzc00200xf3rir61749894931390/260?imageView2/2/w/265"><span class="play hidden-xs"></span><span class="pic-text text-right">159集/4k/周五更新</span><span class="pic-tag pic-tag-top">8.4</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714890167.html" title="斗罗大陆Ⅱ绝世唐门">斗罗大陆Ⅱ绝世唐门</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/5514.html" title="凡人修仙传" data-original="https://mdn.alipay.com/wsdk/img?fileid=A*1Z3XRaOEQdkAAAAAAAAAAAAAAfYuAQ"><span class="play hidden-xs"></span><span class="pic-text text-right">180集/4k/周六晚更新</span><span class="pic-tag pic-tag-top">7.9</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/5514.html" title="凡人修仙传">凡人修仙传</a></h4></div></div> </li>  </ul>  <div class="stui-vodlist__head"><a class="pull-right" href="/show/3-----------.html">更多 <i class="iconfont icon-more"></i></a>
+                            <h3><a href="/show/3-----------.html"><i class="iconfont icon-all"></i> 综艺</a></h3>
+                            <p>  </p>
+                        </div>
+                        <ul class="stui-vodlist clearfix">  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893509.html" title="小镇魔发师" data-original="https://img.meituan.net/content/8a7e8f9b9126f73fa4913cc71368f51f151322.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.7</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893509.html" title="小镇魔发师">小镇魔发师</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893475.html" title="刘在锡的民宿法则！" data-original="https://img.meituan.net/poiugc/737ff8cf0c861b57c3c3202d9d99cdc5191285.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第10集/已完结</span><span class="pic-tag pic-tag-top">7.6</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893475.html" title="刘在锡的民宿法则！">刘在锡的民宿法则！</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893474.html" title="旧基洞朋友们" data-original="https://img.meituan.net/poiugc/3ff88c02ad01af56ac75970323a64a9a195549.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第05集/周四更</span><span class="pic-tag pic-tag-top">8.4</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893474.html" title="旧基洞朋友们">旧基洞朋友们</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893532.html" title="孝利家民宿 第一季" data-original="https://img.vbing.me/d.php?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2493056093.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.7</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893532.html" title="孝利家民宿 第一季">孝利家民宿 第一季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893533.html" title="孝利家民宿 第二季" data-original="https://img.vbing.me/d.php?url=https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2511740682.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">8.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893533.html" title="孝利家民宿 第二季">孝利家民宿 第二季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893226.html" title="天机试炼场" data-original="https://img.meituan.net/content/6bfdd746f5c8314867f8a9d35f24d2c6229065.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第10集/已完结</span><span class="pic-tag pic-tag-top">7.8</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893226.html" title="天机试炼场">天机试炼场</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893081.html" title="泰勒·斯威夫特：时代巡回演唱会终场秀" data-original="https://img.vbing.me/d.php?url=https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2928055214.jpg"><span class="play hidden-xs"></span><span class="pic-text text-right">特效双语/包含歌词</span><span class="pic-tag pic-tag-top">9.6</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893081.html" title="泰勒·斯威夫特：时代巡回演唱会终场秀">泰勒·斯威夫特：时代巡回演唱会终场秀</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893238.html" title="怪奇谜案限时破 第二季" data-original="https://img.meituan.net/content/5bd0cef57839a352ab361f3fef77aebc209604.png"><span class="play hidden-xs"></span><span class="pic-text text-right">已完结</span><span class="pic-tag pic-tag-top">0.0</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893238.html" title="怪奇谜案限时破 第二季">怪奇谜案限时破 第二季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893171.html" title="单身即地狱 第五季" data-original="https://img.meituan.net/content/76f41036f67bb2f2294bb16992fa3d10185926.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">8.1</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893171.html" title="单身即地狱 第五季">单身即地狱 第五季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714893144.html" title="黑白厨师：料理阶级战争 第二季" data-original="https://img.meituan.net/content/7fb27f2449ebce752c7cc73907634277189264.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第13集/已完结</span><span class="pic-tag pic-tag-top">8.3</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714893144.html" title="黑白厨师：料理阶级战争 第二季">黑白厨师：料理阶级战争 第二季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714892875.html" title="换乘恋爱 第四季" data-original="https://img.meituan.net/portalweb/03aa60b5a5ff4c75f23697bcb01f28652047025.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第20集/已完结</span><span class="pic-tag pic-tag-top">7.9</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714892875.html" title="换乘恋爱 第四季">换乘恋爱 第四季</a></h4></div></div> </li>  <li> <div class="stui-vodlist__box"><a class="stui-vodlist__thumb lazyload" href="/detail/714892519.html" title="魔鬼的计谋2" data-original="https://img.meituan.net/content/dd8aec58e5547f7ab8a904213f336556209284.png"><span class="play hidden-xs"></span><span class="pic-text text-right">第12集/已完结</span><span class="pic-tag pic-tag-top">5.7</span></a><div class="stui-vodlist__detail"><h4 class="title text-overflow"><a href="/detail/714892519.html" title="魔鬼的计谋2">魔鬼的计谋2</a></h4></div></div> </li>  </ul>  <ul class="stui-vodlist clearfix">  </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+  <div class="row">
+    <div class="row"></div>
+    <footer class="stui-foot">
+      <div class="foot-inner">
+        <div class="foot-divider"></div>
+        <div class="foot-content">
+
+          <!-- 暗金边框 + 低调文字 -->
+          <a href="https://ifabu.vip/" target="_blank" class="foot-permalink">
+            <span class="permalink-dot"></span>
+            <span class="permalink-text">
+              当前网址随时可能失效，请点击进入<b>永久发布页</b>收藏保存
+            </span>
+            <span class="permalink-arrow">→</span>
+          </a>
+
+          <div class="foot-notice">
+            <p>若本站收录的内容无意冒犯了贵司，请联系我们：<a href="mailto:help@libvio.com" class="foot-email">help@libvio.com</a></p>
+            <p>确认后，我们会立即删除。</p>
+          </div>
+        </div>
+        <div class="foot-bottom">
+          <span>© 2026 LIBVIO · 仅供学习交流</span>
+        </div>
+      </div>
+    </footer>
+  </div>
+</div>
+
+<style>
+  body { background:#0d0d0d; color:#c8c8c8; font-family:'PingFang SC','Microsoft YaHei',sans-serif; margin:0; }
+  .stui-foot { margin-top:40px; }
+  .foot-inner { max-width:1200px; margin:0 auto; padding:0 24px; }
+  .foot-divider { height:1px; background:linear-gradient(90deg,transparent 0%,#f5c518 30%,#f5c518 70%,transparent 100%); opacity:.35; margin-bottom:32px; box-shadow:0 0 12px rgba(245,197,24,.3); }
+  .foot-content { display:flex; align-items:center; justify-content:space-between; gap:32px; flex-wrap:wrap; }
+
+  /* —— 永久地址：暗金边框 + 低调文字 —— */
+  .foot-permalink {
+    display:inline-flex; align-items:center; gap:8px;
+    padding:9px 16px;
+    color:#9a8a4a;                          /* 暗金文字 */
+    font-size:13px; font-weight:500; text-decoration:none;
+    border:1px solid rgba(245,197,24,.22);  /* 很淡的暗金边框，无发光 */
+    border-radius:8px;
+    background:rgba(245,197,24,.025);        /* 几乎不可见的底色 */
+    transition:color .25s ease, border-color .25s ease, background .25s ease;
+  }
+  .foot-permalink:hover {
+    color:#f5c518;
+    border-color:rgba(245,197,24,.5);        /* 悬停时边框稍亮 */
+    background:rgba(245,197,24,.06);
+  }
+  .permalink-text b { color:#c9b87a; font-weight:600; transition:color .25s ease; }
+  .foot-permalink:hover .permalink-text b { color:#fff; }
+  .permalink-arrow { font-size:14px; opacity:.7; transition:transform .25s ease, opacity .25s ease; }
+  .foot-permalink:hover .permalink-arrow { transform:translateX(4px); opacity:1; }
+
+  /* 小圆点：无发光，极轻微呼吸 */
+  .permalink-dot { display:inline-block; width:6px; height:6px; border-radius:50%; background:#9a8a4a; flex-shrink:0; transition:background .25s ease; animation:pulse-dot 2.4s ease-in-out infinite; }
+  .foot-permalink:hover .permalink-dot { background:#f5c518; }
+  @keyframes pulse-dot { 0%,100% { opacity:.85; } 50% { opacity:.4; } }
+
+  .foot-notice { max-width:400px; font-size:12px; color:#555; line-height:1.8; text-align:right; }
+  .foot-notice p { margin:0 0 4px; }
+  .foot-email { color:#888; text-decoration:none; border-bottom:1px dashed #444; transition:color .2s,border-color .2s; }
+  .foot-email:hover { color:#f5c518; border-color:#f5c518; }
+
+  .foot-bottom { margin-top:28px; padding:16px 0; border-top:1px solid #1e1e1e; text-align:center; font-size:11px; color:#3a3a3a; letter-spacing:1px; }
+
+  @media (max-width:768px) {
+    .foot-content { flex-direction:column; align-items:flex-start; gap:20px; }
+    .foot-notice { text-align:left; max-width:100%; }
+    .foot-permalink { width:100%; box-sizing:border-box; }
+  }
+</style> <div class="hide">统计代码</div>
+        <style></style>
+</body>
+</html>
