@@ -1,1 +1,0 @@
-<script src="/_guard/html.js?js=easy_click_html"></script>
