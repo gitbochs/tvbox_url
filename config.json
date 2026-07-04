@@ -11,17 +11,6 @@
       "filterable": 0
     },
     {
-      "key": "hpy_js_豆瓣",
-      "name": "[1939ms|1] 豆瓣排行②",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/豆瓣[官].js"
-    },
-    {
       "key": "drpy_js_豆瓣",
       "name": "[1939ms|1] 💥最新软件接口获取❤Link3.cc/uuccc❤",
       "type": 3,
@@ -1123,17 +1112,6 @@
       "quickSearch": 0
     },
     {
-      "key": "hipy_js_A8音乐",
-      "name": "A8音乐(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/ec92a4_A8音乐.js"
-    },
-    {
       "key": "hipy_js_AGE动漫",
       "name": "AGE动漫(drpy_t3)",
       "type": 3,
@@ -1607,17 +1585,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/KUBO影视[飞].js"
-    },
-    {
-      "key": "hipy_js_KimiVod",
-      "name": "KimiVod(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/KimiVod.js"
     },
     {
       "key": "Kimivod",
@@ -6194,18 +6161,6 @@
       }
     },
     {
-      "key": "咕咕动漫",
-      "name": "[91ms|潇洒] 咕咕 • 动漫",
-      "type": 3,
-      "searchable": 1,
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.gugu3.com",
-        "dataKey": "nKfZ8KX6JTNWRzTD",
-        "dataIv": "nKfZ8KX6JTNWRzTD"
-      }
-    },
-    {
       "key": "咖啡体育",
       "name": "[91ms|潇洒] 咖啡 • 体育",
       "type": 3,
@@ -7423,17 +7378,6 @@
       "ext": "./lib/dygang.js"
     },
     {
-      "key": "hipy_js_eFuns",
-      "name": "eFuns(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/eFuns.js"
-    },
-    {
       "key": "hipy_js_es6py",
       "name": "es6py(drpy_t3)",
       "type": 3,
@@ -8378,17 +8322,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/vidhub.js"
-    },
-    {
-      "key": "hipy_js_voflix",
-      "name": "voflix(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/voflix.js"
     },
     {
       "key": "hipy_js_x6av",
@@ -12366,17 +12299,6 @@
       "ext": "./lib/7c92fa_厂长资源.js"
     },
     {
-      "key": "hipy_js_厂长资源(可搜索)",
-      "name": "厂长资源(可搜索)(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/厂长资源(可搜索).js"
-    },
-    {
       "key": "厂长资源",
       "name": "厂长｜资源",
       "type": 3,
@@ -12967,6 +12889,14 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/在线之家.js"
+    },
+    {
+      "key": "Zxzj",
+      "name": "在线｜影视",
+      "type": 3,
+      "api": "csp_ZxzjFishGuard",
+      "searchable": 1,
+      "ext": "https://www.zxzjhd.com"
     },
     {
       "key": "在线短剧",
@@ -13807,6 +13737,17 @@
       "ext": "./lib/奶狗影视[慢].js"
     },
     {
+      "key": "好影快看",
+      "name": "好影快看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://www.hitv.app/"
+      }
+    },
+    {
       "key": "hipy_js_好看动漫",
       "name": "好看动漫(drpy_t3)",
       "type": 3,
@@ -13823,17 +13764,6 @@
       "type": 3,
       "api": "./lib/c39b47_drpy2.min.js",
       "ext": "./lib/好看动漫.js"
-    },
-    {
-      "key": "hipy_js_好趣网",
-      "name": "好趣网(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/a44cfc_好趣网.js"
     },
     {
       "key": "hipy_js_好趣网[播]",
@@ -15029,6 +14959,14 @@
       ]
     },
     {
+      "key": "快龙影视",
+      "name": "快龙影视",
+      "type": 0,
+      "api": "https://lz.118318.xyz/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
       "key": "hipy_js_思古影视",
       "name": "思古影视(drpy_t3)",
       "type": 3,
@@ -15831,15 +15769,6 @@
       }
     },
     {
-      "key": "星空网",
-      "name": "拾光☪星空PY",
-      "type": 3,
-      "api": "./lib/星空影视.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
       "key": "映播.py",
       "name": "拾光☪映播PY",
       "type": 3,
@@ -15961,6 +15890,21 @@
       "type": 3,
       "api": "./lib/778370_drpy2.min.js",
       "ext": "./lib/爱奇艺.js"
+    },
+    {
+      "key": "狂唐人",
+      "name": "拾光☪狂人",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "主页url": "https://www.trjvod.com/index.php/vod/type/id/1.html",
+        "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53",
+        "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#奇幻片$30#战争片$12#犯罪片$54#动漫电影$55||国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$31#纪录片$20||空||空||空||空"
+      }
     },
     {
       "key": "py猎手",
@@ -16434,6 +16378,15 @@
       "filterable": 0
     },
     {
+      "key": "搜搜",
+      "name": "搜搜｜APP",
+      "type": 3,
+      "api": "csp_AppFox",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://www.zjcvod.com"
+    },
+    {
       "key": "搜狗",
       "name": "搜狗",
       "type": 3,
@@ -16536,17 +16489,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/e1ab32_斗鱼直播.js"
-    },
-    {
-      "key": "hipy_js_斗鱼直播[官]",
-      "name": "斗鱼直播[官](drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/斗鱼直播[官].js"
     },
     {
       "key": "hipy_js_新片场",
@@ -16664,17 +16606,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/无名小站.js"
-    },
-    {
-      "key": "hipy_js_无忧影视",
-      "name": "无忧影视(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/无忧影视.js"
     },
     {
       "key": "无忧短剧",
@@ -16815,17 +16746,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/易看影视.js"
-    },
-    {
-      "key": "hipy_js_星云影视",
-      "name": "星云影视(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/星云影视.js"
     },
     {
       "key": "星河弹幕",
@@ -17559,17 +17479,6 @@
         "site": "https://woog.nxog.eu.org",
         "danmu": true
       }
-    },
-    {
-      "key": "hipy_js_欧帝影院",
-      "name": "欧帝影院(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/欧帝影院.js"
     },
     {
       "key": "hipy_js_武享吧",
@@ -19689,17 +19598,6 @@
       "ext": "./lib/番茄小说[书]海阔.js"
     },
     {
-      "key": "hipy_js_番茄影视",
-      "name": "番茄影视(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/番茄影视.js"
-    },
-    {
       "key": "番薯",
       "name": "番薯丨动漫",
       "type": 3,
@@ -19736,17 +19634,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/疯AV[密].js"
-    },
-    {
-      "key": "hipy_js_疯狗影院",
-      "name": "疯狗影院(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/疯狗影院.js"
     },
     {
       "key": "疯狗影视",
@@ -22163,17 +22050,6 @@
       "ext": "./lib/蜥蜴影视[优].js"
     },
     {
-      "key": "hipy_js_被窝电影",
-      "name": "被窝电影(drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/被窝电影.js"
-    },
-    {
       "key": "裤佬独播JS",
       "name": "裤佬丨独播",
       "type": 3,
@@ -22787,17 +22663,6 @@
       "ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/采集之王[合].js?type=url&params=../json/采集静态.json$1"
     },
     {
-      "key": "hipy_js_采集之王0",
-      "name": "采王道长[合](drpy_t3)",
-      "type": 3,
-      "api": "./lib/2fd5cd_drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./lib/采集静态.json$1"
-    },
-    {
       "key": "hipy_js_采集[优]",
       "name": "采集[优](drpy_t3)",
       "type": 3,
@@ -23149,44 +23014,6 @@
       "filterable": 1,
       "order_num": 0,
       "ext": "./lib/阿布影院.js"
-    },
-    {
-      "key": "阿里资源",
-      "name": "阿里♌️资源",
-      "type": 1,
-      "api": "https://alivod.com/api.php/provide/vod",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "家庭片",
-        "古装片",
-        "悬疑片",
-        "理论片",
-        "纪录片",
-        "国产剧",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "韩国剧",
-        "欧美剧",
-        "海外剧",
-        "连续剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "动漫电影",
-        "内地综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
     },
     {
       "key": "AliShareEBook",
@@ -24980,6 +24807,18 @@
       "jar": "./jar/xbpq.jar"
     },
     {
+      "key": "🌾咕噜",
+      "name": "🌾咕噜",
+      "type": 3,
+      "api": "./js/Appfox.js",
+      "ext": {
+        "host": "http://www.yingsw.top",
+        "timeout": 8,
+        "key": "guluyinghua_123",
+        "sign": "679543610991810f19698c187e5e106e"
+      }
+    },
+    {
       "key": "米盘搜索",
       "name": "🌾米盘┃搜索",
       "type": 3,
@@ -25482,17 +25321,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "playerType": 2
-    },
-    {
-      "key": "🎞高清",
-      "name": "🎞高清",
-      "type": 3,
-      "api": "./js/高清.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
     },
     {
       "key": "聚盘",
@@ -26437,16 +26265,6 @@
       "ext": "7lj763gg402i7942463j9j9jgg449698khhh845ki38473"
     },
     {
-      "name": "🏹法则",
-      "key": "Gaze",
-      "type": 3,
-      "api": "csp_GazeAmns",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "https://gaze.show,https://gazes.store,https://gazes.top,https://gazes.site"
-    },
-    {
       "key": "永恒视频",
       "name": "🐁永恒┃APP",
       "type": 3,
@@ -26662,21 +26480,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "c3c15714a2413f05151fea6864509533510f79b104fb5bdb95f6904ef2318ad86ce4dfe796c4e63fd050695a813534fe77dad1fce40faec6f4c229e3a369420975823bb9d4a2544a16f87f3b85dbe0d23b12b94031672b5f7cacc8b5bda77c549d560b7ea461e1bca00d81dd68c860de33ba77ea23895efb582e98ccffee51b3296277820fd3a6fe3f65e7c0a93f7c07a4cd91d63f66cb2921cb013d0e93f0059e6f35d839b1ebb40078ed89b20115f85ff6d81d97ab99c0536638ab4454df59b59b025dbfc9c870f18d990519c2c5f2df68a619581a30f4b99be2fb23d7efde2642327a6e37ba955c985294082352c19ea83770f754a50046886aa3e388784c9538f688af27a15675e49dc788d4bd0d85becf809feb9c29c737bd3a5474c19ace10533e2e4f1e4b2d238f2544eb641c0cf63710d9b5c308c49e0c2634d655d1f25cb40920ce8d594d79a80be0f90261ea0a2152996d94407b4c5287373623ae0fe61ebfbee98cd97e3a2e797c8967bd789c2cd0876ce90ddc7fbf314c7a0b72a2d3a148895a00e08286d2856f71b1174d960b4d3227e9cd0c073c49e8cf36d5eeddd9cdf15f602e5affe008fae1ebd57bb4f0c2878d9e88963775e8dcc4ad47dd19742245f2b39e8408a282af41d58a1eb9d6b40d45850023ca64e03e1726d525cd427e24908e1a767a6e336688a87572d46a69fe6eb20e46a62f0b4a7b8a63c1d6199598651c2117f996e64dcda0965e6efd181a03ef25ea250024f3115f8b248463a0d5fa6ced6062685178094e99be04a4a06d7fca69df61df774dfb7194e6dce449aa09b6d485084cb5abb7610485feced52a674b5063cdcaed045afefd09496a610db5eb15749c3a1b618f9ec99c0984dea2f8dca13712f93973784209f67db853e929fa35d9e7759a5202ed97160e04ac2c1e888356a84644b1a85a497423b8c917d44f01ed92337a3cb1c9abbf4ac49c8a0b6f956e8b0ca5fd26ab653f43d1046857fdffa24aa46264c6ff15237d480f3a09d0000370776a2c97f5beef1d0c5d28ae144a948631b836cffecc1ef73768156491e00f9089544832eabf282d7078a6e84c016cdb9227dd12d56aaa45db949ff3e14c7c15f9539262238e26edff31a560e13c1a592a5b006c343caf6b3f89483cd2027b8de272ad91572940602f9bd1bcd2d8de662758d85597ea381bfa98ea37f24c5e29a0b2a60747c94cff5e35c3c22664397dd0a46c078d716f7a0887dfcd57317fea06a7fdc75570b81dd226454d378e069fdac787fc2a264f90911ff1506f9415cfea91593489039590c3e6b42004086bdbf228c41b509a3cbdd6343d61cae3795572c2c02c82015bbe203a0b2d246ed0d0596c3c29d26a2915bb63b457cf61a13c1e6555123df5a9fddea7ddddc6f067bd7d13f9b824e6a1cc0a25f5d8407a8939be5b50d3eddd84967b63635097128bc7941c3ff0a1ee82a9ce3f7ce7a16e004631c2970a07908bf7a74a6a561f0b0c798566db5d70664771bdf9ed6f6c75c7ff8674cb83b7be083fce6784ba4c205a194af70d02cdc91cf94e2d763ed3aa3813595f870a28f529cc82acde3de29c85903b33fb613967ea236709f858e5c47392c34ec86b225695304f95d29c0e8924c593bc14ac2c9d7e5dbca02b09f0467e0c7ca33ddfee5dd4d11997794f1642cbefbe417a29b2b617b195fe84f28360696c40044f15a62458214dd457f50a092c3d4eefcc9b7e875bcf2c71b48ec0e0af64370a4873418a6c2bb6900f348158757c703285bdaacf9c48fcd8c2524853bdfdc68cb73083e0b1f5c76ea62079859d6e867c3ee9cad314185cc769468da3194799efdb834feb48a1e7e83bcfcef0c129d03f3ee72987f58c124cfad935f4ba4513266d3889c18bf73e81b72041e21f59ec8171c8e61643d193be8c92f78e738a4a65757621f42865efa95cca68857bbd9e457766b134f1ecd0b62ca159d9cefe658061d7ce3be2b50855a128843212c079398673b2b6b98daa191a63e927c1181a5d481d66cce49ba29017343b2d121eaceb16ca3fbd39fd8e174f026f74e97b208a60feb46401a8c8652590eed4dde637b0d394a5d675d32b9309fb3a5f7b337dc96259feffa87b5815492dc2f828fb60706610d58a7c52798b4a7b0a9bcc988216e76824d4849661d831f149c15ebff8806f496d5f4696eb59f0d675fc72b547264b3d84789ab6a713dfa5e93ff16c88c511c545f958b15585a7b8247f480fd20ed18a781593170bf7f300d5709768e6882af1615c03d029705bdae064a1e2471f52bc1c31410089e71cf5e93f10bffe03016a7a877b5d42acac0fb0843634fd192800672d8256ea8b989dd050ededb80178091819eee4affb6e893fbdda57d42cb4ef74ef49bfa52a66902e8de68a92be56033564e72467d2a0768909be4273284cf3dbf9102655d4971c983bb7ea7e9908c2652607562392c9530790751499adbb67439203a9a730cb1a7825d8f117541a0bd7aae1036372755f50d26c15da8d00fcd439824e0c1d21d7456ab093b9e1b3166fbf829e2ac9aa6fd2220aaf065e109b30b6b05c6abbbe672384c4a8566edd148fabbfca8cd7df5385ebfa7bb8596a99b50714886358c1bd728c46b737d2a9c0bd754fd16a681504657401916380e130a3c6232c7098fa7f04c8bdd5914601e3c9933b5d3a4b50fa225ebd83ecfb45b2b95df6334f75430a60c77b3b8646d7bc8a116cfd2e70f52fb304066ed84d88a3d9b971a367b83b994ec18507a16263a7c10ae665bd5b3226f426a0fca658ca64c33800c6bc11ea67f9f5675c6c91ef0137c69d47e182c98b367c42a88877ad47dffa475ef4f0f5feb494bd8bd23c3ce92c1deecbec23dead836960932909523489e2c790197d46ec720c35da52b4b5df9e73f12a5e25153c94a2512615bc5d5b68f70fe97f1b08cd48490ca0bdc9f2363a7dc7fe8eddc24d289d4e2635881abb5ca9eab465e29ce5ec955ba01f6d8414d5486e5b829f6a67ebc4ae5d328a806d84c24e"
-    },
-    {
-      "key": "csp_XYQBiu_斗鱼",
-      "name": "🐟斗鱼┃直播",
-      "type": 3,
-      "jar": "./jar/fan.jpg;md5;323e8b50197207b7fcccfa8a636da143",
-      "api": "./lib/57bdbc_drpy2.min.js",
-      "ext": "https://raw.githubusercontent.com/ocean2025/ocean/main/js/斗鱼直播.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.755
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
     },
     {
       "key": "斗鱼",
@@ -29368,43 +29171,6 @@
       "ext": "./lib/f7b924_lf_live.json"
     },
     {
-      "key": "非凡┃无广",
-      "name": "📺非凡┃测试",
-      "type": 0,
-      "api": "http://yonghu.ffzyapi8.com/api.php/provide/vod/from/ffm3u8/at/xml/",
-      "playUrl": "json:https://jx.ke-mi.vip:2087/123456/json.php?url=",
-      "searchable": 1,
-      "filterable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "categories": [
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "日本剧",
-        "台湾剧",
-        "泰国剧",
-        "海外剧",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "大陆综艺",
-        "欧美综艺",
-        "日韩综艺",
-        "港台综艺",
-        "国产动漫",
-        "欧美动漫",
-        "日韩动漫",
-        "港台动漫",
-        "海外动漫"
-      ]
-    },
-    {
       "key": "凤凰FM",
       "name": "📻FM",
       "type": 3,
@@ -30109,18 +29875,6 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto"
       }
-    },
-    {
-      "key": "WebDAV",
-      "name": "🙃Web┃DAV",
-      "type": 3,
-      "api": "csp_WebDAV",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 60,
-      "playerType": 2,
-      "ext": "./lib/webdav.json"
     },
     {
       "key": "🙈华数",
@@ -31191,16 +30945,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "3d1e5714a2413f05151fea6864509533510f64888873c9014549547c4b35cb1adeee20e0d57ba3751a77a841c05ab07707cfd47e5ce58300c4d76a63b36769f5ca194cdd372e6467113c881d77e743db16d7abe2ebd99e610047bc3a54b53b4f7bede852c8e349a047965ceded596e9c7cdb344a399e97218a77fdb81e930db1d2f09f2d4c2be1d6c471c80699fc615e8ec072aba54e4f79e9c56aeaa4461e497c6c381b699686935bb9dddf708e9d482bfc16e5aeae6235094fb4d8fa6741ca8318b2520013ff54ab8cb1203d078e4b8dc78abd041b48191ec6893734015fd08d2f4ebc76193de569e55f74a5397c5ea4213b9345bd027ac2986c63ce65636cd7f91f9d30d1ad37b9b4d6de92d545a1545924904a7a4c1b06d181b5dda5f13df8fd20d812125da97f030cf56d088e4ba52a074f50fabccfade34dc57f3c03ca2dc2231bca5a56800380d95dfa36f2cd731c7bd3c7cb97c8d3a027226b7841694066964d2811f51dcdcf51b44eec61fe79b3f778f338ac061b89290367806e3639e3e632c4422005eef3805f21c7c6eb2252646bdbd5fd668956526496a4927b626c15bd74d80fc0a58dd2647e719a0a8d21fd207b69b1c775523b08c70a3dee2aea403e66d607c91b2105eecc7a5ca1779451053760a9ef708a626174bef4e4d14fcbef3c59000a137848cfe87ffcb5406e6612998c20962d531104c94b68b5114051fcf3c647ea8a2665b0f35e6e5f06f8d654d2945d53660a7268ec4e606c1ac91c1d4a33234e8c10e9cb4fc33fbda28d2a51f9378b2a42ce4c3f36deb8dd8456137ea629fa56b51423ba2cc77e1dc446bb399b2b34d46ded47e6031ae0a48ff8007485a5d332b2b4fd4341447524d146a158717fac4ffcfb0684785f7e2fda78ce8f1ab57104edad3e787ef181308a87b302511bc8c1cd013b8300fc9420bf3b95c4b248388fdec739da889b46400def0e45efd17f3782fe86ce385e5deb50202d99901cf65453b6bd4b19a341d81cf64d04599dd80bdeb725c0a1704b6959c13c63c3633ba58a4f4a15e1381b61a78253acad57051986e1c78c22583e14feb3a7883817bd9f44b61d97b199a0548da74d8d42fd5bdbce1f9aade63089e148e67f8199a54929f8ab7ebbf657cd2991e8b0424fbdc12a298dac718d8d16aad08fa48a6f2f3acfa6158a25dbdb08e3f743190797ec02b917f0660089c2b0c6656c90c60f4b967878658dffab59cee978122150f0911712dbe1856cec69ea475c470bfd15b3ebb5a7326d73fd576f456d7b1eafed6fb264e0a38594998377d62b8d617ae6808f739ab11d4d62c940b80010622a569a207ec81f54644e137f0f569e1c75032c246e5056437423f0a1ced626875c928d763c88f986568f2329b787381634e6687c2d52412919208e08220979c6f7467cea0f867ea032d502e77cb8dd3a8198c32f85a355a18228695a1baea2d79647c497a8382d7dab6418a05e54c6c10407f4a91d54f895fe8ddd46008c48fb3adbed3bd5ee3c382b8ccb50089677cf87d77b1a2b1921b04a02c3c569aacaec3b1e63d36a00e6877436a09be267ab1efef4e6cc5313f83eb976b043a25837e558d26b4c116354dbd7df6d6c35a172379831183ecffcea78d347223bc4d31e1a67535bc620c016b91b32f9d1e009672fb95eeb4aa307d6fbe98d5b4e6387df5486097d4a7307b025606c9fb6a7e83d1614ffa8742c907065781d65f1ccfecd52a6c474b38e8e40d3ae9c2d624ed44e94ac3656166b372410f7ad81fdd59388aa79f6eefa6509c7e430135c5ed18538565c0a93e7bc2abbc05ee018764466fcae61d31587c9ced6eb530993edffcab13f833a19b81f0c008b7ffc5fae56c580d15451a4431a3d95035e7036ca63ff95e1aa96c22f6ed0c633d0f2984098f4639f5e501c0efab202f9d15abd54cac54fecf335b751c363fa967ebeffea3571b215e40cc3dde3d097e9d1f7e8f43c22cd8444496c82d2264309f48d7cdc2a72fa6ecb6046cfa3b1a28f758c252b6fe2756dd87030a13fb0b3554c985bcec9d5c68bbd8e140712e3da62c21714c740d3aee893d89d8ed89e881cad96fc0c62289d142c7c5e45d08c7f362af467e3fcd256b39139d767c6457ea6a93530d350ebca8c1d72c1fd044368b519f2704b49bb7db8320314be5f96310df6ed5970fcbaca8c5790f4fa2727ebc7d6e166292d20620d352db84c6b715d22920703ad6f6a93112c9c4d1072612d40e6a4cef63e78ccbcd290da7084e36df0a073502d05e40ca43afeeedca2d91f9a55095da0fcca774e75ce5b16ea40ff00ced03a3adfbce5f738de8bd66222cc2488ba282c6fda512959c26203aa28845cef8d351a434dd089779d548fe1f95b9a35d56caa7ff7ba864dea86af17cd27459471865f9954ceb2a2043cb1eef09bc416c9e3f346730cd1256bd725a68acf53ee96156f678961a0e283aaa24f7cf58fd417bc1428fab366d890c40de1e913eb83cf55cde9ff4b9cf5cb4cae2d29b3cecfe2a8f9bc32ebc0a47430bbbfc0afd6be8e5a785d2cbd58452f69ccab0fe9a818922a624cb5dc2458e1c605a0485f0c6f3d1095f23f9b0c4db2580570e24251fcc4aa92d80d67553cce5d80f25ff996a413ea8cb2f7cceb83a0b001185ce7cd7735a01b31e15451740595a7bc61babe2b7e86dd3189469b97c9d3571ac6d822282b7f2194838fc404bfe90c0b2e3bf0c14744af6f8f0759e7c3ed02b277d2e1d29f453e75ba752d7bed7f5a891ebf7df375a8623ff2e297dc8294179aedfb86ee3b7eac45bb1d8c4f0acb86d023c4d36484349372a942bb797426e9e70fd16382c0457f0e3dad5e9df09f284d4d1703161744ae97335a84b6ec39ac0de44373e2237e0cf38979b66ae446ddd3bcb537bb2cb0c989de07598561c01fd90e4759de175c9ed926cc42b49be531ec209a3c13c11ad6903b7dfe1b3a267437c73777004f159ddb8c59c9e55692a75c147fd03e3e31b9156d95d3f46b61ac0d86d8417c2e1605d0c3aee82ba62942e8007e2d"
-    },
-    {
-      "key": "番剧2",
-      "name": "🧇米口｜番剧",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "api": "csp_AppGet",
-      "ext": "https://www.gugu3.com|nKfZ8KX6JTNWRzTD",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/小米/spider.jar"
     },
     {
       "key": "口才",
