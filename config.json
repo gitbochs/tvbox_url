@@ -1,15 +1,20 @@
 {
   "spider": "./jar/310c68_spider.jar",
   "sites": [
-    {"key":"Tg|豆瓣","name":"🔍Tg豆瓣┃刷新一下源才能出来","type":3,"api":"csp_TgYunDouBanPan","searchable":1,"changeable":0,"ext":{"siteUrl":"http://127.0.0.1:9999","count":4,"channelUsername":"+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk","commonConfig":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json","filter":"https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"}},
-{"key":"T4_douban_bak","name":"🏠T4聚合备份","type":4,"api":"http://67.216.219.230:16214/home?douban","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"T4_tmdb_bak","name":"🏠T4聚合tmdb","type":4,"api":"http://67.216.219.230:16214/home/tmdb","searchable":1,"quickSearch":1,"filterable":1},
     {
-      "key": "提醒",
-      "api": "csp_Douban2",
-      "name": "仅用作学习交流使用，请于24小时之内进行清除",
+      "key": "Tg|豆瓣",
+      "name": "🔍Tg豆瓣┃刷新一下源才能出来",
       "type": 3,
-      "searchable": 1
+      "api": "csp_TgYunDouBanPan",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "http://127.0.0.1:9999",
+        "count": 4,
+        "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk",
+        "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
+      }
     },
     {
       "key": "drpy_js_豆瓣",
@@ -20,17 +25,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "js_douban",
-      "name": "豆瓣(js),该接口完全免费，如有收费都是骗子｜Tg：@huliys9",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "category": "综合"
     },
     {
       "key": "斗笔",
@@ -189,29 +183,6 @@
       "jar": "https://img.tofaka.com/autoupload/f/v78ve/20260814/IRwV/aidaox-20260814-154723.jar;md5;64e0a957c0459ecbc350be29174f40f0"
     },
     {
-      "key": "NewDouBan",
-      "name": "🐮【公众号：王二小放牛娃】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/txt/20260414181247-ae51abfbfe.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/spider.jar"
-    },
-    {
-      "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20260819】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/08/18/fda2afceeb158aa34ac538f26ebd6638.jpg;md5;5bd4dcbbbcc4cd71d86a8f2e61ab0d2b"
-    },
-    {
       "name": "💬嗷嗚|彈幕|豆瓣",
       "key": "GoConfig",
       "type": 3,
@@ -221,30 +192,6 @@
       "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "py_douban",
-      "name": "📢接口软件永远免费",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/py_douban.py",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "Tg|豆瓣",
-      "name": "🔍Tg豆瓣┃本接口免费-🈲贩卖",
-      "type": 3,
-      "api": "csp_TgYunDouBanPan",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "http://127.0.0.1:9999",
-        "count": 4,
-        "channelUsername": "bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk",
-        "commonConfig": "./lib/a73399_peizhi.json",
-        "filter": "./lib/f83a90_douban.json"
-      }
     },
     {
       "key": "csp_Pg优熙",
@@ -350,18 +297,6 @@
       "searchable": 0,
       "changeable": 1,
       "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json"
-    },
-    {
-      "key": "csp_TgDouban",
-      "name": "🥳公众号┃宝盒资源",
-      "type": 3,
-      "api": "csp_TgDouban",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
-        "limit": 3
-      }
     },
     {
       "key": "csp_Jianpian",

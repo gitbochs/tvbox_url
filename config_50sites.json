@@ -17,31 +17,6 @@
       }
     },
     {
-      "key": "T4_douban_bak",
-      "name": "🏠T4聚合备份",
-      "type": 4,
-      "api": "http://67.216.219.230:16214/home?douban",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "T4_tmdb_bak",
-      "name": "🏠T4聚合tmdb",
-      "type": 4,
-      "api": "http://67.216.219.230:16214/home/tmdb",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "提醒",
-      "api": "csp_Douban2",
-      "name": "仅用作学习交流使用，请于24小时之内进行清除",
-      "type": 3,
-      "searchable": 1
-    },
-    {
       "key": "drpy_js_豆瓣",
       "name": "搜索 • 豆瓣",
       "type": 3,
@@ -50,17 +25,6 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "js_douban",
-      "name": "豆瓣(js),该接口完全免费，如有收费都是骗子｜Tg：@huliys9",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/douban_min.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "category": "综合"
     },
     {
       "key": "斗笔",
@@ -219,29 +183,6 @@
       "jar": "https://img.tofaka.com/autoupload/f/v78ve/20260814/IRwV/aidaox-20260814-154723.jar;md5;64e0a957c0459ecbc350be29174f40f0"
     },
     {
-      "key": "NewDouBan",
-      "name": "🐮【公众号：王二小放牛娃】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/txt/20260414181247-ae51abfbfe.txt",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/王二小/spider.jar"
-    },
-    {
-      "key": "Doubanaaaa",
-      "name": "🐮【更新日期:20260819】🐮",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt",
-      "jar": "http://oss4liview.moji.com/thd_file/2026/08/18/fda2afceeb158aa34ac538f26ebd6638.jpg;md5;5bd4dcbbbcc4cd71d86a8f2e61ab0d2b"
-    },
-    {
       "name": "💬嗷嗚|彈幕|豆瓣",
       "key": "GoConfig",
       "type": 3,
@@ -251,30 +192,6 @@
       "filterable": 0,
       "quickSearch": 0,
       "changeable": 0
-    },
-    {
-      "key": "py_douban",
-      "name": "📢接口软件永远免费",
-      "type": 3,
-      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/py_douban.py",
-      "searchable": 0,
-      "filterable": 0,
-      "changeable": 0
-    },
-    {
-      "key": "Tg|豆瓣",
-      "name": "🔍Tg豆瓣┃本接口免费-🈲贩卖",
-      "type": 3,
-      "api": "csp_TgYunDouBanPan",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "siteUrl": "http://127.0.0.1:9999",
-        "count": 4,
-        "channelUsername": "bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk",
-        "commonConfig": "./lib/a73399_peizhi.json",
-        "filter": "./lib/f83a90_douban.json"
-      }
     },
     {
       "key": "csp_Pg优熙",
@@ -380,18 +297,6 @@
       "searchable": 0,
       "changeable": 1,
       "ext": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json"
-    },
-    {
-      "key": "csp_TgDouban",
-      "name": "🥳公众号┃宝盒资源",
-      "type": 3,
-      "api": "csp_TgDouban",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": {
-        "filters": "https://bitbucket.org/guot55/ygbh/raw/main/pro/json/douban.json",
-        "limit": 3
-      }
     },
     {
       "key": "csp_Jianpian",
@@ -639,6 +544,211 @@
         "连续剧",
         "国产剧"
       ]
+    },
+    {
+      "key": "csp_影業",
+      "name": "酒吧┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "站名": "玖八",
+        "主页url": "http://www.98dyb.com/",
+        "简介": "【X接口】提醒您请勿相信影片中的广告，以免上当受骗！+<span class=\"detail-content\" style=*>&&</span>",
+        "影片状态": "状态：&&</p>",
+        "副标题": "✨X接口✨+text-right\">&&</span>",
+        "搜索url": "/search.php;post;searchword={wd}",
+        "线路数组": "<h3&&/h3>",
+        "线路标题": "X接口专享✨+src=*>&&<",
+        "分类url": "http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
+        "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
+      },
+      "searchable": 1
+    },
+    {
+      "key": "csp_Jpys",
+      "name": "🥇金牌",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "csp_TianTian",
+      "name": "🦉天天",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_ReBo",
+      "name": "☀️热播",
+      "type": 3,
+      "api": "csp_ReBo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "飞飞影视",
+      "name": "飞飞影视",
+      "type": 3,
+      "api": "./lib/3805bb_drpy2.min.js",
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "ext": "./lib/飞飞影视.js",
+      "searchable": 1
+    },
+    {
+      "key": "gaze",
+      "name": "注视影视 | 自营",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.66
+      },
+      "jar": "./jar/GM.jar;md5;7dd67a73e49dbf1cd32f56e329fce7b3",
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./lib/gaze.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "https://*.bytecdntp.com/cdn/expire-1-M/font-awesome/*",
+            "https://*.clarity.ms/*",
+            "https://gaze.run/visitorslog.php*",
+            "*.css*"
+          ]
+        },
+        "playUrlMatch": [
+          "https://dl-b.cloud.189.cn/corp/downloadFile.action?*",
+          "https://gaze.run/gaze_filey/pb/*.m3u8",
+          "https://*/obj/tos*"
+        ],
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://gaze.run/filter"
+          },
+          "categoryContent": {
+            "loadUrl": "https://gaze.run/filter"
+          },
+          "detailContent": {
+            "loadUrl": "https://gaze.run/play/${id}"
+          },
+          "playerContent": {
+            "loadUrl": "https://gaze.run/play/${mcid}#${path}"
+          },
+          "searchContent": {
+            "loadUrl": "https://gaze.run/filter"
+          }
+        }
+      }
+    },
+    {
+      "key": "yfsp",
+      "name": "爱壹帆 | 自营🚧",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.75
+      },
+      "jar": "./jar/GM.jar;md5;7dd67a73e49dbf1cd32f56e329fce7b3",
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./lib/ysfp.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "*.png*",
+            "*.mp3*",
+            "*.css*",
+            "https://*.googletagmanager.com/*",
+            "https://*.google-analytics.com/*"
+          ]
+        },
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://m.yfsp.tv/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
+          },
+          "detailContent": {
+            "loadUrl": "https://m.yfsp.tv/play/${id}"
+          },
+          "playerContent": {
+            "loadUrl": "https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
+          },
+          "searchContent": {
+            "loadUrl": "https://m.yfsp.tv/search"
+          }
+        }
+      }
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "🏭厂长",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.czzyvideo.com"
+    },
+    {
+      "key": "huochetaidu",
+      "name": "火车太堵 | 聚合",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 0.71
+      },
+      "jar": "./jar/GM.jar;md5;7dd67a73e49dbf1cd32f56e329fce7b3",
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "./lib/huochetaidu.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "https://hm.baidu.com/*"
+          ]
+        },
+        "playUrlMatch": [
+          "*://*/*.m3u8*"
+        ],
+        "spider": {
+          "homeContent": {
+            "loadUrl": "https://www.tdgo.shop/"
+          },
+          "categoryContent": {
+            "loadUrl": "https://www.tdgo.shop/vodshow/${tid}-${index0:-}-${index1:-}-${index2:-}-${index3:-}-${index4:-}-${index5:-}-${index6:-}-${pg:-1}-${index8:-}-${index9:-}-${index10:-}.html"
+          },
+          "detailContent": {
+            "loadUrl": "https://www.tdgo.shop${id}"
+          },
+          "playerContent": {
+            "loadUrl": "https://www.tdgo.shop${playUrl}"
+          },
+          "searchContent": {
+            "loadUrl": "https://www.tdgo.shop/vodsearch/${key}----------${pg:-1}---.html"
+          }
+        }
+      }
     }
   ],
   "parses": [
