@@ -2,6 +2,39 @@
   "spider": "./jar/310c68_spider.jar",
   "sites": [
     {
+      "key": "Tg|豆瓣",
+      "name": "🔍Tg豆瓣┃刷新一下源才能出来",
+      "type": 3,
+      "api": "csp_TgYunDouBanPan",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "siteUrl": "http://127.0.0.1:9999",
+        "count": 4,
+        "channelUsername": "+P4IU1QbK4ChlNTYx,+h10ulzfxiQZiYTdi,+cpJ_dIx_hlYxMWQx,+Jc37JCr1diEzNDMx,bdwpzhpd,bdwpzhpd,alyp_TV,ucquark,wp123zy,oneonefivewpfx,tyypzhpd,cloudtianyi,ydypzyfx,yunpan139,guaguale115,Mbox115,shares_115,zaihuayun,PanjClub,NewQuark,yunpanpan,kuake_movie,Quark_Movies,alyp_4K_Movies,alyp_TV,yunpanshare,shareAliyun,alyp_1,BaiduCloudDisk",
+        "commonConfig": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "filter": "https://ghfast.top/raw.githubusercontent.com/yoursmile66/TVBox/main/json/douban.json"
+      }
+    },
+    {
+      "key": "T4_douban_bak",
+      "name": "🏠T4聚合备份",
+      "type": 4,
+      "api": "http://67.216.219.230:16214/home?douban",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "T4_tmdb_bak",
+      "name": "🏠T4聚合tmdb",
+      "type": 4,
+      "api": "http://67.216.219.230:16214/home/tmdb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "提醒",
       "api": "csp_Douban2",
       "name": "仅用作学习交流使用，请于24小时之内进行清除",
@@ -1254,37 +1287,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "csp_PanSearch",
-      "name": "📀盘搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-      }
-    },
-    {
-      "key": "csp_MeijuTT",
-      "name": "🧲美剧天堂",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "纸条搜",
-      "name": "📜小纸条",
-      "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "http://127.0.0.1:9978/file/TVBox/peizhi.json"
-      }
     }
   ],
   "parses": [
