@@ -17,24 +17,7 @@ var rule = {
     cate_exclude: "",
     play_parse: true,
     lazy: $js.toString(() => {
-         var html = request(input) 
-    player = JSON.parse(html.match(/r player_.*?=(.*?)</)[1])
-    var url = player.url
-    if (player.encrypt == '1') {
-        url = unescape(url);
-    } else if (player.encrypt == '2') {
-        url = unescape(base64Decode(url));
-    }    
-    var jxurl="https://www.7sefun.xyz/addons/dp/player/dp.php?key=0&from="+player.from+"&id="+player.id+"&uid=0&url="+url+"&jump="
-    var video = request(jxurl,{headers:{"Referer":input}})       
-    input= {
-        url: video.match(/url": "(.*?)"/)[1],
-        parse: 0,
-        jx:0,
-        header: {
-            "Referer": input
-        }
-    }               
+        input = {parse: 1, url: input, js: '', header: rule.headers, parse_extra: '&is_pc=1'};
     }),
     double: false,
     推荐: "*;.video-name&&Text;*;.video-time&&Text;*",
