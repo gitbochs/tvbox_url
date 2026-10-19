@@ -1,5 +1,5 @@
 {
-  "spider": "merged/jar/seba.jar",
+  "spider": "./jar/5960bd_XBPQ.jar",
   "sites": [
     {
       "key": "T4_douban_bak",
@@ -27,7 +27,8 @@
       "searchable": 0,
       "changeable": 1,
       "indexs": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/douban.json"
+      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/douban.json",
+      "jar": "./jar/aidaox-20260905-170225.jar"
     },
     {
       "key": "drpy_js_豆瓣",
@@ -44,7 +45,8 @@
       "api": "csp_YGP",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jar/aidaox-20260905-170225.jar"
     },
     {
       "key": "豆瓣推荐",
@@ -69,74 +71,1674 @@
       "api": "csp_Douban",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "jar": "./jar/aidaox-20260905-170225.jar"
     },
     {
-      "key": "量子资源",
-      "name": "🥑┃量子┃资源",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "playurl": "json:http://jx.84jia.com/m3u8ts.php?url=",
+      "key": "py_YYCM影视",
+      "name": "YYCM影视",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/YYCM影视.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_极品少女_JPSN",
+      "name": "极品少女_JPSN",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/极品少女_JPSN.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p426",
+      "name": "p426",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p426.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_精英突击",
+      "name": "精英突击",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/精英突击.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_大象影视",
+      "name": "大象影视",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/大象影视.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_maomi66",
+      "name": "maomi66",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/maomi66.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Porntok_2",
+      "name": "Porntok_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Porntok_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_tiktok成人版",
+      "name": "tiktok成人版",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/tiktok成人版.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_萝莉岛",
+      "name": "萝莉岛",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/萝莉岛.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_PPP-Porn",
+      "name": "PPP-Porn",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/PPP-Porn.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p417",
+      "name": "p417",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p417.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_风欲",
+      "name": "风欲",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/风欲.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_911爆料网_2",
+      "name": "911爆料网_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/911爆料网_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_好淫社",
+      "name": "好淫社",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/好淫社.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_推特APP",
+      "name": "推特APP",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/推特APP.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_水兰亭",
+      "name": "水兰亭",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/水兰亭.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_夜色",
+      "name": "夜色",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/夜色.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Jable",
+      "name": "Jable",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Jable.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_春心一动",
+      "name": "春心一动",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/春心一动.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_shufu",
+      "name": "shufu",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/shufu.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_汤头条",
+      "name": "汤头条",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/汤头条.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_XOJAV_2",
+      "name": "XOJAV_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/XOJAV_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_抖阴",
+      "name": "抖阴",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/抖阴.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_真实人妻",
+      "name": "真实人妻",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/真实人妻.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p446",
+      "name": "p446",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p446.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_风月阁",
+      "name": "风月阁",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/风月阁.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_青禾视界",
+      "name": "青禾视界",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/青禾视界.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_青霄视频",
+      "name": "青霄视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/青霄视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_夜晚小树林",
+      "name": "夜晚小树林",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/夜晚小树林.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_橘汁视频",
+      "name": "橘汁视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/橘汁视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_谢欲频道",
+      "name": "谢欲频道",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/谢欲频道.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p411",
+      "name": "p411",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p411.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_51动漫全源·20260906",
+      "name": "51动漫全源·20260906",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/51动漫全源·20260906.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p447",
+      "name": "p447",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p447.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_69吃瓜网",
+      "name": "69吃瓜网",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/69吃瓜网.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_玩蛋吧",
+      "name": "玩蛋吧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/玩蛋吧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_丢丢喵_2",
+      "name": "丢丢喵_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/丢丢喵_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p431",
+      "name": "p431",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p431.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_猫咪AV",
+      "name": "猫咪AV",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/猫咪AV.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_xszav",
+      "name": "xszav",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/xszav.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_AV星球",
+      "name": "AV星球",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/AV星球.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_hohoj",
+      "name": "hohoj",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/hohoj.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_madou365",
+      "name": "madou365",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/madou365.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_你的秘书_2",
+      "name": "你的秘书_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/你的秘书_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_9g88x_2",
+      "name": "9g88x_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/9g88x_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91porna(OK适配精简版)_2",
+      "name": "91porna(OK适配精简版)_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91porna(OK适配精简版)_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_爆操留学生",
+      "name": "爆操留学生",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/爆操留学生.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_GG51",
+      "name": "GG51",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/GG51.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91精品",
+      "name": "91精品",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91精品.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_887717_2",
+      "name": "887717_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/887717_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_一抖阁",
+      "name": "一抖阁",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/一抖阁.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_WanWuu (作者_ 飞鱼)",
+      "name": "WanWuu (作者_ 飞鱼)",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/WanWuu (作者_ 飞鱼).py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_抠爆B处",
+      "name": "抠爆B处",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/抠爆B处.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_爆瓜网",
+      "name": "爆瓜网",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/爆瓜网.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_麻豆社",
+      "name": "麻豆社",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/麻豆社.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_VV视频",
+      "name": "VV视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/VV视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_小丑撸AV",
+      "name": "小丑撸AV",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/小丑撸AV.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_MissAv",
+      "name": "🇹🇼【老王成人專區】🇹🇼",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/py_missav.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "台湾剧",
-        "香港剧",
-        "欧美剧",
-        "韩国剧",
-        "日本剧",
-        "动漫",
-        "体育",
-        "剧情片",
-        "动作片",
-        "爱情片",
-        "喜剧片"
-      ]
+      "changeable": 1
     },
     {
-      "key": "lzzy",
-      "name": "🎦量子┃2k",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/?ac=list",
-      "playurl": "json:https://lziplayer.com/?url=",
+      "key": "py_鉴黄师_2",
+      "name": "鉴黄师_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/鉴黄师_2.py",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "categories": [
-        "预告片",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "伦理片",
-        "国产剧",
-        "香港剧",
-        "韩国剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "短剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "电影解说"
-      ]
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_n012",
+      "name": "n012",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/n012.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_py_禁片天堂",
+      "name": "py_禁片天堂",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/py_禁片天堂.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_shaofu36",
+      "name": "shaofu36",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/shaofu36.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_py_Xhm",
+      "name": "py_Xhm",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/py_Xhm.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_撸状元",
+      "name": "撸状元",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/撸状元.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_n021",
+      "name": "n021",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/n021.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_御姐宿舍 (1)",
+      "name": "御姐宿舍 (1)",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/御姐宿舍 (1).py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_March 视频",
+      "name": "March 视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/March 视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_17c",
+      "name": "17c",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/17c.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_猫又影视",
+      "name": "猫又影视",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/猫又影视.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91波多 (2)",
+      "name": "91波多 (2)",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91波多 (2).py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_MADOUYY",
+      "name": "MADOUYY",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/MADOUYY.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_caoliu28",
+      "name": "caoliu28",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/caoliu28.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_女优色库",
+      "name": "女优色库",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/女优色库.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_一牛影视",
+      "name": "一牛影视",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/一牛影视.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_2048核基地_3",
+      "name": "2048核基地_3",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/2048核基地_3.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_AEX短剧",
+      "name": "AEX短剧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/AEX短剧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_射我里面",
+      "name": "射我里面",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/射我里面.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_tideember短剧",
+      "name": "tideember短剧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/tideember短剧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_2048核基地_2",
+      "name": "2048核基地_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/2048核基地_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91吃瓜中心_终极完美版_2",
+      "name": "91吃瓜中心_终极完美版_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91吃瓜中心_终极完美版_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_教授",
+      "name": "教授",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/教授.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_ZakaTV·九区全功能稳定版",
+      "name": "ZakaTV·九区全功能稳定版",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/ZakaTV·九区全功能稳定版.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_香蕉",
+      "name": "香蕉",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/香蕉.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_熟女汇_3",
+      "name": "熟女汇_3",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/熟女汇_3.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_酒与花",
+      "name": "酒与花",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/酒与花.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91pron",
+      "name": "91pron",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91pron.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_淫荡阁",
+      "name": "淫荡阁",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/淫荡阁.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_一线黑料",
+      "name": "一线黑料",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/一线黑料.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_taiav",
+      "name": "taiav",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/taiav.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_iSese影库",
+      "name": "iSese影库",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/iSese影库.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_ZheTianV4_v10_video",
+      "name": "ZheTianV4_v10_video",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/ZheTianV4_v10_video.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_熟妇公寓",
+      "name": "熟妇公寓",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/熟妇公寓.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Hanime1",
+      "name": "Hanime1",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Hanime1.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_深液传媒",
+      "name": "深液传媒",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/深液传媒.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_爆款片库_3",
+      "name": "爆款片库_3",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/爆款片库_3.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_徐娘阁",
+      "name": "徐娘阁",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/徐娘阁.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_正妹AV",
+      "name": "正妹AV",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/正妹AV.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_清新萝莉",
+      "name": "清新萝莉",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/清新萝莉.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_黃豆短剧",
+      "name": "黃豆短剧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/黃豆短剧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_欧美影院",
+      "name": "欧美影院",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/欧美影院.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_SupJav_2",
+      "name": "SupJav_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/SupJav_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_吉利猫",
+      "name": "吉利猫",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/吉利猫.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_one",
+      "name": "one",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/one.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Hanime1_2",
+      "name": "Hanime1_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Hanime1_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_avgood",
+      "name": "avgood",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/avgood.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_每日大乱斗_终极完美版",
+      "name": "每日大乱斗_终极完美版",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/每日大乱斗_终极完美版.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_你的秘书",
+      "name": "你的秘书",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/你的秘书.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_高清福利社",
+      "name": "高清福利社",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/高清福利社.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_AcFan",
+      "name": "AcFan",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/AcFan.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91热爆_2",
+      "name": "91热爆_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91热爆_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_硬硬AV",
+      "name": "硬硬AV",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/硬硬AV.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_撸一天",
+      "name": "撸一天",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/撸一天.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_JAV目录",
+      "name": "JAV目录",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/JAV目录.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_py_Xhm(1)",
+      "name": "py_Xhm(1)",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/py_Xhm(1).py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_欲女心经_2",
+      "name": "欲女心经_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/欲女心经_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_土豆短剧",
+      "name": "土豆短剧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/土豆短剧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_NJAV·ZakaTV",
+      "name": "NJAV·ZakaTV",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/NJAV·ZakaTV.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_爆款片库",
+      "name": "爆款片库",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/爆款片库.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_ayk",
+      "name": "ayk",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/ayk.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p418",
+      "name": "p418",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p418.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_玩物社区AI",
+      "name": "玩物社区AI",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/玩物社区AI.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_抖阴破解",
+      "name": "抖阴破解",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/抖阴破解.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_九个区",
+      "name": "九个区",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/九个区.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_BadNews直播放",
+      "name": "BadNews直播放",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/BadNews直播放.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Javmenu",
+      "name": "Javmenu",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Javmenu.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_黄果短剧",
+      "name": "黄果短剧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/黄果短剧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_淫兽穴院",
+      "name": "淫兽穴院",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/淫兽穴院.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_三流视频",
+      "name": "三流视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/三流视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_福利天堂",
+      "name": "福利天堂",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/福利天堂.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_shenmidianying",
+      "name": "shenmidianying",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/shenmidianying.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Xvd",
+      "name": "Xvd",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Xvd.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_叔叔和侄女",
+      "name": "叔叔和侄女",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/叔叔和侄女.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_ptt.co",
+      "name": "ptt.co",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/ptt.co.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_久久网",
+      "name": "久久网",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/久久网.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_XX01_2",
+      "name": "XX01_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/XX01_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_n028_2",
+      "name": "n028_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/n028_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_18today",
+      "name": "18today",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/18today.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_hscka",
+      "name": "hscka",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/hscka.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_s爽上天",
+      "name": "s爽上天",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/s爽上天.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_善解人衣",
+      "name": "善解人衣",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/善解人衣.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_黑料网",
+      "name": "黑料网",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/黑料网.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Pornlulu",
+      "name": "Pornlulu",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Pornlulu.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_黄色仓库_2",
+      "name": "黄色仓库_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/黄色仓库_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_JAVDAY_2",
+      "name": "JAVDAY_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/JAVDAY_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_AQX",
+      "name": "AQX",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/AQX.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_环球王2",
+      "name": "环球王2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/环球王2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91成人短剧",
+      "name": "91成人短剧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91成人短剧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_禁忌短剧",
+      "name": "禁忌短剧",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/禁忌短剧.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_苹果视频_3",
+      "name": "苹果视频_3",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/苹果视频_3.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p451",
+      "name": "p451",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p451.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_杏吧视频",
+      "name": "杏吧视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/杏吧视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_怦然心动",
+      "name": "怦然心动",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/怦然心动.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_黄色仓库",
+      "name": "黄色仓库",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/黄色仓库.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p445",
+      "name": "p445",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p445.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_xingyunjichang",
+      "name": "xingyunjichang",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/xingyunjichang.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_91吃瓜中心_终极完美版",
+      "name": "91吃瓜中心_终极完美版",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/91吃瓜中心_终极完美版.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_ZheTian_SWLT_DiBing",
+      "name": "ZheTian_SWLT_DiBing",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/ZheTian_SWLT_DiBing.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_51aw",
+      "name": "51aw",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/51aw.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_撸一天_2",
+      "name": "撸一天_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/撸一天_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_东方色文化",
+      "name": "东方色文化",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/东方色文化.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_GetAV (ZakaTV专线)",
+      "name": "GetAV (ZakaTV专线)",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/GetAV (ZakaTV专线).py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_龙凤阁",
+      "name": "龙凤阁",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/龙凤阁.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_懂色帝",
+      "name": "懂色帝",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/懂色帝.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_JAV目录大全",
+      "name": "JAV目录大全",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/JAV目录大全.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_51大赛_终极完美版",
+      "name": "51大赛_终极完美版",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/51大赛_终极完美版.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_午夜剧场",
+      "name": "午夜剧场",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/午夜剧场.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_XX01",
+      "name": "XX01",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/XX01.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_BaoPorn",
+      "name": "BaoPorn",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/BaoPorn.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_菠萝七区",
+      "name": "菠萝七区",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/菠萝七区.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_weimeijingpin",
+      "name": "weimeijingpin",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/weimeijingpin.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_秋霞影院",
+      "name": "秋霞影院",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/秋霞影院.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_AVTOP10_3",
+      "name": "AVTOP10_3",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/AVTOP10_3.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_爽水妹",
+      "name": "爽水妹",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/爽水妹.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_p425",
+      "name": "p425",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/p425.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_py_stripchat",
+      "name": "py_stripchat",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/py_stripchat.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_owoav高清",
+      "name": "owoav高清",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/owoav高清.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_私房研究所",
+      "name": "私房研究所",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/私房研究所.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_海角社区",
+      "name": "海角社区",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/海角社区.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_PigAV_Stable_2",
+      "name": "PigAV_Stable_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/PigAV_Stable_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_激速阁",
+      "name": "激速阁",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/激速阁.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_Xvideos_2",
+      "name": "Xvideos_2",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/Xvideos_2.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_妙笔影院 (1)",
+      "name": "妙笔影院 (1)",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/妙笔影院 (1).py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_女优库",
+      "name": "女优库",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/女优库.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_万性视频",
+      "name": "万性视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/万性视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_llydy",
+      "name": "llydy",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/llydy.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
     },
     {
       "key": "量子",
@@ -183,6 +1785,42 @@
       ]
     },
     {
+      "key": "py_ZakaTV·MissAV",
+      "name": "ZakaTV·MissAV",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/ZakaTV·MissAV.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_啪啪指南",
+      "name": "啪啪指南",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/啪啪指南.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_望春视频",
+      "name": "望春视频",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/望春视频.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
+      "key": "py_久久視頻",
+      "name": "久久視頻",
+      "type": 3,
+      "api": "https://newrecha.neocities.org/py-sex/久久視頻.py",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 1
+    },
+    {
       "key": "VIP5",
       "name": "🎖️VIP💈量子资源",
       "type": 1,
@@ -220,1819 +1858,10 @@
       ]
     },
     {
-      "key": "csp_SNzy",
-      "name": "🐉┃索尼┃高清",
-      "type": 1,
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-    {
-      "key": "dr_Missav",
-      "name": "Missav(道长)",
+      "key": "py_hsck",
+      "name": "hsck",
       "type": 3,
-      "api": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy2.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/Missav.js"
-    },
-    {
-      "key": "dr_18av",
-      "name": "18av(道长)",
-      "type": 3,
-      "api": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/18av.js"
-    },
-    {
-      "key": "dr_banan",
-      "name": "banan(道长)",
-      "type": 3,
-      "api": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/banan.js"
-    },
-    {
-      "key": "dr_养端",
-      "name": "养端(道长)",
-      "type": 3,
-      "api": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/养端.js"
-    },
-    {
-      "key": "dr_吸瓜",
-      "name": "吸瓜(道长)",
-      "type": 3,
-      "api": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/吸瓜.js"
-    },
-    {
-      "key": "dr_朱古力",
-      "name": "朱古力(道长)",
-      "type": 3,
-      "api": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/朱古力.js"
-    },
-    {
-      "key": "dr_玩偶姐姐",
-      "name": "玩偶姐姐(道长)",
-      "type": 3,
-      "api": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/lib/drpy.min.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/js/js/玩偶姐姐.js"
-    },
-    {
-      "key": "drpy_js_18av",
-      "name": "👠18av[DRPY18]",
-      "type": 3,
-      "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/18av.js"
-    },
-    {
-      "key": "drpy_js_Missav",
-      "name": "👠Missav[DRPY18]",
-      "type": 3,
-      "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/Missav.js"
-    },
-    {
-      "key": "drpy_js_banan",
-      "name": "👠banan[DRPY18]",
-      "type": 3,
-      "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/banan.js"
-    },
-    {
-      "key": "drpy_js_朱古力",
-      "name": "👠朱古力[DRPY18]",
-      "type": 3,
-      "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/%e6%9c%b1%e5%8f%a4%e5%8a%9b.js"
-    },
-    {
-      "key": "drpy_js_玩偶姐姐",
-      "name": "👠玩偶姐姐[DRPY18]",
-      "type": 3,
-      "api": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://agit.ai/guot54/TVBOXZY/raw/branch/main/JS/js/%e7%8e%a9%e5%81%b6%e5%a7%90%e5%a7%90.js"
-    },
-    {
-      "key": "木耳",
-      "name": "木耳┃秒播",
-      "type": 1,
-      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "timeout": 20,
-      "categories": [
-        "剧情片",
-        "动作片",
-        "冒险片",
-        "喜剧片",
-        "奇幻片",
-        "恐怖片",
-        "悬疑片",
-        "惊悚片",
-        "灾难片",
-        "爱情片",
-        "犯罪片",
-        "科幻片",
-        "歌舞片",
-        "战争片",
-        "经典片",
-        "动画电影",
-        "网络电影",
-        "其他片",
-        "国产剧",
-        "港剧",
-        "韩剧",
-        "日剧",
-        "泰剧",
-        "台剧",
-        "欧美剧",
-        "新马剧",
-        "其他剧",
-        "国产综艺",
-        "港台综艺",
-        "韩国综艺",
-        "日本综艺",
-        "欧美综艺",
-        "新马泰综艺",
-        "其他综艺",
-        "古装短剧",
-        "虐恋短剧",
-        "逆袭短剧",
-        "神豪短剧",
-        "重生短剧",
-        "复仇短剧",
-        "穿越短剧",
-        "甜宠短剧",
-        "强者短剧",
-        "欧美动漫",
-        "日本动漫",
-        "韩国动漫",
-        "国产动漫",
-        "港台动漫"
-      ],
-      "header": {
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"
-      }
-    },
-    {
-      "key": "py_AEX短剧",
-      "name": "AEX短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/AEX短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_py_Xhm(1)",
-      "name": "py_Xhm(1)",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/py_Xhm(1).py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_PigAV_Stable_2",
-      "name": "PigAV_Stable_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/PigAV_Stable_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_欧美影院",
-      "name": "欧美影院",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/欧美影院.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_小心御欲",
-      "name": "小心御欲",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/小心御欲.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_MissAv",
-      "name": "🇹🇼【老王成人專區】🇹🇼",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/py_missav.py",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_py_stripchat",
-      "name": "py_stripchat",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/py_stripchat.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_weimeijingpin",
-      "name": "weimeijingpin",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/weimeijingpin.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_淫兽穴院",
-      "name": "淫兽穴院",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/淫兽穴院.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_青霄视频",
-      "name": "青霄视频",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/青霄视频.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_BadNews直播放",
-      "name": "BadNews直播放",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/BadNews直播放.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p426",
-      "name": "p426",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p426.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_怦然心动",
-      "name": "怦然心动",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/怦然心动.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_御姐宿舍 (1)",
-      "name": "御姐宿舍 (1)",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/御姐宿舍 (1).py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_你的秘书_2",
-      "name": "你的秘书_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/你的秘书_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_善解人衣",
-      "name": "善解人衣",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/善解人衣.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_在线涩库",
-      "name": "在线涩库",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/在线涩库.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_探索妹妹",
-      "name": "探索妹妹",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/探索妹妹.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_八戒修车",
-      "name": "八戒修车",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/八戒修车.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_抠爆B处",
-      "name": "抠爆B处",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/抠爆B处.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_叔叔和侄女",
-      "name": "叔叔和侄女",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/叔叔和侄女.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Truvaze",
-      "name": "Truvaze",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Truvaze.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Porntok_2",
-      "name": "Porntok_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Porntok_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_madou365",
-      "name": "madou365",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/madou365.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p411",
-      "name": "p411",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p411.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Xvd",
-      "name": "Xvd",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Xvd.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Xhm",
-      "name": "Xhm",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Xhm.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_JAV目录大全",
-      "name": "JAV目录大全",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/JAV目录大全.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p446",
-      "name": "p446",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p446.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_黄豆短剧 (1)",
-      "name": "黄豆短剧 (1)",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/黄豆短剧 (1).py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_n006",
-      "name": "n006",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/n006.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_夜晚小树林",
-      "name": "夜晚小树林",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/夜晚小树林.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_快活林",
-      "name": "快活林",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/快活林.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_十八禁视频",
-      "name": "十八禁视频",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/十八禁视频.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p417",
-      "name": "p417",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p417.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_llydy",
-      "name": "llydy",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/llydy.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_杏吧视频",
-      "name": "杏吧视频",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/杏吧视频.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p431",
-      "name": "p431",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p431.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Xvideos_2",
-      "name": "Xvideos_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Xvideos_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_shaofu36",
-      "name": "shaofu36",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/shaofu36.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_推特APP",
-      "name": "推特APP",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/推特APP.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_tideember短剧",
-      "name": "tideember短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/tideember短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_猫咪AV",
-      "name": "猫咪AV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/猫咪AV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_中国x站",
-      "name": "中国x站",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/中国x站.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_香肠派对",
-      "name": "香肠派对",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/香肠派对.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_你的秘书",
-      "name": "你的秘书",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/你的秘书.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p445",
-      "name": "p445",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p445.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_pymp",
-      "name": "pymp",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/pymp.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_熟女汇_3",
-      "name": "熟女汇_3",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/熟女汇_3.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_吉利猫",
-      "name": "吉利猫",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/吉利猫.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_py_Xhm",
-      "name": "py_Xhm",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/py_Xhm.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_万性视频",
-      "name": "万性视频",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/万性视频.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_黄色仓库_2",
-      "name": "黄色仓库_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/黄色仓库_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_777hub",
-      "name": "777hub",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/777hub.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_n012",
-      "name": "n012",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/n012.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_女优库",
-      "name": "女优库",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/女优库.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_JableTV",
-      "name": "JableTV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/JableTV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_高清福利社",
-      "name": "高清福利社",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/高清福利社.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_n028",
-      "name": "n028",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/n028.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p430",
-      "name": "p430",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p430.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_魅色仓库",
-      "name": "魅色仓库",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/魅色仓库.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_dajiba",
-      "name": "dajiba",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/dajiba.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_福利天堂",
-      "name": "福利天堂",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/福利天堂.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_射我里面",
-      "name": "射我里面",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/射我里面.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_ptt.co",
-      "name": "ptt.co",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/ptt.co.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_py_禁片天堂",
-      "name": "py_禁片天堂",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/py_禁片天堂.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_河马影视",
-      "name": "河马影视",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/河马影视.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Jable",
-      "name": "Jable",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Jable.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_菠萝七区",
-      "name": "菠萝七区",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/菠萝七区.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_CYJ短剧",
-      "name": "CYJ短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/CYJ短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_母狗园",
-      "name": "母狗园",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/母狗园.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Porntok",
-      "name": "Porntok",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Porntok.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_s爽上天",
-      "name": "s爽上天",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/s爽上天.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_123AV·ZakaTV",
-      "name": "123AV·ZakaTV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/123AV·ZakaTV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_撸状元",
-      "name": "撸状元",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/撸状元.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_hohoj",
-      "name": "hohoj",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/hohoj.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_ZakaTV·九区全功能稳定版",
-      "name": "ZakaTV·九区全功能稳定版",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/ZakaTV·九区全功能稳定版.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_avgood",
-      "name": "avgood",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/avgood.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_欲女心经_2",
-      "name": "欲女心经_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/欲女心经_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_夜色",
-      "name": "夜色",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/夜色.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_57短剧_2",
-      "name": "57短剧_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/57短剧_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p429",
-      "name": "p429",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p429.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_xszav",
-      "name": "xszav",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/xszav.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_BaoPorn",
-      "name": "BaoPorn",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/BaoPorn.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_水兰亭",
-      "name": "水兰亭",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/水兰亭.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_香蕉",
-      "name": "香蕉",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/香蕉.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_18today",
-      "name": "18today",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/18today.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_爆瓜网",
-      "name": "爆瓜网",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/爆瓜网.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_完美人妻",
-      "name": "完美人妻",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/完美人妻.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_鉴黄师_2",
-      "name": "鉴黄师_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/鉴黄师_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_极品少女_JPSN",
-      "name": "极品少女_JPSN",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/极品少女_JPSN.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_黄豆短剧",
-      "name": "黄豆短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/黄豆短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_秋霞影院",
-      "name": "秋霞影院",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/秋霞影院.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_NJAV·ZakaTV",
-      "name": "NJAV·ZakaTV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/NJAV·ZakaTV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_AVToday",
-      "name": "AVToday",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/AVToday.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Javmenu",
-      "name": "Javmenu",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Javmenu.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_射我里面😍",
-      "name": "射我里面😍",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/射我里面😍.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_尤物视频",
-      "name": "尤物视频",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/尤物视频.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_每日大乱斗_终极完美版",
-      "name": "每日大乱斗_终极完美版",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/每日大乱斗_终极完美版.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_大象影视",
-      "name": "大象影视",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/大象影视.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_夜社",
-      "name": "夜社",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/夜社.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_一线黑料",
-      "name": "一线黑料",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/一线黑料.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_激速阁",
-      "name": "激速阁",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/激速阁.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_真实人妻",
-      "name": "真实人妻",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/真实人妻.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_2048核基地_2",
-      "name": "2048核基地_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/2048核基地_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_Hanime1_2",
-      "name": "Hanime1_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/Hanime1_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_猫又影视",
-      "name": "猫又影视",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/猫又影视.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_黃豆短剧",
-      "name": "黃豆短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/黃豆短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_AQX",
-      "name": "AQX",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/AQX.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_91吃瓜中心_终极完美版_2",
-      "name": "91吃瓜中心_终极完美版_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/91吃瓜中心_终极完美版_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_caoliu28",
-      "name": "caoliu28",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/caoliu28.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_iSese影库",
-      "name": "iSese影库",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/iSese影库.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_夜社短剧",
-      "name": "夜社短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/夜社短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_91成人短剧",
-      "name": "91成人短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/91成人短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_久久网",
-      "name": "久久网",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/久久网.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p425",
-      "name": "p425",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p425.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_懂色帝",
-      "name": "懂色帝",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/懂色帝.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_好色tv",
-      "name": "好色tv",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/好色tv.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_橘汁视频",
-      "name": "橘汁视频",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/橘汁视频.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_精英突击",
-      "name": "精英突击",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/精英突击.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_梅花阁",
-      "name": "梅花阁",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/梅花阁.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_一牛影视",
-      "name": "一牛影视",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/一牛影视.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_蝶卡影视",
-      "name": "蝶卡影视",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/蝶卡影视.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_小黄书_2",
-      "name": "小黄书_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/小黄书_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_ZakaTV·MissAV",
-      "name": "ZakaTV·MissAV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/ZakaTV·MissAV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_XX01_2",
-      "name": "XX01_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/XX01_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_苹果视频_3",
-      "name": "苹果视频_3",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/苹果视频_3.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_正妹AV",
-      "name": "正妹AV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/正妹AV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_风欲",
-      "name": "风欲",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/风欲.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_maomi66",
-      "name": "maomi66",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/maomi66.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_MADOUYY",
-      "name": "MADOUYY",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/MADOUYY.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_91吃瓜中心_终极完美版",
-      "name": "91吃瓜中心_终极完美版",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/91吃瓜中心_终极完美版.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_爆款片库",
-      "name": "爆款片库",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/爆款片库.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_汤头条",
-      "name": "汤头条",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/汤头条.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "量子采集资源",
-      "name": "采集┃量子",
-      "type": 1,
-      "api": "https://cj.lziapi.com/api.php/provide/vod/at/json/",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
-      "key": "草榴社区",
-      "name": "🌹石榴|社区",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/js/草榴社区.js"
-    },
-    {
-      "key": "py_n028_2",
-      "name": "n028_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/n028_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_XOJAV_2",
-      "name": "XOJAV_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/XOJAV_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_百合TV",
-      "name": "百合TV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/百合TV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_JAVDAY_2",
-      "name": "JAVDAY_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/JAVDAY_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_xingyunjichang",
-      "name": "xingyunjichang",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/xingyunjichang.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_p447",
-      "name": "p447",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/p447.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_玩蛋吧",
-      "name": "玩蛋吧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/玩蛋吧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "采集┃非凡影视",
-      "name": "采集┃非凡影视",
-      "type": 1,
-      "api": "http://ffzy5.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "recordable": 0
-    },
-    {
-      "key": "VIP7",
-      "name": "🎖️VIP🦄非凡资源",
-      "type": 1,
-      "playerType": 2,
-      "api": "http://ffzy.tv/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "categories": [
-        "国产剧",
-        "港澳剧",
-        "美剧",
-        "韩剧",
-        "日剧",
-        "海外剧",
-        "泰剧",
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "纪录片",
-        "悬疑片",
-        "动画片",
-        "犯罪片",
-        "奇幻片",
-        "综艺",
-        "大陆综艺",
-        "日韩综艺",
-        "港台综艺",
-        "欧美综艺",
-        "动漫",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "台湾剧"
-      ]
-    },
-    {
-      "key": "py_春心一动",
-      "name": "春心一动",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/春心一动.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_n021",
-      "name": "n021",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/n021.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_蝴蝶影视",
-      "name": "蝴蝶影视",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/蝴蝶影视.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "ss直播",
-      "name": "🔞ss直播",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/lib/ss直播.js"
-    },
-    {
-      "key": "py_爽水妹",
-      "name": "爽水妹",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/爽水妹.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_g002",
-      "name": "g002",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/g002.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_tiktok成人版",
-      "name": "tiktok成人版",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/tiktok成人版.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_好莱污影院",
-      "name": "好莱污影院",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/好莱污影院.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "cjzy_优质",
-      "name": "采集┃优选",
-      "type": 1,
-      "api": "http://hdzyk.com/inc/apijson.php",
-      "playUrl": ""
-    },
-    {
-      "key": "cjy118",
-      "name": "采集┃🔞鸡坤资源",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "recordable": 0
-    },
-    {
-      "key": "py_18CM视频站",
-      "name": "18CM视频站",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/18CM视频站.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_龙凤阁",
-      "name": "龙凤阁",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/龙凤阁.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_91波多 (2)",
-      "name": "91波多 (2)",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/91波多 (2).py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_91精品",
-      "name": "91精品",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/91精品.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "愛看",
-      "name": "愛看",
-      "type": 3,
-      "api": "https://gh.con.sh/https://raw.githubusercontent.com/kongguojun/668/main/js/ikanbot_open.js",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "py_WhosTV_2",
-      "name": "WhosTV_2",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/WhosTV_2.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_淫荡阁",
-      "name": "淫荡阁",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/淫荡阁.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "🔞VOD4🔞",
-      "name": "🔞VOD4🔞",
-      "type": 3,
-      "api": "https://agit.ai/guot54/ygbh/raw/branch/master/h/zC.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/my18.json"
-    },
-    {
-      "key": "🔞VOD5🔞",
-      "name": "🔞VOD5🔞",
-      "type": 3,
-      "api": "https://agit.ai/guot54/ygbh/raw/branch/master/h/zC.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/my18a.json"
-    },
-    {
-      "key": "🔞VODYUTU🔞",
-      "name": "🔞VODYUTU🔞",
-      "type": 3,
-      "api": "https://agit.ai/guot54/ygbh/raw/branch/master/h/zC.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://ghproxy.com/raw.githubusercontent.com/hako68/tv/main/my18b.json"
-    },
-    {
-      "key": "🔞宝盒专享",
-      "name": "🔞宝盒专享",
-      "type": 3,
-      "api": "https://agit.ai/guot54/ygbh/raw/branch/master/h/zC.js",
-      "searchable": 2,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/h/18cr.json"
-    },
-    {
-      "key": "水蜜桃",
-      "name": "🥈水蜜桃",
-      "type": 1,
-      "api": "http://51smt4.xyz/api.php/provide/vod/",
-      "quickSearch": 1,
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "闪电资源",
-      "name": "闪电资源",
-      "type": 1,
-      "api": "http://sdzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "py_taiav",
-      "name": "taiav",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/taiav.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_硬硬AV",
-      "name": "硬硬AV",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/硬硬AV.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_海角社区",
-      "name": "海角社区",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/海角社区.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_黄果短剧",
-      "name": "黄果短剧",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/黄果短剧.py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_WanWuu (作者_ 飞鱼)",
-      "name": "WanWuu (作者_ 飞鱼)",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/WanWuu (作者_ 飞鱼).py",
-      "searchable": 1,
-      "filterable": 0,
-      "changeable": 1
-    },
-    {
-      "key": "py_望春视频",
-      "name": "望春视频",
-      "type": 3,
-      "api": "https://newrecha.neocities.org/py-sex/望春视频.py",
+      "api": "https://newrecha.neocities.org/py-sex/hsck.py",
       "searchable": 1,
       "filterable": 0,
       "changeable": 1

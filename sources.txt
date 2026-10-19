@@ -1,301 +1,301 @@
-# 2026-10-18 23:14:15
+# 2026-10-19 15:30:32
 9m.json
 https://ghfast.top/https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/9m.json
 
-[7111ms] X.json
+[1200ms] X.json
 https://ghfast.top/https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/X.json
 
-[5809ms] 南风2线.json
+[677ms] 南风2线.json
 https://raw.githubusercontent.com/lubin776/0/eef266f7ed3b552f78642d79090ea6420a8c4d74/tvbox/南风2线.json
 
-[5294ms] api.json
+[690ms] api.json
 https://raw.githubusercontent.com/ls125781003/tbapi1/684da454094c50d8d8da0d7af96b039a769d0e01/XS/api.json
 
-[5442ms] laoliubei.json
+[699ms] laoliubei.json
 https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/f9e8f29937427a4d934b3db5c2be3cf2b6972295/output/laoliubei.json
 
-[5476ms] jsm.json
+[721ms] jsm.json
 https://raw.githubusercontent.com/zzq1234567890/tvbox1/224b189f4cb89c5e4a9a0eae01bcd07722675318/jsm.json
 
-[5808ms] api.json
+[700ms] api.json
 https://raw.githubusercontent.com/child9527/tvbox/281e2ad93bed6c388a028f1fef61927489701834/json/api.json
 
-[5512ms] moyu.json
+[651ms] moyu.json
 https://raw.githubusercontent.com/SuperNinjap/iptv/e3448c4d77b557ccf883c810d082b6dd761d31e6/moyu.json
 
-[5570ms] box.json
+[833ms] box.json
 https://raw.githubusercontent.com/liuwei0704/66/e5571bd98ac5dca049f03db88d4fd6a1531cba14/box.json
 
-[5532ms] api.json
+[676ms] api.json
 https://raw.githubusercontent.com/huangxinyueus/dby/618d69a18afe88788e5fd55712083a2da25910d6/DG/嗷呜/api.json
 
-[564ms] vox.json
+[489ms] vox.json
 https://raw.githubusercontent.com/DodgeZhang/tvbox/9d737cdd024bc0ea450a6f6f30d8dbe53b448683/vox/vox.json
 
-[776ms] gh-proxy.json
+[1078ms] gh-proxy.json
 https://raw.githubusercontent.com/Mrish9527/api/880bd5451e37a1fc8998ea651ca535efdb7c106d/gh-proxy.json
 
-[688ms] api.json
+[517ms] api.json
 https://raw.githubusercontent.com/ls125781003/tbapi1/684da454094c50d8d8da0d7af96b039a769d0e01/JD/api.json
 
-[780ms] vox.json
+[555ms] vox.json
 https://raw.githubusercontent.com/apaodh/apaodh/a5f79ca79b46f5d2458ee580bc6dc7e1e36b5153/backups/vox.json
 
-[656ms] xs.json
+[458ms] xs.json
 https://raw.githubusercontent.com/cyao2q/files/c0ffe93dc110fd4f3f703a7dc07cd1f3fb97d91c/xs.json
 
-[650ms] api.json
+[537ms] api.json
 https://raw.githubusercontent.com/Supprise0901/api/d9cbc0df2747beb345fa52f5df6f035373eedd10/api.json
 
-[768ms] qist_jsm.json
+[481ms] qist_jsm.json
 https://raw.githubusercontent.com/hengge345666/tvbox-subs/70c22855c5a89019bef059a69007b1368a7c36c5/mirror/qist_jsm.json
 
-[694ms] jsm.json
+[884ms] jsm.json
 https://raw.githubusercontent.com/serein2494/SereinBox18/a293878fc63f308b686919de656e7174dd8fc260/lib/jsm.json
 
-[665ms] api.json
+[710ms] api.json
 https://raw.githubusercontent.com/w0878512-glitch/tvbox-config/c2af3adbadcb015da194e71c8dd6f0947f343de4/xiaosa/api.json
 
-[487ms] catcr.json
+[947ms] catcr.json
 https://raw.githubusercontent.com/88168/IPTV/5a205716d5c95d613d5bc6f0f8bcc25ac9c1024b/xyq/catcr.json
 
-[745ms] box.json
+[870ms] box.json
 https://raw.githubusercontent.com/alantang1977/aj/e0f9e1eac672646eb11cca0dd479ce6aa952e7f9/bak/box.json
 
-[773ms] youzai.json
+[884ms] youzai.json
 https://raw.githubusercontent.com/fuchenyouzai/tg-youzaifuchenbot/a95d49f2758f5d8bbb45bfe6f974c329922e2b02/lib/jar/youzai.json
 
-[655ms] 高天流云.json
+[830ms] 高天流云.json
 https://raw.githubusercontent.com/lubin776/0/eef266f7ed3b552f78642d79090ea6420a8c4d74/tvbox/高天流云.json
 
-[741ms] xcz.json
+[817ms] xcz.json
 https://raw.githubusercontent.com/rrzt/homeday/b3216e3721d59a37f3f5407b1ee672b87b5aa2a8/json/xcz.json
 
-[601ms] 虎斑.json
+[745ms] 虎斑.json
 https://raw.githubusercontent.com/lubin776/0/eef266f7ed3b552f78642d79090ea6420a8c4d74/tvbox/虎斑.json
 
-[598ms] og.json
+[773ms] og.json
 https://raw.githubusercontent.com/hy5528/tvbox/bcc756e4f86efa54eddc2f8e2583fff5bd3ddb8e/og.json
 
-[646ms] 肥猫二线.json
+[465ms] 肥猫二线.json
 https://raw.githubusercontent.com/lubin776/0/eef266f7ed3b552f78642d79090ea6420a8c4d74/tvbox/肥猫二线.json
 
-[690ms] 小米二线.json
+[462ms] 小米二线.json
 https://raw.githubusercontent.com/lubin776/0/eef266f7ed3b552f78642d79090ea6420a8c4d74/tvbox/小米二线.json
 
-[873ms] XS.json
+[472ms] XS.json
 https://raw.githubusercontent.com/jixiejishu/zytzx/c3ee1626578399f5e2fd0d871b5f2fcbb2bdb715/XS.json
 
-[917ms] z-0706.json
+[507ms] z-0706.json
 https://raw.githubusercontent.com/franksun1211/TVBOX/94922ace0189c1115e671eba2f006c12c8ef9c84/z-0706.json
 
-[875ms] z-2K24.json
+[466ms] z-2K24.json
 https://raw.githubusercontent.com/franksun1211/TVBOX/94922ace0189c1115e671eba2f006c12c8ef9c84/z-2K24.json
 
-[825ms] z-0706-old.json
+[534ms] z-0706-old.json
 https://raw.githubusercontent.com/franksun1211/TVBOX/94922ace0189c1115e671eba2f006c12c8ef9c84/z-0706-old.json
 
-[818ms] spider.json
+[494ms] spider.json
 https://raw.githubusercontent.com/loikeo/loikeo.github.io/fdb854a50d67e03b09705f0ec5585938b915b7b8/spider.json
 
-[763ms] api.json
+[635ms] api.json
 https://raw.githubusercontent.com/ssdewa/xiao/f9ac4c13872c35e871e3a17a15060d0e7ddfcb2f/TVBoxOSC/tvbox/api.json
 
-[731ms] gxfcm.json
+[484ms] gxfcm.json
 https://raw.githubusercontent.com/vip1058116/oppo/3443011010bc87e7bebfe8c408a6ba20ecc64150/gxfcm.json
 
-[788ms] 宜优精选.json
+[498ms] 宜优精选.json
 https://raw.githubusercontent.com/laozheng520/jk/094b581dc7336552667cc3c41650e8a96d70cd9e/宜优精选.json
 
-[727ms] api.json
+[453ms] api.json
 https://raw.githubusercontent.com/hjcmcn/z/85018a7228dc7503481f3b0ba53fed774f10a367/api.json
 
-[945ms] 921.json
+[485ms] 921.json
 https://raw.githubusercontent.com/hjcmcn/z/85018a7228dc7503481f3b0ba53fed774f10a367/921.json
 
-[716ms] zjb.json
+[486ms] zjb.json
 https://raw.githubusercontent.com/hnzjb/tvplayer/7207ace0c876880fdd1029ac709d86fbcbc3afbb/zjb.json
 
-[750ms] js.json
+[466ms] js.json
 https://raw.githubusercontent.com/ne7359/tvurl/901f22d965fae12023f175d94a9526ff2b95d31e/js.json
 
-[577ms] AAAAA.json
+[526ms] AAAAA.json
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/0ba4d038915e9fe2f01887c8504280e11d8d16b2/AAAAA.json
 
-[731ms] 蝴蝶影视纯净版2la.json
+[527ms] 蝴蝶影视纯净版2la.json
 https://raw.githubusercontent.com/yang2048/combine/8f6aae23a7c21edb22187f4c97e67f90dd5013ed/datas/蝴蝶影视纯净版2la.json
 
-[1124ms] api.json
+[523ms] api.json
 https://raw.githubusercontent.com/jieray/tvapi/bec98db1cd877eb5a72946f5f5b90ebf7eb2c04d/XM/api.json
 
-[729ms] XYQ.json
+[526ms] XYQ.json
 https://raw.githubusercontent.com/Tuh553/tvconfig/42fb17aabe480f9bf624b6eff40c03253c898297/xyq/XYQ.json
 
-[733ms] api.json
+[747ms] api.json
 https://raw.githubusercontent.com/chengxue2020/Cat-ports/422ee53167adebf2f22d708bc9e38e594ccd3eed/TVBox/0-QiQi/小虎斑/api.json
 
-[1041ms] B0126.json
+[505ms] B0126.json
 https://raw.githubusercontent.com/muzhiye/box/fc4e1b2c4d367f0e4091c5a6f5004a4e1f7bbe53/B0126.json
 
-[990ms] lems.json
+[575ms] lems.json
 https://raw.githubusercontent.com/n3rddd/N3RD/d98443a2b728a9999cd9253bf30dd8a00253f0ee/JN/lems.json
 
-[732ms] 2.json
+[703ms] 2.json
 https://raw.githubusercontent.com/frxz751113/IPTVzb1/0ba4d038915e9fe2f01887c8504280e11d8d16b2/2.json
 
-[699ms] XYQTVBox.json
+[458ms] XYQTVBox.json
 https://raw.githubusercontent.com/xyq254245/xyqonlinerule/e72edb16454dbecc32af5f6bdd7a315a63d8792b/XYQTVBox.json
 
-[984ms] ok.json
+[461ms] ok.json
 https://raw.githubusercontent.com/cyao2q/files/c0ffe93dc110fd4f3f703a7dc07cd1f3fb97d91c/ok.json
 
-[704ms] XC.json
+[497ms] XC.json
 https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/33ed2014604444a3ac11a2681bbf45badeee0628/aa999ok/CK/009/XC.json
 
-[781ms] api.json
+[496ms] api.json
 https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/33ed2014604444a3ac11a2681bbf45badeee0628/leexuben/api.json
 
-[807ms] dianshi.json
+[596ms] dianshi.json
 https://raw.githubusercontent.com/lw8500/TVideoadd/b7629c665bfa68d6604a0b3b6bafa6284406320f/dianshi.json
 
-[1028ms] 189189.json
+[516ms] 189189.json
 https://raw.githubusercontent.com/KeoAnn/KeoAnn/dfd05fbbf9242a35d746809629accbce5878b9c2/189189.json
 
-[501ms] Lite-副本0803.json
+[504ms] Lite-副本0803.json
 https://raw.githubusercontent.com/slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite-副本0803.json
 
-[554ms] Lite-副本260425.json
+[462ms] Lite-副本260425.json
 https://raw.githubusercontent.com/slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite-副本260425.json
 
-[500ms] Lite.json
+[456ms] Lite.json
 https://raw.githubusercontent.com/slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite.json
 
-[495ms] feimao.json
+[488ms] feimao.json
 https://raw.githubusercontent.com/zzq1234567890/tvbox1/224b189f4cb89c5e4a9a0eae01bcd07722675318/feimao.json
 
-[518ms] K_x_75850.json
+[668ms] K_x_75850.json
 https://raw.githubusercontent.com/kuby007/temp/38ebd2770573e18aa3a4a84fab72da71efd24707/json/K_x_75850.json
 
-[679ms] K_n_31784.json
+[504ms] K_n_31784.json
 https://raw.githubusercontent.com/kuby007/temp/38ebd2770573e18aa3a4a84fab72da71efd24707/json/K_n_31784.json
 
-[659ms] api.json
+[514ms] api.json
 https://raw.githubusercontent.com/purepoorx/my-favorite-repos/35dcd691cf124ad8b6f76e5f531916047dfff7b5/github.com_yuanwangokk-1_TV-BOX_main/备份/tvboxTW/本地【南风线路】/api.json
 
-[668ms] dr2.json
+[510ms] dr2.json
 https://raw.githubusercontent.com/jak0099/dr/f2aa3691d11a6e198714fe14d445341576cba193/dr2.json
 
-[638ms] xiaoge2.json
+[520ms] xiaoge2.json
 https://raw.githubusercontent.com/petershajs/tsbox/bb61e6c856baa684b193e7db68ebe07c724d9d3e/xiaoge2.json
 
-[620ms] xxxk.json
+[500ms] xxxk.json
 https://raw.githubusercontent.com/xiaoran67/update/fd78c026eb9c42d0b6a536e0f137e9a1127573a4/assets/subscribe/tvbox/json/a/xxxk.json
 
-[537ms] max.json
+[458ms] max.json
 https://raw.githubusercontent.com/guot55/yg/0e6ace4a7aafe49cf2b12d718f0b8cb11eeee6eb/max.json
 
-[549ms] bh.json
+[621ms] bh.json
 https://raw.githubusercontent.com/guot55/yg/0e6ace4a7aafe49cf2b12d718f0b8cb11eeee6eb/pg/bh.json
 
-[788ms] vip.json
+[475ms] vip.json
 https://raw.githubusercontent.com/nesszby/cla/e455a31e8eab0b57db32d8c7d7e7e09ac00baf84/vip.json
 
-[1072ms] 118.json
+[495ms] 118.json
 https://raw.githubusercontent.com/hjcmx/c/e242f3671ab6ac5a254d404a08264ffa7357c0c8/118.json
 
-[735ms] api.json
+[684ms] api.json
 https://raw.githubusercontent.com/ssy151/ysc/06b4959852e82f97ac3020e027d21c3ab0ae3f9f/2019/南风/api.json
 
-[672ms] api.json
+[501ms] api.json
 https://raw.githubusercontent.com/franksun1211/TXT/8e2ae871dc243be757de9ef19438e3c6a9270e44/TVbox/tvbox-xiaosa/api.json
 
-[870ms] api.json
+[512ms] api.json
 https://raw.githubusercontent.com/kimwang1978/tvbox/b8794a1cc63438b8880b298bdff6fc6bbaf64a15/OK/api.json
 
-[821ms] demo.json
+[490ms] demo.json
 https://raw.githubusercontent.com/guot55/YGBH/154217e727ed2b5d01cddfdaa7821c1d9955359a/pro/demo.json
 
-[699ms] feimao.json
+[880ms] feimao.json
 https://raw.githubusercontent.com/xtv1/atv/5a03732659f1483ed4f1bf670c65e692c0b75624/AA999OK/CK/013/feimao.json
 
-[768ms] jj.json
+[548ms] jj.json
 https://raw.githubusercontent.com/huangxiaozhou/tvbox/cb9bb7f06cfa146fbc8c35190818e95f34986316/jj.json
 
-[669ms] cs.json
+[485ms] cs.json
 https://raw.githubusercontent.com/666tv/v3/949c19df1af796644cc2cd8792f2f188ff631df5/cs.json
 
-[650ms] demo.json
+[494ms] demo.json
 https://raw.githubusercontent.com/lc529180405/caicai/bdd2d7b2df82226cddc3bacc351d62acdcdcde17/vox/demo.json
 
-[741ms] 20251010-new3.json
+[693ms] 20251010-new3.json
 https://raw.githubusercontent.com/Mrish9527/tv/08537fed45b1a0f8ceff1ecee2ad4e7c46964036/20251010-new3.json
 
-[683ms] a.json
+[689ms] a.json
 https://raw.githubusercontent.com/iswhat/list/9ae7bf51561fef41ce7e5f028e1e4648fe5ff2cf/base2/a.json
 
-[542ms] 影视.json
+[506ms] 影视.json
 https://raw.githubusercontent.com/wgej66/wgej/dfe19645e9673685f7ece54df9e2e91504aa72a0/影视.json
 
-[531ms] box.json
+[712ms] box.json
 https://raw.githubusercontent.com/cluntop/tv/6a8056a11e27b6ce72cd03570e49f2a8fbdc96bb/box.json
 
-[734ms] box.json
+[698ms] box.json
 https://raw.githubusercontent.com/wgej66/wgej/dfe19645e9673685f7ece54df9e2e91504aa72a0/66/box.json
 
-[859ms] svip.json
+[1150ms] svip.json
 https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/6511f7823549d5dce002e809dc048c2ff8d43fc1/svip.json
 
-[709ms] jjzx.json
+[1010ms] jjzx.json
 https://raw.githubusercontent.com/AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/18011/jjzx.json
 
-[736ms] 仅供测试.json
+[540ms] 仅供测试.json
 https://raw.githubusercontent.com/AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/011/仅供测试.json
 
-[627ms] box.json
+[563ms] box.json
 https://raw.githubusercontent.com/AndroidSoftwares/box/18283e6e8da1e502c7c66d23af37e071079cdd98/box.json
 
-[644ms] daozhang.json
+[682ms] daozhang.json
 https://raw.githubusercontent.com/AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/002/daozhang.json
 
-[673ms] m_20250808012919.json
+[642ms] m_20250808012919.json
 https://raw.githubusercontent.com/hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/m_20250808012919.json
 
-[1407ms] box.json
+[717ms] box.json
 https://raw.githubusercontent.com/ewctt/tvbox/0aa17ed74d8975da3891dd04763835c545735730/box.json
 
-[716ms] xiangyaqing.json
+[608ms] xiangyaqing.json
 https://raw.githubusercontent.com/clover168/ysjk/0196339165746bbf59d7ac016015743d7284a608/多多/tvbox/xiangyaqing/xiangyaqing.json
 
-[620ms] fav.json
+[720ms] fav.json
 https://raw.githubusercontent.com/s14685/tv/ba297bfa6cc669ab89a55dc8c543831af1c022c4/fav.json
 
-[979ms] api.json
+[758ms] api.json
 https://raw.githubusercontent.com/clover168/tianwei/101bd2da089361e652fce199b1f357b5501dd0f3/【潇洒线路】/api.json
 
-[774ms] api.json
+[629ms] api.json
 https://raw.githubusercontent.com/clover168/ysjk/0196339165746bbf59d7ac016015743d7284a608/天微/tvboxTW/【拾光线路】/api.json
 
-[743ms] XYQ.json
+[777ms] XYQ.json
 https://raw.githubusercontent.com/hkuc/tvbox-config/cfa5b2877bc631ff611ecb7bec94b788988b9657/tv/5/XYQ.json
 
-[742ms] js.json
+[625ms] js.json
 https://raw.githubusercontent.com/hkuc/tvbox-config/cfa5b2877bc631ff611ecb7bec94b788988b9657/tv/2/js.json
 
-[881ms] api.json
+[578ms] api.json
 https://raw.githubusercontent.com/ZTHA000/tvbox/12e93dcd2dda6f30af56dea8fd6f43a304a91ba9/th/api.json
 
-[840ms] dr2.json
+[564ms] dr2.json
 https://raw.githubusercontent.com/jak0099/dr/f2aa3691d11a6e198714fe14d445341576cba193/jk/dr2.json
 
-[801ms] 000.json
+[572ms] 000.json
 https://raw.githubusercontent.com/maoystv/TV/045d8532daf63ccb18c97c3c096494c74f8bede3/jar/000.json
 
-[764ms] vod.json
+[526ms] vod.json
 https://raw.githubusercontent.com/pandaqingliu/src/253afdda9217584767512b7f1e3c3aee84630d2c/vod/vod.json
 
-[736ms] 影视.json
+[492ms] 影视.json
 https://raw.githubusercontent.com/jieray/TS/9b10db378db80fa5a77a8e443889f62a0720437c/影视.json
 
-[556ms] fty.json
+[482ms] fty.json
 https://raw.githubusercontent.com/shichuanenhui/TvBox/244c9d86055f93ad73cd8590030932f0c5f79e0e/fty.json
 
