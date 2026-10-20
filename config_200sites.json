@@ -10,8 +10,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {"key":"T4_tmdb_d2","name":"🏠T4聚合imdb调试local","type":4,"api":"http://192.168.186.198:16214/home/tmdb","searchable":1,"quickSearch":1,"filterable":1},
-
+    //{"key":"T4_tmdb_d2","name":"🏠T4聚合imdb调试local","type":4,"api":"http://192.168.186.198:16214/home/tmdb","searchable":1,"quickSearch":1,"filterable":1},
     {
       "key": "T4_tmdb_bak",
       "name": "🏠T4聚合tmdb",
