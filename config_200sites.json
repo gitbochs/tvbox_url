@@ -5,10 +5,20 @@
   "key": "T4-cs",
   "name": "CloudStream源",
   "type": 4,
+  "api": "http://67.216.219.230:16214/home/cs",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1
+},
+     "sites": [
+    {
+  "key": "T4-cs-locate",
+  "name": "CloudStream源locate",
+  "type": 4,
   "api": "http://192.168.186.198:16214/home/cs",
   "searchable": 1,
   "quickSearch": 1,
-  "filterable": 0
+  "filterable": 1
 },
     {
       "key": "T4_douban_bak",
