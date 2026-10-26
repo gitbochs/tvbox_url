@@ -5,7 +5,7 @@
   "key": "T4-cs",
   "name": "CloudStream源",
   "type": 4,
-  "api": "http://你的IP:16214/home/cs",
+  "api": "http://192.168.186.198:16214/home/cs",
   "searchable": 1,
   "quickSearch": 1,
   "filterable": 0
