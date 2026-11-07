@@ -1,301 +1,301 @@
-# 2026-11-04 20:58:00
+# 2026-11-07 20:30:42
 9m.json
 https://ghfast.top/https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/9m.json
 
-[1316ms] X.json
+[973ms] X.json
 https://ghfast.top/https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/X.json
 
-[1385ms] aw.json
-https://raw.githubusercontent.com/ZHOUYU86/tvbox-sources/19e197dc2e9bcedd2e7a80a166f8c4895efac4f2/zhenxin/aowu/aw.json
+[829ms] box.json
+https://raw.githubusercontent.com/WaykeYu/gotv/0fd834de4b4c15cbb88fb92bc4b1a9e323059521/box.json
 
-[1189ms] 天神.json
-https://raw.githubusercontent.com/lubin776/tvbox-api-backup/8149cfdf980a5046774486ac3fc6c6f0c9d128a7/tvbox/天神.json
+[877ms] jsm.json
+https://raw.githubusercontent.com/zzq1234567890/tvbox1/c67160ddf12c1d4f5f5a463cc67daaeffa1f3beb/jsm.json
 
-[1292ms] xsapi.json
+[836ms] aw.json
+https://raw.githubusercontent.com/ZHOUYU86/tvbox-sources/46b47fadf218b37fab29c0582d0afb25a68fcf32/zhenxin/aowu/aw.json
+
+[859ms] og.json
+https://raw.githubusercontent.com/hy5528/tvbox/6a3795293579fd7a1451c80fee2cb8890847134e/og.json
+
+[797ms] aowu.json
+https://raw.githubusercontent.com/ls125781003/tbapi2/8ddac7e9573f3c711ddfc5d53f9c17251b9e9f63/aowu/aowu.json
+
+[835ms] api.json
+https://raw.githubusercontent.com/ls125781003/tbapi1/96d5ac6fe642db33b03c7e72b9d29fa8c7ee2522/XM/api.json
+
+[838ms] api.json
+https://raw.githubusercontent.com/xyg2233/PizazzXS/ed2e7591e89e8cb7def6160558fc180c5784fda4/单线路文件/TVBoxOSC/tvbox/api.json
+
+[763ms] xsapi.json
 https://raw.githubusercontent.com/jixiejishu/zytzx/ef0d8ce1a08bb4ef250feb32788b1deae012236c/xsapi.json
 
-[1287ms] feimao.json
-https://raw.githubusercontent.com/JianghaoPi/my-tvbox-sources/951450c1f82f984f9e4ae35f6ea8c85a1b928bbf/output/feimao.json
+[548ms] feimao.json
+https://raw.githubusercontent.com/JianghaoPi/my-tvbox-sources/3bb692f33994fa4ab47ecf09c3bb1c15ae4930f7/output/feimao.json
 
-[1192ms] 嗷呜2线.json
-https://raw.githubusercontent.com/lubin776/0/fdcdc0ffa530babef0a7c159632dc39e570c2823/tvbox/嗷呜2线.json
-
-[1191ms] 周J.json
-https://raw.githubusercontent.com/lubin776/0/fdcdc0ffa530babef0a7c159632dc39e570c2823/tvbox/周J.json
-
-[1167ms] api.json
+[461ms] api.json
 https://raw.githubusercontent.com/huangxinyueus/dby/e3f9345f96737f4ad83ceefbe2b7ad85cef20962/DG/影视仓/api.json
 
-[1364ms] box.json
-https://raw.githubusercontent.com/WaykeYu/gotv/51f9337701ce9bb95691c23434ce83ae06b009bd/box.json
+[506ms] laoliubei.json
+https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/249400dc2d4a7c9aa9d21277292dd9047bd86018/output/laoliubei.json
 
-[825ms] laoliubei.json
-https://raw.githubusercontent.com/Lightconer/tvbox-ysc-config/cbb1ef593348b3f4257b5ae59eff0169ba06ba8a/output/laoliubei.json
+[505ms] cluntop_box__061025.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/snapshot/2026-10-15/cluntop_box__061025.json
 
-[724ms] jsm.json
-https://raw.githubusercontent.com/zzq1234567890/tvbox1/6aa12d9700950947f6a9c370dc96013983ee230d/jsm.json
+[472ms] auto_40-153s__061025.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/snapshot/2026-10-15/auto_40-153s__061025.json
 
-[498ms] cluntop_box__061025.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/snapshot/2026-10-15/cluntop_box__061025.json
+[512ms] m.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/history/2026-10-14/m.json
 
-[828ms] auto_40-153s__061025.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/snapshot/2026-10-15/auto_40-153s__061025.json
+[486ms] gao_XYQ__061025.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/snapshot/2026-10-15/gao_XYQ__061025.json
 
-[724ms] m.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/history/2026-10-14/m.json
-
-[679ms] gao_XYQ__061025.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/snapshot/2026-10-15/gao_XYQ__061025.json
-
-[660ms] auto_86-76s__061025.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/snapshot/2026-10-15/auto_86-76s__061025.json
+[460ms] auto_86-76s__061025.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/snapshot/2026-10-15/auto_86-76s__061025.json
 
 cloud-sites~6a8221.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/cloud-sites%7E6a8221.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/cloud-sites%7E6a8221.json
 
-[658ms] js.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/js.json
+[460ms] js.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/js.json
 
-[625ms] 4k~d0914c.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/4k%7Ed0914c.json
+[442ms] 4k~d0914c.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/4k%7Ed0914c.json
 
-[710ms] jsm~bc7784.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/jsm%7Ebc7784.json
+[470ms] jsm~bc7784.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/jsm%7Ebc7784.json
 
-[645ms] hb.json
+[482ms] hb.json
 https://raw.githubusercontent.com/DodgeZhang/tvbox/8774113b07fca665aea12680fb1a082571446df4/huban/hb.json
 
-[632ms] py~37b0e1.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/py%7E37b0e1.json
+[455ms] py~37b0e1.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/py%7E37b0e1.json
 
-[643ms] api~b2b297.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/api%7Eb2b297.json
+[456ms] api~b2b297.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/api%7Eb2b297.json
 
-[669ms] m~2cbce3.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/m%7E2cbce3.json
+[487ms] m~2cbce3.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/m%7E2cbce3.json
 
-[653ms] vox.json
+[1150ms] vox.json
 https://raw.githubusercontent.com/DodgeZhang/tvbox/8774113b07fca665aea12680fb1a082571446df4/vox/vox.json
 
-[659ms] gh-proxy.json
+[651ms] gh-proxy.json
 https://raw.githubusercontent.com/Mrish9527/api/880bd5451e37a1fc8998ea651ca535efdb7c106d/gh-proxy.json
 
-[583ms] jsm~4b28a0.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/history/2026-10-06/jsm%7E4b28a0.json
+[470ms] jsm~4b28a0.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/history/2026-10-06/jsm%7E4b28a0.json
 
-[833ms] ok~e0af07.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/ok%7Ee0af07.json
+[460ms] ok~e0af07.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/ok%7Ee0af07.json
 
-[625ms] feimao.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/feimao.json
+[439ms] feimao.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/feimao.json
 
-[607ms] adult.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/adult.json
+[452ms] adult.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/adult.json
 
-[749ms] api~392b86.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/api%7E392b86.json
+[451ms] api~392b86.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/api%7E392b86.json
 
-[729ms] src_backup.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/history/2026-10-02/src_backup.json
+[476ms] src_backup.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/history/2026-10-02/src_backup.json
 
-[649ms] 112~1ef940.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/112%7E1ef940.json
+[442ms] 112~1ef940.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/112%7E1ef940.json
 
-[632ms] config~dfc088.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/raw/vod/config%7Edfc088.json
+[471ms] config~dfc088.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/raw/vod/config%7Edfc088.json
 
-[784ms] b9ccbbea23-tvbox.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/deps/external/b9ccbbea23-tvbox.json
+[443ms] b9ccbbea23-tvbox.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/deps/external/b9ccbbea23-tvbox.json
 
-[733ms] 06d5800622-api.json
-https://raw.githubusercontent.com/hebijunge/tvbox-config/88b44618dfbe4a080e8fd5bc113adbb43ad66334/deps/external/06d5800622-api.json
+[476ms] 06d5800622-api.json
+https://raw.githubusercontent.com/hebijunge/tvbox-config/387df124fe3932bd4edc5db2aa185b7329070cf9/deps/external/06d5800622-api.json
 
-[575ms] xs.json
+[771ms] xs.json
 https://raw.githubusercontent.com/cyao2q/files/c0ffe93dc110fd4f3f703a7dc07cd1f3fb97d91c/xs.json
 
-[728ms] api.json
-https://raw.githubusercontent.com/Supprise0901/api/d9cbc0df2747beb345fa52f5df6f035373eedd10/api.json
+[509ms] api.json
+https://raw.githubusercontent.com/Supprise0901/api/a4e21e32b3c53da72246a7072ad5e5c9ae2a2b50/api.json
 
-[1038ms] qist_jsm.json
+[459ms] qist_jsm.json
 https://raw.githubusercontent.com/hengge345666/tvbox-subs/a4a5f8a16bbcd5f356234718aee3f59123029683/mirror/qist_jsm.json
 
-[973ms] jsm.json
+[442ms] jsm.json
 https://raw.githubusercontent.com/serein2494/SereinBox18/de6a615021444b8d7d98953d2e41f0170de3e80d/lib/jsm.json
 
-[1022ms] api.json
+[451ms] api.json
 https://raw.githubusercontent.com/w0878512-glitch/tvbox-config/c2af3adbadcb015da194e71c8dd6f0947f343de4/xiaosa/api.json
 
-[899ms] catcr.json
+[440ms] catcr.json
 https://raw.githubusercontent.com/88168/IPTV/5a205716d5c95d613d5bc6f0f8bcc25ac9c1024b/xyq/catcr.json
 
-[669ms] box.json
-https://raw.githubusercontent.com/alantang1977/aj/fb6c4e2bd9368879b707bab6d09baa343a662e0e/bak/box.json
+[482ms] box.json
+https://raw.githubusercontent.com/alantang1977/aj/d644c29d906436b56577fd7b8e43e5cd8d36e90a/bak/box.json
 
-[615ms] xcz.json
+[453ms] xcz.json
 https://raw.githubusercontent.com/rrzt/homeday/b3216e3721d59a37f3f5407b1ee672b87b5aa2a8/json/xcz.json
 
-[873ms] XS.json
+[431ms] XS.json
 https://raw.githubusercontent.com/jixiejishu/zytzx/ef0d8ce1a08bb4ef250feb32788b1deae012236c/XS.json
 
-[608ms] z-0706.json
-https://raw.githubusercontent.com/franksun1211/TVBOX/b051e47583998a337eb42c5750a392e4578c1476/z-0706.json
+[474ms] z-0706.json
+https://raw.githubusercontent.com/franksun1211/TVBOX/530d93afe1f588bd7da68fbc102a1ca1a0841daf/z-0706.json
 
-[660ms] z-2K24.json
-https://raw.githubusercontent.com/franksun1211/TVBOX/b051e47583998a337eb42c5750a392e4578c1476/z-2K24.json
+[462ms] z-2K24.json
+https://raw.githubusercontent.com/franksun1211/TVBOX/530d93afe1f588bd7da68fbc102a1ca1a0841daf/z-2K24.json
 
-[570ms] z-0706-old.json
-https://raw.githubusercontent.com/franksun1211/TVBOX/b051e47583998a337eb42c5750a392e4578c1476/z-0706-old.json
+[475ms] z-0706-old.json
+https://raw.githubusercontent.com/franksun1211/TVBOX/530d93afe1f588bd7da68fbc102a1ca1a0841daf/z-0706-old.json
 
-[851ms] spider.json
+[482ms] spider.json
 https://raw.githubusercontent.com/loikeo/loikeo.github.io/fdb854a50d67e03b09705f0ec5585938b915b7b8/spider.json
 
-[651ms] gxfcm.json
-https://raw.githubusercontent.com/vip1058116/oppo/3443011010bc87e7bebfe8c408a6ba20ecc64150/gxfcm.json
+[540ms] gxfcm.json
+https://raw.githubusercontent.com/vip1058116/oppo/cd25c309ba52e448ebe94e465166d882e2c8e1a4/gxfcm.json
 
-[669ms] 宜优精选.json
-https://raw.githubusercontent.com/laozheng520/jk/61e526be10842a41609f9fd2155b31441a28a4da/宜优精选.json
+[500ms] 宜优精选.json
+https://raw.githubusercontent.com/laozheng520/jk/afc8f55d30c51cddeeb6968ab434f0294d195626/宜优精选.json
 
-[642ms] api.json
+[487ms] api.json
 https://raw.githubusercontent.com/hjcmcn/z/0516548776a7b9b20fdaac26fecc0209f00f3163/api.json
 
-[649ms] zjb.json
+[467ms] zjb.json
 https://raw.githubusercontent.com/hnzjb/tvplayer/7207ace0c876880fdd1029ac709d86fbcbc3afbb/zjb.json
 
-[723ms] js.json
-https://raw.githubusercontent.com/ne7359/tvurl/68a895eaa40b3aba6d775cab35574a7415b59fbd/js.json
+[916ms] js.json
+https://raw.githubusercontent.com/ne7359/tvurl/86ed048b622150eb7bb2c1b6a3292934f55a2bd9/js.json
 
-[656ms] 蝴蝶影视纯净版2la.json
+[1025ms] 蝴蝶影视纯净版2la.json
 https://raw.githubusercontent.com/yang2048/combine/8f6aae23a7c21edb22187f4c97e67f90dd5013ed/datas/蝴蝶影视纯净版2la.json
 
-[809ms] api.json
+[446ms] api.json
 https://raw.githubusercontent.com/jieray/tvapi/bec98db1cd877eb5a72946f5f5b90ebf7eb2c04d/XM/api.json
 
-[888ms] XYQ.json
+[454ms] XYQ.json
 https://raw.githubusercontent.com/Tuh553/tvconfig/42fb17aabe480f9bf624b6eff40c03253c898297/xyq/XYQ.json
 
-[658ms] B0126.json
+[448ms] B0126.json
 https://raw.githubusercontent.com/muzhiye/box/fc4e1b2c4d367f0e4091c5a6f5004a4e1f7bbe53/B0126.json
 
-[606ms] XYQTVBox.json
+[447ms] XYQTVBox.json
 https://raw.githubusercontent.com/xyq254245/xyqonlinerule/e72edb16454dbecc32af5f6bdd7a315a63d8792b/XYQTVBox.json
 
-[1116ms] ok.json
+[463ms] ok.json
 https://raw.githubusercontent.com/cyao2q/files/c0ffe93dc110fd4f3f703a7dc07cd1f3fb97d91c/ok.json
 
-[622ms] XC.json
-https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/9e7aa0587ca2933ecc3852ef022319a8d4340df5/aa999ok/CK/009/XC.json
+[672ms] XC.json
+https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/50d755620271084fc7a53b8fe7d23ae031c362f9/aa999ok/CK/009/XC.json
 
-[711ms] api.json
-https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/9e7aa0587ca2933ecc3852ef022319a8d4340df5/leexuben/api.json
+[497ms] api.json
+https://raw.githubusercontent.com/woshishiq1/hipy-drpy2/50d755620271084fc7a53b8fe7d23ae031c362f9/leexuben/api.json
 
-[700ms] 189189.json
+[458ms] 189189.json
 https://raw.githubusercontent.com/KeoAnn/KeoAnn/dfd05fbbf9242a35d746809629accbce5878b9c2/189189.json
 
-[980ms] Lite-副本0803.json
+[452ms] Lite-副本0803.json
 https://raw.githubusercontent.com/slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite-副本0803.json
 
-[628ms] Lite-副本260425.json
+[451ms] Lite-副本260425.json
 https://raw.githubusercontent.com/slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite-副本260425.json
 
-[546ms] Lite.json
+[446ms] Lite.json
 https://raw.githubusercontent.com/slasjh/cy/70c71a2e0e672c5fc765df225e6702e4ff4500b5/Lite.json
 
-[612ms] feimao.json
-https://raw.githubusercontent.com/zzq1234567890/tvbox1/6aa12d9700950947f6a9c370dc96013983ee230d/feimao.json
+[450ms] feimao.json
+https://raw.githubusercontent.com/zzq1234567890/tvbox1/c67160ddf12c1d4f5f5a463cc67daaeffa1f3beb/feimao.json
 
-[589ms] K_n_31784.json
+[461ms] K_n_31784.json
 https://raw.githubusercontent.com/kuby007/temp/eae45966f133e167a5efb437219f11c1b46f6466/json/K_n_31784.json
 
-[586ms] api.json
+[447ms] api.json
 https://raw.githubusercontent.com/purepoorx/my-favorite-repos/35dcd691cf124ad8b6f76e5f531916047dfff7b5/github.com_yuanwangokk-1_TV-BOX_main/备份/tvboxTW/本地【南风线路】/api.json
 
-[738ms] dr2.json
+[501ms] dr2.json
 https://raw.githubusercontent.com/jak0099/dr/f2aa3691d11a6e198714fe14d445341576cba193/dr2.json
 
-[654ms] max.json
+[433ms] max.json
 https://raw.githubusercontent.com/guot55/yg/0e6ace4a7aafe49cf2b12d718f0b8cb11eeee6eb/max.json
 
-[477ms] bh.json
+[431ms] bh.json
 https://raw.githubusercontent.com/guot55/yg/0e6ace4a7aafe49cf2b12d718f0b8cb11eeee6eb/pg/bh.json
 
-[572ms] vip.json
+[443ms] vip.json
 https://raw.githubusercontent.com/nesszby/cla/e455a31e8eab0b57db32d8c7d7e7e09ac00baf84/vip.json
 
-[529ms] 118.json
+[432ms] 118.json
 https://raw.githubusercontent.com/hjcmc/a/5a9b37465d0b27680dc0947318b35b4df2961ee1/118.json
 
-[527ms] api.json
+[447ms] api.json
 https://raw.githubusercontent.com/ssy151/ysc/06b4959852e82f97ac3020e027d21c3ab0ae3f9f/2019/南风/api.json
 
-[491ms] api.json
-https://raw.githubusercontent.com/franksun1211/TXT/8e2ae871dc243be757de9ef19438e3c6a9270e44/TVbox/tvbox-xiaosa/api.json
+[482ms] api.json
+https://raw.githubusercontent.com/franksun1211/TXT/77fbe154574ced247466a21168c79c9144f3358b/TVbox/tvbox-xiaosa/api.json
 
-[501ms] api.json
+[751ms] api.json
 https://raw.githubusercontent.com/kimwang1978/tvbox/b8794a1cc63438b8880b298bdff6fc6bbaf64a15/OK/api.json
 
-[742ms] feimao.json
+[434ms] feimao.json
 https://raw.githubusercontent.com/xtv1/atv/44e96e29013a5c313207ee9f29b72f729d91e06c/AA999OK/CK/013/feimao.json
 
-[643ms] jj.json
+[502ms] jj.json
 https://raw.githubusercontent.com/huangxiaozhou/tvbox/cb9bb7f06cfa146fbc8c35190818e95f34986316/jj.json
 
-[609ms] cs.json
+[427ms] cs.json
 https://raw.githubusercontent.com/666tv/v3/949c19df1af796644cc2cd8792f2f188ff631df5/cs.json
 
-[932ms] 20251010-new3.json
+[508ms] 20251010-new3.json
 https://raw.githubusercontent.com/Mrish9527/tv/08537fed45b1a0f8ceff1ecee2ad4e7c46964036/20251010-new3.json
 
-[622ms] a.json
+[441ms] a.json
 https://raw.githubusercontent.com/iswhat/list/cff9fbf355ba219028dcc621bc9ca501e13fb0ba/base2/a.json
 
-[829ms] box.json
+[459ms] box.json
 https://raw.githubusercontent.com/cluntop/tv/6a8056a11e27b6ce72cd03570e49f2a8fbdc96bb/box.json
 
-[756ms] box.json
+[440ms] box.json
 https://raw.githubusercontent.com/wgej66/wgej/dfe19645e9673685f7ece54df9e2e91504aa72a0/66/box.json
 
-[747ms] svip.json
+[458ms] svip.json
 https://raw.githubusercontent.com/jj00780078/jj00780078.github.io/ce7325bbda465938ec2de0e4e21967bf0f234b8d/svip.json
 
-[630ms] jjzx.json
+[501ms] jjzx.json
 https://raw.githubusercontent.com/AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/18011/jjzx.json
 
-[536ms] 仅供测试.json
+[507ms] 仅供测试.json
 https://raw.githubusercontent.com/AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/011/仅供测试.json
 
-[686ms] box.json
+[461ms] box.json
 https://raw.githubusercontent.com/AndroidSoftwares/box/18283e6e8da1e502c7c66d23af37e071079cdd98/box.json
 
-[663ms] daozhang.json
+[607ms] daozhang.json
 https://raw.githubusercontent.com/AA999OK/TVBOX/79bb2513c5c470e4614eaaed7b3454be541e9c37/CK/002/daozhang.json
 
-[545ms] m_20250808012919.json
+[589ms] m_20250808012919.json
 https://raw.githubusercontent.com/hkwgit2024/TVBOXZD2/2f1be5add00b6a12488b916e46c3797612543e57/box/m_20250808012919.json
 
-[623ms] box.json
-https://raw.githubusercontent.com/ewctt/tvbox/8460a6abcae5de13fdeafdb13af7d5f82bc8dde2/box.json
+[569ms] box.json
+https://raw.githubusercontent.com/ewctt/tvbox/1d8788d3342c4268bc4fa270abdcde26bfb4e7d8/box.json
 
-[524ms] xiangyaqing.json
+[543ms] xiangyaqing.json
 https://raw.githubusercontent.com/clover168/ysjk/0196339165746bbf59d7ac016015743d7284a608/多多/tvbox/xiangyaqing/xiangyaqing.json
 
-[588ms] XYQ.json
-https://raw.githubusercontent.com/hkuc/tvbox-config/f0e9982de63648853010af86072428cd5e2c544e/tv/5/XYQ.json
+[691ms] XYQ.json
+https://raw.githubusercontent.com/hkuc/tvbox-config/3c891c91ea561ab7f2ee19f46e11fe4d989b17f8/tv/5/XYQ.json
 
-[509ms] XYQ.json
-https://raw.githubusercontent.com/hkuc/tvbox-config/f0e9982de63648853010af86072428cd5e2c544e/tv/6/XYQ.json
+[515ms] XYQ.json
+https://raw.githubusercontent.com/hkuc/tvbox-config/3c891c91ea561ab7f2ee19f46e11fe4d989b17f8/tv/6/XYQ.json
 
-[552ms] api.json
+[440ms] api.json
 https://raw.githubusercontent.com/ZTHA000/tvbox/12e93dcd2dda6f30af56dea8fd6f43a304a91ba9/th/api.json
 
-[599ms] dr2.json
+[552ms] dr2.json
 https://raw.githubusercontent.com/jak0099/dr/f2aa3691d11a6e198714fe14d445341576cba193/jk/dr2.json
 
-[536ms] 000.json
+[513ms] 000.json
 https://raw.githubusercontent.com/maoystv/TV/045d8532daf63ccb18c97c3c096494c74f8bede3/jar/000.json
 
-[526ms] vod.json
+[901ms] vod.json
 https://raw.githubusercontent.com/pandaqingliu/src/253afdda9217584767512b7f1e3c3aee84630d2c/vod/vod.json
-
-[526ms] 影视.json
-https://raw.githubusercontent.com/jieray/TS/9b10db378db80fa5a77a8e443889f62a0720437c/影视.json
 
