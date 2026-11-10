@@ -1,0 +1,11 @@
+{
+  "lives": [
+    {
+      "name": "聚合直播",
+      "type": 0,
+      "url": "./live.txt",
+      "playerType": 1,
+      "ua": "okhttp/3.15"
+    }
+  ]
+}
