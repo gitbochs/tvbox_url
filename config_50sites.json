@@ -29,18 +29,6 @@
       "filterable": 1
     },
     {
-      "key": "Douban",
-      "name": "✨豆瓣✨|08021-A更新",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://github.com/ls125781003/tbapi1/raw/main/WEX/txt/20260414181247-ae51abfbfe.txt",
-      "jar": "./jar/d5012e_spider.jar"
-    },
-    {
       "key": "豆瓣",
       "name": "豆瓣 • 首页",
       "type": 3,

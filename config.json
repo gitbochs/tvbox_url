@@ -29,18 +29,6 @@
       "filterable": 1
     },
     {
-      "key": "Douban",
-      "name": "✨豆瓣✨|08021-A更新",
-      "type": 3,
-      "api": "csp_NewDouBanGuard",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://github.com/ls125781003/tbapi1/raw/main/WEX/txt/20260414181247-ae51abfbfe.txt",
-      "jar": "./jar/d5012e_spider.jar"
-    },
-    {
       "key": "豆瓣",
       "name": "豆瓣 • 首页",
       "type": 3,
@@ -184,6 +172,17 @@
       "filterable": 1,
       "changeable": 1,
       "playerType": 2
+    },
+    {
+      "key": "py_瓜子影视",
+      "name": "💝瓜子┆PY",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py",
+      "order_num": 5,
+      "ext": ""
     },
     {
       "key": "采集┃新4K",
@@ -1222,17 +1221,6 @@
         "港台动漫",
         "海外动漫"
       ]
-    },
-    {
-      "key": "py_瓜子影视",
-      "name": "💝瓜子┆PY",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "https://gh-proxy.org/https://github.com/hy5528/tvbox/blob/main/py/guazi.py",
-      "order_num": 5,
-      "ext": ""
     },
     {
       "key": "vod_新浪",
