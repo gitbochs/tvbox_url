@@ -1,0 +1,168 @@
+/*[{
+"name": "小鸭",
+"server": "http://shicheng.wang:555/",
+"startPage": "/",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "小猫",
+"server": "https://nics.eu.org",
+"startPage": "/SP1",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "小狗电影",
+"server": "https://alist.ccome.site",
+"startPage": "/电影",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "小鸟剧集",
+"server": "https://alist.ccome.site",
+"startPage": "/电视剧1",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+},
+{
+"name": "小象动漫",
+"server": "https://alist.ccome.site",
+"startPage": "/动漫",
+"showAll": false,
+"search": true,
+"params": {
+"/abc": {
+"password": "123"
+},
+"/abc/abc": {
+"password": "123"
+}
+}
+}
+]*/
+{
+  "vodPic": "http://p0.qhimg.com/bdr/__85/t01a3d15d1c3eb047aa.jpg",
+  "drives": [
+{
+            "name": "九仙阁",
+            "server": "https://drive.upan.ee",
+            "params": [
+              {
+                "path": "/OneDrive",
+                "pass": "upan"
+              },
+              {
+                "path": "/115Cloud",
+                "pass": "upan"
+              }
+            ]
+          },
+                    {
+                        "name": "罗汉果",
+                        "server": "https://lala-ofbip.run.goorm.site/"
+                    },
+                    {
+                        "name": "🦆托盘",
+                        "server": "https://pan.mediy.cn/"
+                    },
+                    {
+                        "name": "A大",
+                        "server": "http://alist.qyide.com/"
+                    },
+                    {
+                        "name": "雨呢",
+      "server": "http://pan.clun.top/"    
+                    },                  
+ {
+      "name": "🟢美云",
+      "server": "http://xiaoya.nebula-nas.space:5678/"
+    },
+{
+      "name": "🟢资源站",
+      "server": "https://pan.ecve.cn/"
+    },
+{
+      "name": "🟢学习",
+      "server": "http://45.85.77.23:5244/"
+    },
+{
+      "name": "🟢小陈",
+      "server": "https://pan.oldming.top/"
+    },
+{
+      "name": "🟢ecve资源",
+      "server": "https://pan.ecve.cn/"
+    },
+{
+      "name": "🟢潇洒备用",
+      "server": "http://www.azad.asia:5244/"
+    },
+{"name":"🟡木偶","server":"https://abnormalize.icu/"},
+    {
+      "name": "🟡A大杂物库",
+      "server": "https://alist.qyide.com/"
+    },  
+  {
+      "name": "🟡罗汉果盘",
+      "server": "https://lala-ofbip.run.goorm.site/"
+    },
+ {
+      "name": "🟡爱豆福利",
+      "server": "https://alist.eduedu.eu.org/" 
+   },    
+  {
+      "name": "🟡福利盘",
+      "server": "http://69.161.221.160:5244/"
+    },
+                    {
+         "name": "Puppet Studio里番",
+         "server": "http://abnormalize.icu/"
+                    },                     
+    {
+      "name": "ECVE",
+      "server": "https://pan.ecve.cn"
+    },
+    {
+      "name": "觸光",
+      "server": "https://pan.ichuguang.com"
+    },
+    {
+      "name": "神族九帝",
+      "server": "https://alist.shenzjd.com"
+    }
+  ]
+}
